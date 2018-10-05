@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXTextArea?>
+<?import javafx.scene.Cursor?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Separator?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.text.Font?>
+
+<BorderPane prefHeight="345.0" prefWidth="421.0" style="-fx-background-color: #0021BF;" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="it.unibas.codicefiscale.controllo.InfoAutoriController">
+   <center>
+      <AnchorPane fx:id="avatar" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="365.0" prefWidth="121.0" style="-fx-background-color: #404040;">
+         <children>
+            <ImageView fx:id="vincenzoAvatar" fitHeight="75.0" fitWidth="88.0" layoutX="17.0" layoutY="39.0" pickOnBounds="true" preserveRatio="true" AnchorPane.bottomAnchor="251.0" AnchorPane.leftAnchor="17.0" AnchorPane.rightAnchor="16.0" AnchorPane.topAnchor="39.0">
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor></ImageView>
+            <ImageView fx:id="stafnoAvatar" fitHeight="75.0" fitWidth="88.0" layoutX="17.0" layoutY="182.0" pickOnBounds="true" preserveRatio="true" AnchorPane.bottomAnchor="144.0" AnchorPane.leftAnchor="17.0" AnchorPane.rightAnchor="16.0" AnchorPane.topAnchor="182.0">
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor></ImageView>
+            <Label alignment="CENTER" layoutX="21.0" layoutY="114.0" prefHeight="27.0" prefWidth="79.0" text="Vincenzo" textFill="#efefef" AnchorPane.bottomAnchor="224.0" AnchorPane.leftAnchor="21.0" AnchorPane.rightAnchor="21.0" AnchorPane.topAnchor="114.0">
+               <font>
+                  <Font name="Ubuntu Mono Bold Italic" size="18.0" />
+               </font>
+            </Label>
+            <Label alignment="CENTER" layoutX="23.0" layoutY="269.0" prefHeight="16.0" prefWidth="79.0" text="Stefano" textFill="#efefef">
+               <font>
+                  <Font name="Ubuntu Mono" size="18.0" />
+               </font>
+            </Label>
+            <Separator fx:id="separatore" layoutX="107.0" layoutY="-3.0" orientation="VERTICAL" prefHeight="374.0" prefWidth="7.0" AnchorPane.bottomAnchor="-6.0" AnchorPane.leftAnchor="107.0" AnchorPane.rightAnchor="7.0" AnchorPane.topAnchor="-3.0" />
+         </children>
+      </AnchorPane>
+   </center>
+   <right>
+      <AnchorPane fx:id="corniceInfo" prefHeight="401.0" prefWidth="229.0" style="-fx-background-color: #404040;" BorderPane.alignment="CENTER">
+         <children>
+            <JFXTextArea fx:id="descrizione" editable="false" layoutX="1.0" layoutY="118.0" prefHeight="146.0" prefWidth="299.0" style="-fx-background-color: #404040; -fx-text-fill: #EFEFEF;" text="Questa piccola applicazione calcola il codice fiscale di una persona residente in italia, se vuoi maggiori info su di noi clicca sul nostro avatar :)&#10;" unFocusColor="#1e1e1e">
+               <font>
+                  <Font name="System Bold Italic" size="14.0" />
+               </font>
+               <cursor>
+                  <Cursor fx:constant="DEFAULT" />
+               </cursor>
+            </JFXTextArea>
+            <Label layoutX="15.0" layoutY="65.0" prefHeight="31.0" prefWidth="270.0" text="Ciao siamo gli svilupparori..." textFill="#efefef">
+               <font>
+                  <Font name="Ubuntu Mono Bold Italic" size="15.0" />
+               </font>
+            </Label>
+         </children></AnchorPane>
+   </right>
+</BorderPane>

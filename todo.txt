@@ -1,0 +1,21 @@
+23/06/2018
+---------- Risoluzione Problemi --------
+Risolto problema della chiusura dell'applicazione
+Fine implementazione schermata feed per l'interazione con l'utente
+Risoluzione problemi dei colori della textArea
+
+------- PROBLEMI PERSISTENTI-----------
+Problema all'avvio con il codice xml, qualche setting è rimasto settato e ottengo dehl'errori all'avvio
+leggere i TODO
+------------ WELL -----------
+
+05-10-2018
+----- Cosa e' stato fatto? -----
+Refactoring codice
+Aggiunta licenza GNU GPL
+
+----- Cosa manca -----
+Un metodo di visualizzazione della licenza nel programma.
+Stavi raffinando la classe toast, ed avevi problemi a fissare lo stage a cui si riferiva perchè non riesci a prelevare lo stage
+su cui vive il pannello.
+Guarda Vista principale.

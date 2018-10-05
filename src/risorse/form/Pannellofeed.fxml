@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import com.jfoenix.controls.JFXCheckBox?>
+<?import com.jfoenix.controls.JFXTextArea?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.TextFlow?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="218.0" prefWidth="444.0" style="-fx-background-color: #404040;" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="it.unibas.codicefiscale.controllo.PannellofeedController">
+   <children>
+      <TextFlow fx:id="areaDiTesto" layoutX="8.0" layoutY="14.0" prefHeight="142.0" prefWidth="428.0">
+         <children>
+            <JFXTextArea editable="false" prefHeight="143.0" prefWidth="425.0" style="-fx-text-fill: #EFEFEF;" text="Prova testo messaggio">
+                <font>
+                  <Font name="FreeMono Bold Oblique" size="14.0" />
+               </font>
+            </JFXTextArea>
+         </children></TextFlow>
+      <JFXButton fx:id="bottoneConferma" buttonType="RAISED" layoutX="296.0" layoutY="178.0" onMouseClicked="#chiudiScermataFeed" prefHeight="26.0" prefWidth="134.0" text="OK" textFill="#9a99a1" AnchorPane.bottomAnchor="14.0" AnchorPane.leftAnchor="296.0" AnchorPane.rightAnchor="14.0" AnchorPane.topAnchor="178.0" />
+      <JFXCheckBox fx:id="checkNonMosytrarePiu" checkedColor="#4411eb" layoutX="28.0" layoutY="178.0" text="Non mostrare più" textFill="#a19d9d" />
+   </children>
+</AnchorPane>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXTextArea?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" style="-fx-background-color: #404040;" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="it.unibas.codicefiscale.controllo.PannelloLicenseController">
+   <children>
+      <JFXTextArea fx:id="textLicense" focusColor="#37d0ee" layoutX="17.0" layoutY="19.0" prefHeight="365.0" prefWidth="570.0" unFocusColor="#0808e4" />
+   </children>
+</AnchorPane>

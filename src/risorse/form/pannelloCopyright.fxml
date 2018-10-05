@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXTextArea?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="464.0" prefWidth="585.0" style="-fx-background-color: #404040;" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="it.unibas.codicefiscale.controllo.PannelloCopyrightController">
+   <children>
+      <ImageView fitHeight="227.0" fitWidth="546.0" layoutX="-9.0" layoutY="206.0" pickOnBounds="true" smooth="false" AnchorPane.bottomAnchor="-113.0" AnchorPane.leftAnchor="-9.0" AnchorPane.rightAnchor="-3.0" AnchorPane.topAnchor="206.0">
+      </ImageView>
+      <ImageView fx:id="spazioIconaPrivacy" fitHeight="54.0" fitWidth="63.0" layoutX="506.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true" AnchorPane.bottomAnchor="400.0" AnchorPane.leftAnchor="506.0" AnchorPane.rightAnchor="16.0" AnchorPane.topAnchor="10.0">
+      </ImageView>
+      <JFXTextArea fx:id="spazioTesto" editable="false" layoutX="20.0" layoutY="64.0" prefHeight="381.0" prefWidth="546.0" text="CALCOLO ANONIMO, SICURO ED ISTANTANEO DEL TUO CODICE FISCALELE informazioni immesse in fase di calcolo del codice fiscale non vengono in alcun modo raccolte, conservate, divulgate o cedute a terzi. Esse vengono processate mediante algoritmo completamente automatizzato che garantisce anonimato e immediatezza del risultato.TERMINI E CONDIZIONI GENERALI ALL'UTILIZZO DEL SERVIZIO DI CALCOLO DEL CODICE FISCALE L'uso illegale di un codice fiscale falso, non attribuito dal Ministero dell'Economia e delle Finanze, è severamente punito dalla legge e non può in alcun modo essere considerato valido e pertanto fiscalmente utilizzabile.Il numero di codice fiscale di una persona fisica è valido soltanto se attribuito dal sopracitato dicastero, l'unico ente legittimato nonchè l'unico in grado di assolvere eventuali casi di omocodia mediante l'aggiunta al codice fiscale ottenuto di una lettera progressiva.Nonostante il codice fiscale generato sia corretto nella forma e nella sostanza in seno alle normative previste dal D.M. del 12/03/1974, non viene garantita la sua completa veridicità e si declina pertanto ogni forma e grado di responsabilità, anche indiretta, per eventuali usi impropri del suddetto codice ottenuto, o da danni di qualsiasi tipologia da esso arrecati.L'utilizzo dei servizi offerti dall'applicazione implica la piena ed incondizionata accettazione di tali condizioni." unFocusColor="#c9c4c4">
+         <font>
+            <Font name="Noto Sans Bold Italic" size="14.0" />
+         </font>
+      </JFXTextArea>
+   </children>
+</AnchorPane>

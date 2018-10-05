@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import com.jfoenix.controls.JFXComboBox?>
+<?import com.jfoenix.controls.JFXDatePicker?>
+<?import com.jfoenix.controls.JFXTextField?>
+<?import javafx.scene.Cursor?>
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<BorderPane fx:id="frame" prefHeight="302.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="it.unibas.codicefiscale.controllo.FrameFXController">
+   <center>
+      <AnchorPane prefHeight="313.0" prefWidth="600.0" style="-fx-background-color: #c0c0c0;">
+         <children>
+            <MenuBar fx:id="barraMenu" layoutX="-1.0" layoutY="24.0" prefHeight="25.0" prefWidth="600.0" style="-fx-background-color: #c0c0c0;" AnchorPane.leftAnchor="-1.0" AnchorPane.rightAnchor="1.0" AnchorPane.topAnchor="-2.0">
+              <menus>
+                <Menu mnemonicParsing="false" text="File">
+                  <items>
+                    <MenuItem mnemonicParsing="false" onAction="#esciApp" text="Esci" />
+                  </items>
+                </Menu>
+                  <Menu mnemonicParsing="false" text="Modifica">
+                    <items>
+                      <MenuItem fx:id="menuItemSetting" mnemonicParsing="false" onAction="#apriSettingItem" text="Impostazioni" />
+                    </items>
+                  </Menu>
+                <Menu mnemonicParsing="false" text="Info">
+                  <items>
+                    <MenuItem mnemonicParsing="false" onAction="#visualizzaInfo" text="Chi siamo?" />
+                        <MenuItem mnemonicParsing="false" onAction="#visualizzaPrivacy" text="Copyright" />
+                  </items>
+                </Menu>
+              </menus>
+            </MenuBar>
+            <JFXTextField fx:id="textCodice" alignment="CENTER" focusColor="#05daff" layoutX="59.0" layoutY="257.0" prefHeight="26.0" prefWidth="482.0" promptText="IL TUO CODICE FISCALE VERRA CALCOLATO QUI" style="-fx-effect: -fx-text-fill;" unFocusColor="#3105f7" AnchorPane.bottomAnchor="65.0" AnchorPane.leftAnchor="59.0" AnchorPane.rightAnchor="59.0">
+               <font>
+                  <Font name="System Bold Italic" size="17.0" />
+               </font>
+               <cursor>
+                  <Cursor fx:constant="DEFAULT" />
+               </cursor>
+            </JFXTextField>
+            <JFXButton fx:id="bottoneCalcola" layoutX="476.0" layoutY="299.0" onAction="#calcolaCodiceF" prefHeight="26.0" prefWidth="110.0" ripplerFill="#404040" text="Calcola" AnchorPane.bottomAnchor="15.0" AnchorPane.rightAnchor="14.0" />
+            <JFXTextField fx:id="textNome" focusColor="#05daed" layoutX="60.0" layoutY="107.0" prefHeight="26.0" prefWidth="147.0" promptText="Il tuo nome?" unFocusColor="BLUE" AnchorPane.bottomAnchor="207.0" AnchorPane.leftAnchor="60.0" AnchorPane.rightAnchor="393.0" />
+            <JFXTextField fx:id="textCognome" focusColor="#09c0eb" layoutX="290.0" layoutY="107.0" prefHeight="26.0" prefWidth="135.0" promptText="il tuo cognome?" unFocusColor="#0748ee" AnchorPane.bottomAnchor="207.0" AnchorPane.leftAnchor="290.0" AnchorPane.rightAnchor="175.0" />
+            <JFXTextField fx:id="textCitta" focusColor="#09ceeb" layoutX="291.0" layoutY="170.0" onKeyPressed="#ricercaCodiceProvincia" prefHeight="26.0" prefWidth="135.0" promptText="Dove sei nato?" unFocusColor="#0329fc" AnchorPane.bottomAnchor="144.0" AnchorPane.leftAnchor="291.0" AnchorPane.rightAnchor="174.0" />
+            <JFXDatePicker fx:id="spinnerDate" defaultColor="#0519eb" editable="false" layoutX="59.0" layoutY="170.0" promptText="Sei nato il?" showWeekNumbers="true" />
+            <JFXComboBox fx:id="comboSesso" focusColor="#07c8f5" layoutX="476.0" layoutY="113.0" prefHeight="26.0" prefWidth="86.0" promptText="Sesso" unFocusColor="#071de1" />
+            <JFXComboBox fx:id="comboProvincia" focusColor="#07ebf5" layoutX="476.0" layoutY="170.0" prefHeight="26.0" prefWidth="86.0" promptText="Provincia" unFocusColor="#0741ee" />
+            <ImageView fx:id="spazioNotifica" fitHeight="35.0" fitWidth="35.0" layoutX="545.0" layoutY="14.0" onMouseClicked="#apriNotifica" pickOnBounds="true" preserveRatio="true" AnchorPane.bottomAnchor="291.0" AnchorPane.leftAnchor="545.0" AnchorPane.rightAnchor="20.0" AnchorPane.topAnchor="14.0">
+               <cursor>
+                  <Cursor fx:constant="OPEN_HAND" />
+               </cursor>
+            </ImageView>
+            <ImageView fx:id="spazioSetting" fitHeight="35.0" fitWidth="35.0" layoutX="7.0" layoutY="14.0" onMouseClicked="#apriSetting" pickOnBounds="true" preserveRatio="true" AnchorPane.bottomAnchor="291.0" AnchorPane.leftAnchor="7.0" AnchorPane.rightAnchor="558.0" AnchorPane.topAnchor="14.0">
+               <cursor>
+                  <Cursor fx:constant="OPEN_HAND" />
+               </cursor>
+            </ImageView>
+            <Pane fx:id="pannelloBottoniSmart" layoutX="113.0" layoutY="26.0" prefHeight="46.0" prefWidth="356.0">
+               <children>
+                  <ImageView fx:id="spazioPosizioneUno" fitHeight="35.0" fitWidth="35.0" layoutX="14.0" layoutY="6.0" pickOnBounds="true" preserveRatio="true">
+                     <cursor>
+                        <Cursor fx:constant="OPEN_HAND" />
+                     </cursor>
+                  </ImageView>
+                  <ImageView fx:id="spazioPosizioneDue" fitHeight="35.0" fitWidth="35.0" layoutX="65.0" layoutY="6.0" onMouseClicked="#apriInfoAutori" pickOnBounds="true" preserveRatio="true">
+                     <cursor>
+                        <Cursor fx:constant="OPEN_HAND" />
+                     </cursor>
+                  </ImageView>
+                  <ImageView fx:id="spazioPosizioneTre" fitHeight="35.0" fitWidth="35.0" layoutX="120.0" layoutY="6.0" onMouseClicked="#apriprivacy" pickOnBounds="true" preserveRatio="true">
+                     <cursor>
+                        <Cursor fx:constant="OPEN_HAND" />
+                     </cursor>
+                  </ImageView>
+                  <ImageView fx:id="spazioPosizioneQuattro" fitHeight="35.0" fitWidth="35.0" layoutX="200.0" layoutY="6.0" onMouseClicked="#apriWebDonazioni" pickOnBounds="true" preserveRatio="true">
+                     <cursor>
+                        <Cursor fx:constant="OPEN_HAND" />
+                     </cursor>
+                  </ImageView>
+                  <ImageView fx:id="spazioPosizioneCinque" fitHeight="35.0" fitWidth="35.0" layoutX="249.0" layoutY="6.0" onMouseClicked="#apriSetting" pickOnBounds="true" preserveRatio="true">
+                     <cursor>
+                        <Cursor fx:constant="OPEN_HAND" />
+                     </cursor>
+                  </ImageView>
+                  <ImageView fx:id="spazioPosizioneSei" fitHeight="35.0" fitWidth="35.0" layoutX="301.0" layoutY="6.0" onMouseClicked="#apriSetting" pickOnBounds="true" preserveRatio="true">
+                     <cursor>
+                        <Cursor fx:constant="OPEN_HAND" />
+                     </cursor>
+                  </ImageView>
+               </children>
+            </Pane>
+            <ImageView fx:id="spazioLicense" fitHeight="35.0" fitWidth="35.0" layoutX="9.0" layoutY="288.0" onMouseClicked="#apriPannelloLicense" pickOnBounds="true" preserveRatio="true" AnchorPane.bottomAnchor="17.0" AnchorPane.leftAnchor="9.0" AnchorPane.rightAnchor="556.0" AnchorPane.topAnchor="288.0">
+               <cursor>
+                  <Cursor fx:constant="OPEN_HAND" />
+               </cursor>
+            </ImageView>
+         </children>
+         <cursor>
+            <Cursor fx:constant="DEFAULT" />
+         </cursor>
+      </AnchorPane>
+   </center>
+</BorderPane>
