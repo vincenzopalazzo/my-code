@@ -1,13 +1,8 @@
 ### IDE files
-build/
-CodiceFiscale/
-dist/
-materialeSpurio/
-nbproject/
-test/
-.classpath
-.project
-build.xml
+.idea/
+*.iml
+targer/
+src/test/
 
 ### Package Files #
 *.jar
