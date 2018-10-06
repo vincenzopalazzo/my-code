@@ -23,10 +23,6 @@ package it.unibas.codicefiscale.controllo;
 
 import com.jfoenix.controls.JFXProgressBar;
 import it.unibas.codicefiscale.Constanti;
-import java.net.URL;
-import java.util.ResourceBundle;
-import java.util.Timer;
-import java.util.TimerTask;
 import javafx.fxml.FXML;
 import javafx.fxml.Initializable;
 import javafx.scene.control.Label;
@@ -35,8 +31,12 @@ import javafx.scene.image.ImageView;
 import javafx.scene.layout.Pane;
 import javafx.scene.paint.Color;
 
+import java.net.URL;
+import java.util.ResourceBundle;
+import java.util.Timer;
+import java.util.TimerTask;
+
 /**
- *
  * @author https://github.com/vincenzopalazzo
  */
 public class SpashScreenController implements Initializable {
@@ -57,17 +57,17 @@ public class SpashScreenController implements Initializable {
     @Override
     public void initialize(URL url, ResourceBundle rb) {
         System.out.print("Qualcosa viene inizializzato \n");
-	splashScreenImage.setImage(new Image(Constanti.SPLASH_SCREEN));
+        splashScreenImage.setImage(new Image(Constanti.SPLASH_SCREEN));
         progressBar.setProgress(0.5);
         gestisciProgressBar();
-	labelSplash.setTextFill(Color.web("#42FFFF"));
+        labelSplash.setTextFill(Color.web("#42FFFF"));
     }
 
     public JFXProgressBar getProgressBar() {
         return progressBar;
     }
-    
-    public void gestisciProgressBar(){
+
+    public void gestisciProgressBar() {
         double progresso = 0.5;
         Timer time = new Timer();
         time.schedule(new TimerTask() {
@@ -77,8 +77,6 @@ public class SpashScreenController implements Initializable {
             }
         }, 2000, 2000);
     }
-    
-    
-    
-    
+
+
 }

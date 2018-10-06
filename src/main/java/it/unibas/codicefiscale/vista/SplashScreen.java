@@ -34,6 +34,8 @@ import javafx.stage.StageStyle;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+import java.io.FileInputStream;
+
 /**
  * 
  * @author https://github.com/vincenzopalazzo
@@ -57,7 +59,7 @@ public class SplashScreen{
 	FXMLLoader load = new FXMLLoader();
 	Parent splash = new Pane();
 	try {
-	    splash = load.load(ClassLoader.getSystemResourceAsStream(Constanti.PANNELLO_SPLASH_SCREEN));
+	    splash = load.load(new FileInputStream(Constanti.PANNELLO_SPLASH_SCREEN));
 	} catch (Exception e) {
 	    e.printStackTrace();
 	    LOGGER.error("Si e' verificato un errrore del tipo: " + e.getLocalizedMessage());

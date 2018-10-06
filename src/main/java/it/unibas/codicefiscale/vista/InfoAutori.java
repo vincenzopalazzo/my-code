@@ -23,36 +23,46 @@ package it.unibas.codicefiscale.vista;
 
 import it.unibas.codicefiscale.Constanti;
 import javafx.fxml.FXMLLoader;
+import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.scene.layout.AnchorPane;
 import javafx.stage.Modality;
 import javafx.stage.Stage;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
+import java.io.FileInputStream;
 
 /**
  * 
  * @author https://github.com/vincenzopalazzo
  */
-public class PannelloCopyright {
+public class InfoAutori {
+
+    private static final Logger LOGGER = LoggerFactory.getLogger(InfoAutori.class);
     
     private Stage stage;
     
     public void init(){
 	FXMLLoader load = new FXMLLoader();
-	AnchorPane dialog = new AnchorPane();
+	Parent root = new AnchorPane();
 	try {
-	    dialog = load.load(ClassLoader.getSystemResourceAsStream(Constanti.PANNELLO_COPYRIGHT));
+	    root = load.load(new FileInputStream(Constanti.PANNELLO_INFO_AUTORI));
 	} catch (Exception e) {
+	    LOGGER.error("Si e' verificato un errore del tipo: " + e.getLocalizedMessage());
 	    e.printStackTrace();
 	}
 	stage = new Stage();
-	Scene scene = new Scene(dialog);
+	Scene scene = new Scene(root);
 	stage.setScene(scene);
+	stage.setResizable(false);
     }
     
     public void visualizza(){
-	//Lo stage diventa modale quando  lo stage padre è nello stato di shoAndWait
 	stage.initModality(Modality.APPLICATION_MODAL);
 	stage.showAndWait();
     }
+    
+    
 
 }

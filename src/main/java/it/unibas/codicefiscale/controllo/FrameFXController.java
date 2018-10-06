@@ -29,23 +29,8 @@ import com.sun.deploy.uitoolkit.impl.fx.HostServicesFactory;
 import com.sun.javafx.application.HostServicesDelegate;
 import it.unibas.codicefiscale.Applicazione;
 import it.unibas.codicefiscale.Constanti;
-import it.unibas.codicefiscale.modello.Archivio;
-import it.unibas.codicefiscale.modello.CodiceFiscale;
-import it.unibas.codicefiscale.modello.Comune;
-import it.unibas.codicefiscale.modello.Persona;
-import it.unibas.codicefiscale.modello.Setting;
+import it.unibas.codicefiscale.modello.*;
 import it.unibas.codicefiscale.persistenza.DAOException;
-import java.net.URL;
-import java.text.DateFormat;
-import java.time.LocalDate;
-import java.time.format.DateTimeFormatter;
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.GregorianCalendar;
-import java.util.HashSet;
-import java.util.List;
-import java.util.ResourceBundle;
-import java.util.Set;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.fxml.Initializable;
@@ -66,6 +51,12 @@ import org.controlsfx.control.Notifications;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import top.gigabox.components.JFXToast;
+
+import java.net.URL;
+import java.text.DateFormat;
+import java.time.LocalDate;
+import java.time.format.DateTimeFormatter;
+import java.util.*;
 
 /**
  *
@@ -302,7 +293,8 @@ public class FrameFXController implements Initializable {
         LOGGER.debug("Codice Fiscale calcolato: " + codiceFiscaleString);
         textCodice.setText(codiceFiscaleString.toUpperCase());
         try {
-            if ((boolean) Applicazione.getIstance().getModello().getBean(Constanti.VISUALIZZA_FEED)) {
+            if (Applicazione.getIstance().getModello().getBean(Constanti.VISUALIZZA_FEED) == null ||
+                    (boolean) Applicazione.getIstance().getModello().getBean(Constanti.VISUALIZZA_FEED)) {
                 JFXToast.makeText(Applicazione.getIstance().getPrimaryStage(), "Hai una nuova notifica!");
             }
             if (Applicazione.getIstance().getSetting().isNotificheAbilitate()) {

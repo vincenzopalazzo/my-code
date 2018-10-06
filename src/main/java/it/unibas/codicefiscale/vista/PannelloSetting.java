@@ -21,9 +21,7 @@
  */
 package it.unibas.codicefiscale.vista;
 
-import animatefx.animation.Flash;
 import it.unibas.codicefiscale.Constanti;
-import java.io.IOException;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
 import javafx.scene.Scene;
@@ -33,41 +31,44 @@ import javafx.stage.StageStyle;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+import java.io.FileInputStream;
+import java.io.IOException;
+
 /**
  *
  * @author https://github.com/vincenzopalazzo
  */
-public class PannelloSettingAvatar {
+public class PannelloSetting {
 
-    private static final Logger LOGGER = LoggerFactory.getLogger(PannelloSettingAvatar.class);
+    private static final Logger LOGGER = LoggerFactory.getLogger(PannelloSetting.class);
 
-    private Stage stageSettingAvatar;
+    private Stage stageSetting;
     private Parent pannello;
-    private Flash animation;
+   // private Flash animation;
 
-    public PannelloSettingAvatar() {
+    public PannelloSetting() {
         FXMLLoader load = new FXMLLoader();
-        stageSettingAvatar = new Stage();
+        stageSetting = new Stage();
         try {
-            pannello = load.load(ClassLoader.getSystemResourceAsStream(Constanti.PANNELLO_SETTING_AVATAR));
+            pannello = load.load(new FileInputStream(Constanti.PANNELLO_SETTING));
             //TODO manca qualcosa per settare il pannello a modale.
-            stageSettingAvatar.initStyle(StageStyle.TRANSPARENT);
-            stageSettingAvatar.initModality(Modality.APPLICATION_MODAL);
-            stageSettingAvatar.setScene(new Scene(pannello));
-            stageSettingAvatar.setResizable(false);
-            animation = new Flash(pannello);
+            stageSetting.initStyle(StageStyle.TRANSPARENT);
+            stageSetting.initModality(Modality.APPLICATION_MODAL);
+            stageSetting.setScene(new Scene(pannello));
+            stageSetting.setResizable(false);
+           // animation = new Flash(pannello);
         } catch (IOException ex) {
             LOGGER.error("Si e' verificato un errore del tipo: " + ex.getLocalizedMessage());
             ex.printStackTrace();
         }
     }
 
-    public Flash getPulse() {
+    /*public Flash getPulse() {
         return animation;
-    }
+    }*/
 
     public Stage getStageSetting() {
-        return stageSettingAvatar;
+        return stageSetting;
     }
 
 }

@@ -56,7 +56,7 @@ public class Constanti {
     public static final String[] VOLCALI_ALFABETO = {"A", "E", "I", "O", "U"};
     
     //FILE DI CONFIGURAZIONE VISTE
-    private static final String PERCORSO_PRINCIPALE_FORM = "risorse/form/";
+    private static final String PERCORSO_PRINCIPALE_FORM = "src/main/resources/form/";
     public static final String PANNELLO_COPYRIGHT = PERCORSO_PRINCIPALE_FORM + "pannelloCopyright.fxml";
     public static final String PANNELLO_SETTING = PERCORSO_PRINCIPALE_FORM + "settingPanel.fxml";
     public static final String PANNELLO_SETTING_AVATAR = PERCORSO_PRINCIPALE_FORM + "settingAvatarPanel.fxml";
@@ -68,7 +68,7 @@ public class Constanti {
 
     
     //ICONE
-    private static final String PERCORSO_PRINCIPALE_ICON = "risorse/icon/";
+    private static final String PERCORSO_PRINCIPALE_ICON = "/icon/";
     public static final String ICONA_COPYRIGHT = PERCORSO_PRINCIPALE_ICON + "2000px-Copyright.svg.png";
     public static final String SPLASH_SCREEN = PERCORSO_PRINCIPALE_ICON + "splashscreeMyCode.png";
     public static final String ICONA_INDIETRO_OFF = PERCORSO_PRINCIPALE_ICON + "left-arrow-off.png";

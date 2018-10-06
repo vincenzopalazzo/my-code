@@ -21,35 +21,30 @@
  */
 package it.unibas.codicefiscale;
 
+
 import com.jfoenix.concurrency.JFXUtilities;
 import it.unibas.codicefiscale.controllo.FrameFXController;
 import it.unibas.codicefiscale.controllo.SettingPanelController;
-import it.unibas.codicefiscale.vista.VistaPrincipale;
+import it.unibas.codicefiscale.controllo.SpashScreenController;
 import it.unibas.codicefiscale.modello.Archivio;
+import it.unibas.codicefiscale.modello.License;
 import it.unibas.codicefiscale.modello.Modello;
 import it.unibas.codicefiscale.modello.Setting;
 import it.unibas.codicefiscale.persistenza.DAOArchivio;
 import it.unibas.codicefiscale.persistenza.DAOException;
 import it.unibas.codicefiscale.persistenza.DAOGenericoJson;
 import it.unibas.codicefiscale.persistenza.IDAOArchivio;
-import it.unibas.codicefiscale.vista.InfoAutori;
-import it.unibas.codicefiscale.vista.PannelloCopyright;
-import it.unibas.codicefiscale.vista.PannelloFeed;
-import it.unibas.codicefiscale.vista.PannelloSetting;
-import it.unibas.codicefiscale.vista.PannelloSettingAvatar;
-import it.unibas.codicefiscale.controllo.SpashScreenController;
-import it.unibas.codicefiscale.modello.License;
-import it.unibas.codicefiscale.vista.PannelloLicense;
-import it.unibas.codicefiscale.vista.SplashScreen;
-import java.io.FileInputStream;
-import java.io.FileNotFoundException;
+import it.unibas.codicefiscale.vista.*;
 import javafx.application.Application;
 import javafx.application.Platform;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
-import javax.swing.SwingWorker;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+
+import javax.swing.*;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
 
 /**
  *
@@ -83,6 +78,11 @@ public class Applicazione extends Application {
     }
 
     public void init() {
+
+        /* Serve per far stampare il contesto all'applicazione
+        LoggerContext context = (LoggerContext)LoggerFactory.getILoggerFactory();
+        StatusPrinter.print(context);*/
+
         dAOGenericoJson = new DAOGenericoJson();
         modello = new Modello();
         archivio = new Archivio();

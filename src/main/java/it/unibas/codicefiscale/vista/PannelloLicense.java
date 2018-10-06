@@ -24,47 +24,37 @@ package it.unibas.codicefiscale.vista;
 import it.unibas.codicefiscale.Constanti;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
-import javafx.scene.control.Alert;
-import javafx.scene.layout.BorderPane;
+import javafx.scene.Scene;
+import javafx.stage.Stage;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+
+import java.io.FileInputStream;
 
 /**
  *
  * @author https://github.com/vincenzopalazzo
  */
-public class VistaPrincipale {
-
-    private static final Logger LOGGER = LoggerFactory.getLogger(VistaPrincipale.class);
-
-    private Parent root = new BorderPane();
+public class PannelloLicense extends Stage{
     
-    public Parent getRoot() {
-	return root;
+    private static final Logger LOGGER = LoggerFactory.getLogger(PannelloLicense.class);
+    
+    private Scene scene;
+
+    public PannelloLicense() {
+        FXMLLoader loader = new FXMLLoader();
+        Parent parent;
+        try {
+            parent = loader.load(new FileInputStream(Constanti.PANNELLO_LICENSE));
+            scene = new Scene(parent);
+            this.setScene(scene);
+        } catch (Exception e) {
+            LOGGER.error("Errore nel caricamento del file: " + Constanti.PANNELLO_LICENSE);
+            e.printStackTrace();
+        }
+        
     }
     
-    public void load(){
-	FXMLLoader load = new FXMLLoader();
-	try {
-	    root = load.load(ClassLoader.getSystemResourceAsStream(Constanti.PANNELLO_VISTA_PRINCIPALE));
-	} catch (Exception ex) {
-	    ex.printStackTrace();
-	}
-    }
     
-    //TODO cercare l'equivalente in material themes javafx
-    public void visualizzaMessaggio(String messaggio, boolean errore) {
-	if (errore) {
-	    Alert alert = new Alert(Alert.AlertType.ERROR);
-	    alert.setTitle("Errore");
-	    alert.setContentText(messaggio);
-	    alert.show();
-	    return;
-	}
-	Alert alert = new Alert(Alert.AlertType.INFORMATION);
-	alert.setTitle("INFO");
-	alert.setContentText(messaggio);
-	alert.show();
-    }
-
+    
 }

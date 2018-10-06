@@ -21,53 +21,48 @@
  */
 package it.unibas.codicefiscale.vista;
 
-import animatefx.animation.Flash;
 import it.unibas.codicefiscale.Constanti;
-import java.io.IOException;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
 import javafx.scene.Scene;
-import javafx.stage.Modality;
+import javafx.scene.layout.AnchorPane;
 import javafx.stage.Stage;
 import javafx.stage.StageStyle;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+import java.io.FileInputStream;
+import java.io.IOException;
+
 /**
- *
+ * 
  * @author https://github.com/vincenzopalazzo
  */
-public class PannelloSetting {
 
-    private static final Logger LOGGER = LoggerFactory.getLogger(PannelloSetting.class);
+public class PannelloFeed {
 
-    private Stage stageSetting;
-    private Parent pannello;
-    private Flash animation;
+    private static final Logger LOGGER = LoggerFactory.getLogger(PannelloFeed.class);
 
-    public PannelloSetting() {
+    private Stage stage = new Stage();
+
+    public void init() {
         FXMLLoader load = new FXMLLoader();
-        stageSetting = new Stage();
+        Parent root = new AnchorPane();
         try {
-            pannello = load.load(ClassLoader.getSystemResourceAsStream(Constanti.PANNELLO_SETTING));
-            //TODO manca qualcosa per settare il pannello a modale.
-            stageSetting.initStyle(StageStyle.TRANSPARENT);
-            stageSetting.initModality(Modality.APPLICATION_MODAL);
-            stageSetting.setScene(new Scene(pannello));
-            stageSetting.setResizable(false);
-            animation = new Flash(pannello);
-        } catch (IOException ex) {
-            LOGGER.error("Si e' verificato un errore del tipo: " + ex.getLocalizedMessage());
-            ex.printStackTrace();
+            root = load.load(new FileInputStream(Constanti.PANNELLO_FEED));
+            Scene scene = new Scene(root);
+            Stage stage = new Stage();
+            stage.setScene(scene);
+            stage.initStyle(StageStyle.TRANSPARENT);
+            this.stage = stage;
+        } catch (IOException e) {
+            LOGGER.error("Si e' verificato un errore del tipo: " + e.getLocalizedMessage());
+            e.printStackTrace();
         }
     }
 
-    public Flash getPulse() {
-        return animation;
-    }
-
-    public Stage getStageSetting() {
-        return stageSetting;
+    public Stage getStage() {
+        return stage;
     }
 
 }

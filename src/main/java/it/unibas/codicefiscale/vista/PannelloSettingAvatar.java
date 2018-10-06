@@ -22,45 +22,47 @@
 package it.unibas.codicefiscale.vista;
 
 import it.unibas.codicefiscale.Constanti;
-import java.io.IOException;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
 import javafx.scene.Scene;
-import javafx.scene.layout.AnchorPane;
+import javafx.stage.Modality;
 import javafx.stage.Stage;
 import javafx.stage.StageStyle;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
+import java.io.FileInputStream;
+import java.io.IOException;
 
 /**
- * 
+ *
  * @author https://github.com/vincenzopalazzo
  */
+public class PannelloSettingAvatar {
 
-public class PannelloFeed {
+    private static final Logger LOGGER = LoggerFactory.getLogger(PannelloSettingAvatar.class);
 
-    private static final Logger LOGGER = LoggerFactory.getLogger(PannelloFeed.class);
+    private Stage stageSettingAvatar;
+    private Parent pannello;
 
-    private Stage stage = new Stage();
-
-    public void init() {
+    public PannelloSettingAvatar() {
         FXMLLoader load = new FXMLLoader();
-        Parent root = new AnchorPane();
+        stageSettingAvatar = new Stage();
         try {
-            root = load.load(ClassLoader.getSystemResourceAsStream(Constanti.PANNELLO_FEED));
-            Scene scene = new Scene(root);
-            Stage stage = new Stage();
-            stage.setScene(scene);
-            stage.initStyle(StageStyle.TRANSPARENT);
-            this.stage = stage;
-        } catch (IOException e) {
-            LOGGER.error("Si e' verificato un errore del tipo: " + e.getLocalizedMessage());
-            e.printStackTrace();
+            pannello = load.load(new FileInputStream(Constanti.PANNELLO_SETTING_AVATAR));
+            //TODO manca qualcosa per settare il pannello a modale.
+            stageSettingAvatar.initStyle(StageStyle.TRANSPARENT);
+            stageSettingAvatar.initModality(Modality.APPLICATION_MODAL);
+            stageSettingAvatar.setScene(new Scene(pannello));
+            stageSettingAvatar.setResizable(false);
+        } catch (IOException ex) {
+            LOGGER.error("Si e' verificato un errore del tipo: " + ex.getLocalizedMessage());
+            ex.printStackTrace();
         }
     }
 
-    public Stage getStage() {
-        return stage;
+    public Stage getStageSetting() {
+        return stageSettingAvatar;
     }
 
 }
