@@ -47,6 +47,7 @@ import javafx.scene.layout.AnchorPane;
 import javafx.scene.layout.BorderPane;
 import javafx.scene.layout.Pane;
 import javafx.scene.paint.Color;
+import javafx.stage.Modality;
 import org.controlsfx.control.Notifications;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -227,7 +228,7 @@ public class FrameFXController implements Initializable {
             errori += "Devi inserire qualcosa nel campo nome.";
             textNome.setUnFocusColor(Color.RED);
         }
-        if (controllaNumeroIniStringa(nome)) {
+        if (controllaNumeroInStringa(nome)) {
             errori += "\nAh ok quindi il tuo nome contiene un numero??";
             textNome.setUnFocusColor(Color.RED);
         }
@@ -236,7 +237,7 @@ public class FrameFXController implements Initializable {
             errori += "\n Devi inserire qualcosa nel campo cognome";
             textCognome.setUnFocusColor(Color.RED);
         }
-        if (controllaNumeroIniStringa(cognome)) {
+        if (controllaNumeroInStringa(cognome)) {
             errori += "\nAh ok quindi il tuo cognome contiene un numero??";
             textCognome.setUnFocusColor(Color.RED);
         }
@@ -245,7 +246,7 @@ public class FrameFXController implements Initializable {
             errori += "\n Devi inserire qualcosa nel campo Citta natale";
             textCitta.setUnFocusColor(Color.RED);
         }
-        if (controllaNumeroIniStringa(citta)) {
+        if (controllaNumeroInStringa(citta)) {
             errori += "\nAh ok quindi la tua citta contiene un numero??";
             textCitta.setUnFocusColor(Color.RED);
 
@@ -345,8 +346,9 @@ public class FrameFXController implements Initializable {
             // dare un occhiata a http://www.baeldung.com/java-executor-service-tutorial
             return;
         }
-        Applicazione.getIstance().getStagePannelloFeed().show();
+        Applicazione.getIstance().getStagePannelloFeed().initModality(Modality.APPLICATION_MODAL);
         spazioNotifica.setImage(immagineNotificheZero);
+        Applicazione.getIstance().getStagePannelloFeed().showAndWait();
 
     }
 
@@ -366,7 +368,7 @@ public class FrameFXController implements Initializable {
         }
     }
 
-    private boolean controllaNumeroIniStringa(String nome) {
+    private boolean controllaNumeroInStringa(String nome) {
         String[] numeri = {"0", "1", "2", "3", "4", "5", "6", "7", "8", "9"};
         for (int i = 0; i < numeri.length; i++) {
             if (nome.contains(numeri[i])) {
@@ -452,5 +454,18 @@ public class FrameFXController implements Initializable {
     @FXML
     private void apriPannelloLicense(MouseEvent event) {
         Applicazione.getIstance().getPannelloLicense().show();
+    }
+
+    @FXML
+    private void segnalaQualcosa(MouseEvent event){
+        JFXToast.makeText(Applicazione.getIstance().getPrimaryStage(), "Funzione ancora non implementata");
+    }
+    @FXML
+    private void condividiAmici(MouseEvent event){
+        JFXToast.makeText(Applicazione.getIstance().getPrimaryStage(), "Funzione ancora non implementata");
+    }
+    @FXML
+    private void salvaCodiceGenerato(MouseEvent event){
+        JFXToast.makeText(Applicazione.getIstance().getPrimaryStage(), "Funzione ancora non implementata");
     }
 }

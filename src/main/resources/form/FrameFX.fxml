@@ -65,7 +65,7 @@
             </ImageView>
             <Pane fx:id="pannelloBottoniSmart" layoutX="113.0" layoutY="26.0" prefHeight="46.0" prefWidth="356.0">
                <children>
-                  <ImageView fx:id="spazioPosizioneUno" fitHeight="35.0" fitWidth="35.0" layoutX="14.0" layoutY="6.0" pickOnBounds="true" preserveRatio="true">
+                  <ImageView fx:id="spazioPosizioneUno" fitHeight="35.0" fitWidth="35.0" layoutX="14.0" layoutY="6.0" onMouseClicked="#salvaCodiceGenerato" pickOnBounds="true" preserveRatio="true">
                      <cursor>
                         <Cursor fx:constant="OPEN_HAND" />
                      </cursor>
@@ -85,12 +85,12 @@
                         <Cursor fx:constant="OPEN_HAND" />
                      </cursor>
                   </ImageView>
-                  <ImageView fx:id="spazioPosizioneCinque" fitHeight="35.0" fitWidth="35.0" layoutX="249.0" layoutY="6.0" onMouseClicked="#apriSetting" pickOnBounds="true" preserveRatio="true">
+                  <ImageView fx:id="spazioPosizioneCinque" fitHeight="35.0" fitWidth="35.0" layoutX="249.0" layoutY="6.0" onMouseClicked="#segnalaQualcosa" pickOnBounds="true" preserveRatio="true">
                      <cursor>
                         <Cursor fx:constant="OPEN_HAND" />
                      </cursor>
                   </ImageView>
-                  <ImageView fx:id="spazioPosizioneSei" fitHeight="35.0" fitWidth="35.0" layoutX="301.0" layoutY="6.0" onMouseClicked="#apriSetting" pickOnBounds="true" preserveRatio="true">
+                  <ImageView fx:id="spazioPosizioneSei" fitHeight="35.0" fitWidth="35.0" layoutX="301.0" layoutY="6.0" onMouseClicked="#condividiAmici" pickOnBounds="true" preserveRatio="true">
                      <cursor>
                         <Cursor fx:constant="OPEN_HAND" />
                      </cursor>

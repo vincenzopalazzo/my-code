@@ -8,10 +8,11 @@
     <name>MyCode</name>
     <url>https://github.com/vincenzopalazzo/my-code</url>
     <dependencies>
+
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
-            <version>3.8.1</version>
+            <version>4.12</version>
             <scope>test</scope>
         </dependency>
 
@@ -31,7 +32,7 @@
         <dependency>
             <groupId>com.github.vincenzopalazzo</groupId>
             <artifactId>JFXToast</artifactId>
-            <version>V1.0</version>
+            <version>V1.1</version>
         </dependency>
 
         <dependency>
@@ -46,15 +47,12 @@
             <version>1.2.3</version>
         </dependency>
 
-
-
         <dependency>
-            <groupId>local</groupId>
+            <groupId>org.controlsfx</groupId>
             <artifactId>controlsfx</artifactId>
-            <version>8.4</version>
-            <scope>system</scope>
-            <systemPath>${basedir}/lib/controlsfx-8.40.14.jar</systemPath>
+            <version>8.40.14</version>
         </dependency>
+
 
         <dependency>
             <groupId>ch.qos.logback</groupId>

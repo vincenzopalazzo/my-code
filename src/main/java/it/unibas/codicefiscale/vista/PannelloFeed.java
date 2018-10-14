@@ -47,14 +47,13 @@ public class PannelloFeed {
 
     public void init() {
         FXMLLoader load = new FXMLLoader();
-        Parent root = new AnchorPane();
+        Parent root;
         try {
             root = load.load(new FileInputStream(Constanti.PANNELLO_FEED));
             Scene scene = new Scene(root);
-            Stage stage = new Stage();
+            stage = new Stage();
             stage.setScene(scene);
-            stage.initStyle(StageStyle.TRANSPARENT);
-            this.stage = stage;
+            stage.initStyle(StageStyle.UTILITY);
         } catch (IOException e) {
             LOGGER.error("Si e' verificato un errore del tipo: " + e.getLocalizedMessage());
             e.printStackTrace();

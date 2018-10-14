@@ -54,7 +54,7 @@ public class Constanti {
     public static final String NOMEFILE = "dati/listaComuni.txt";
     
     public static final String[] VOLCALI_ALFABETO = {"A", "E", "I", "O", "U"};
-    
+
     //FILE DI CONFIGURAZIONE VISTE
     private static final String PERCORSO_PRINCIPALE_FORM = "src/main/resources/form/";
     public static final String PANNELLO_COPYRIGHT = PERCORSO_PRINCIPALE_FORM + "pannelloCopyright.fxml";
@@ -112,5 +112,13 @@ public class Constanti {
     
     //URL
     public static final String SITO_DONAZIONI = "https://www.gigabox.top/donazioni";
+    public static final String FORM_GOOGLE_FEDD = "https://docs.google.com/forms/d/12KTIcRc8-3DiS7mSfZGO28a7mDToLJFkzwMTPZynKBE/edit";
+
+    //Constanti per testo fead
+    public static final String TESTO_FEED = "Ciao, spero che il tuo codice fiscale sia stato generato correttamente," +
+            " se per te non è un problema vorremmo ricevere dei feed da parte tua sull'uso del nostro software " +
+            "usiamo una form di google dove ti poniamo un po di domante se per te va bene puoi cliccare sul bottone" +
+            " FORM. Altrimenti puoi non ricevere più questa notifica e se vuoi lasciare il feed sull'applicazione in " +
+            "un secondo monento puoi trovare il modo nel pannello di setting";
     
 }

@@ -23,30 +23,35 @@ package it.unibas.codicefiscale.controllo;
 
 import com.jfoenix.controls.JFXButton;
 import com.jfoenix.controls.JFXCheckBox;
+import com.jfoenix.controls.JFXTextArea;
+import com.sun.deploy.uitoolkit.impl.fx.HostServicesFactory;
+import com.sun.javafx.application.HostServicesDelegate;
 import it.unibas.codicefiscale.Applicazione;
 import it.unibas.codicefiscale.Constanti;
 import it.unibas.codicefiscale.modello.Setting;
 import it.unibas.codicefiscale.persistenza.DAOException;
+
 import java.net.URL;
 import java.util.ResourceBundle;
+
 import javafx.fxml.FXML;
 import javafx.fxml.Initializable;
 import javafx.scene.input.MouseEvent;
-import javafx.scene.text.TextFlow;
 import org.slf4j.LoggerFactory;
 
 /**
- *
- * @author  https://github.com/vincenzopalazzo
+ * @author https://github.com/vincenzopalazzo
  */
 public class PannellofeedController implements Initializable {
-    
+
     private static final org.slf4j.Logger LOGGER = LoggerFactory.getLogger(PannellofeedController.class);
 
     @FXML
-    private TextFlow areaDiTesto;
+    private JFXTextArea textArea;
     @FXML
-    private JFXButton bottoneConferma;
+    private JFXButton bottoneForm;
+    @FXML
+    private JFXButton bottoneIgnora;
     @FXML
     private JFXCheckBox checkNonMosytrarePiu;
 
@@ -55,13 +60,15 @@ public class PannellofeedController implements Initializable {
      */
     @Override
     public void initialize(URL url, ResourceBundle rb) {
-        // TODO
-    } 
+        textArea.setText(Constanti.TESTO_FEED);
+        textArea.setStyle("-fx-text-fill: #E1E1E1; ");
+        textArea.setBackground(bottoneForm.getBackground());
+    }
 
     @FXML
     private void chiudiScermataFeed(MouseEvent event) {
         event.consume();
-        if(checkNonMosytrarePiu.isSelected()){
+        if (checkNonMosytrarePiu.isSelected()) {
             Applicazione.getIstance().getModello().putBean(Constanti.VISUALIZZA_FEED, false);
             Setting setting = Applicazione.getIstance().getSetting();
             setting.setMostrarePannelloFeed(false);
@@ -77,7 +84,13 @@ public class PannellofeedController implements Initializable {
         Applicazione.getIstance().getModello().putBean(Constanti.VISUALIZZA_FEED, true);
         Applicazione.getIstance().getPannelloFeed().getStage().close();
     }
-    
-    
-    
+
+    @FXML
+    private void visualizzaForm(MouseEvent mouseEvent) {
+        HostServicesDelegate hostServices = HostServicesFactory.getInstance(Applicazione.getIstance());
+        hostServices.showDocument(Constanti.FORM_GOOGLE_FEDD);
+        chiudiScermataFeed(mouseEvent);
+    }
+
+
 }

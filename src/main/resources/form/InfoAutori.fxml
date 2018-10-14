@@ -13,11 +13,11 @@
    <center>
       <AnchorPane fx:id="avatar" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="365.0" prefWidth="121.0" style="-fx-background-color: #404040;">
          <children>
-            <ImageView fx:id="vincenzoAvatar" fitHeight="75.0" fitWidth="88.0" layoutX="17.0" layoutY="39.0" pickOnBounds="true" preserveRatio="true" AnchorPane.bottomAnchor="251.0" AnchorPane.leftAnchor="17.0" AnchorPane.rightAnchor="16.0" AnchorPane.topAnchor="39.0">
+            <ImageView fx:id="vincenzoAvatar" fitHeight="75.0" fitWidth="88.0" layoutX="17.0" layoutY="39.0" onMouseClicked="#visualizzaInfoVincenzo" pickOnBounds="true" preserveRatio="true" AnchorPane.bottomAnchor="251.0" AnchorPane.leftAnchor="17.0" AnchorPane.rightAnchor="16.0" AnchorPane.topAnchor="39.0">
                <cursor>
                   <Cursor fx:constant="HAND" />
                </cursor></ImageView>
-            <ImageView fx:id="stafnoAvatar" fitHeight="75.0" fitWidth="88.0" layoutX="17.0" layoutY="182.0" pickOnBounds="true" preserveRatio="true" AnchorPane.bottomAnchor="144.0" AnchorPane.leftAnchor="17.0" AnchorPane.rightAnchor="16.0" AnchorPane.topAnchor="182.0">
+            <ImageView fx:id="stafnoAvatar" fitHeight="75.0" fitWidth="88.0" layoutX="17.0" layoutY="182.0" onMouseClicked="#visualizzaInfoStefano" pickOnBounds="true" preserveRatio="true" AnchorPane.bottomAnchor="144.0" AnchorPane.leftAnchor="17.0" AnchorPane.rightAnchor="16.0" AnchorPane.topAnchor="182.0">
                <cursor>
                   <Cursor fx:constant="HAND" />
                </cursor></ImageView>

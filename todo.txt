@@ -1,21 +1,31 @@
 23/06/2018
----------- Risoluzione Problemi --------
 Risolto problema della chiusura dell'applicazione
 Fine implementazione schermata feed per l'interazione con l'utente
 Risoluzione problemi dei colori della textArea
 
-------- PROBLEMI PERSISTENTI-----------
-Problema all'avvio con il codice xml, qualche setting è rimasto settato e ottengo dehl'errori all'avvio
-leggere i TODO
------------- WELL -----------
-
 05-10-2018
------ Cosa e' stato fatto? -----
 Refactoring codice
 Aggiunta licenza GNU GPL
 
------ Cosa manca -----
-Un metodo di visualizzazione della licenza nel programma.
-Stavi raffinando la classe toast, ed avevi problemi a fissare lo stage a cui si riferiva perchè non riesci a prelevare lo stage
-su cui vive il pannello.
+10-10-2018
+Aggiunto il supporto completo a maven. (fatto)
+
+--11-10-2018 --
+Devi risolvere il problema alla repo maven di JFXToast (Ok risolto)
+
+-- 14-10-2018 --
+Ho iniziato ad inserire qualche cambiamento nei pannelli secondari stile material (guarda pannello feed)
+Inseriti messaggi toast per funzioni non implementate
+rifinito il pannello feed anche a livello di codice.
+aggiunto al link del pannello setting il link per la form google
+livello log impostato ad info
+
+
+
+------- PROBLEMI PERSISTENTI-----------
+Problema all'avvio con il codice xml, qualche setting è rimasto settato e ottengo dehl'errori all'avvio
+leggere i TODO.
+Un metodo di visualizzazione della licenza nel programma. (Fatto)
 Guarda Vista principale.
+I pannelli devono restituire uno stage, perchè altrimenti non riesco ad inizializzare correttamente il Toast
+Bisogna completare anche l'interfaccia secondaria.

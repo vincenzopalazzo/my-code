@@ -22,6 +22,7 @@
 package it.unibas.codicefiscale.controllo;
 
 import com.jfoenix.controls.JFXTextArea;
+import it.unibas.codicefiscale.Applicazione;
 import it.unibas.codicefiscale.Constanti;
 import java.net.URL;
 import java.util.ResourceBundle;
@@ -30,7 +31,9 @@ import javafx.fxml.Initializable;
 import javafx.scene.control.Separator;
 import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
+import javafx.scene.input.MouseEvent;
 import javafx.scene.layout.AnchorPane;
+import top.gigabox.components.JFXToast;
 
 /**
  *
@@ -67,5 +70,14 @@ public class InfoAutoriController implements Initializable {
     
     private void settingIniziale(){
 	corniceInfo.setVisible(true);
+    }
+
+    @FXML
+    private void visualizzaInfoVincenzo(MouseEvent mouseEvent){
+        JFXToast.makeText(Applicazione.getIstance().getPrimaryStage(), "Funzione ancora non implementata");
+    }
+    @FXML
+    private void visualizzaInfoStefano(MouseEvent mouseEvent){
+        JFXToast.makeText(Applicazione.getIstance().getPrimaryStage(), "Funzione ancora non implementata");
     }
 }
