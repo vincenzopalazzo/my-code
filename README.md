@@ -34,7 +34,7 @@ Leggi la pagina [CONTRIBUTING](https://github.com/vincenzopalazzo/my-code/graphs
 ## Authors
 
 * **Vincenzo Palazzo** - *Initial work* - [Profilo](https://github.com/vincenzopalazzo)
-* **Stefano Foti** - *Initial work*  .[Profilo](https://github.com/stefanofoti)
+* **Stefano Foti** - *Initial work*  - [Profilo](https://github.com/stefanofoti)
 
 Qui trovi la lista dei contributori [contributors](https://github.com/vincenzopalazzo/my-code/graphs/contributors)
 
