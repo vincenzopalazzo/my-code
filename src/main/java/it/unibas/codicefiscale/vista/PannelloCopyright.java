@@ -42,7 +42,7 @@ public class PannelloCopyright {
 	FXMLLoader load = new FXMLLoader();
 	AnchorPane dialog = new AnchorPane();
 	try {
-	    dialog = load.load(new FileInputStream(Constanti.PANNELLO_COPYRIGHT));
+	    dialog = load.load(System.class.getResourceAsStream(Constanti.PANNELLO_COPYRIGHT));
 	} catch (Exception e) {
 	    e.printStackTrace();
 	}

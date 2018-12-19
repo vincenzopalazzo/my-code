@@ -48,7 +48,7 @@ public class VistaPrincipale {
     public void load(){
 	FXMLLoader load = new FXMLLoader();
 	try {
-	    root = load.load(new FileInputStream(Constanti.PANNELLO_VISTA_PRINCIPALE));
+	    root = load.load(System.class.getResourceAsStream(Constanti.PANNELLO_VISTA_PRINCIPALE));
 	} catch (Exception ex) {
 	    ex.printStackTrace();
 	}

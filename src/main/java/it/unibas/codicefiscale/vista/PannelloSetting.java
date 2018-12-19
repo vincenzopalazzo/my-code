@@ -50,7 +50,7 @@ public class PannelloSetting {
         FXMLLoader load = new FXMLLoader();
         stageSetting = new Stage();
         try {
-            pannello = load.load(new FileInputStream(Constanti.PANNELLO_SETTING));
+            pannello = load.load(System.class.getResourceAsStream(Constanti.PANNELLO_SETTING));
             //TODO manca qualcosa per settare il pannello a modale.
             stageSetting.initStyle(StageStyle.TRANSPARENT);
             stageSetting.initModality(Modality.APPLICATION_MODAL);

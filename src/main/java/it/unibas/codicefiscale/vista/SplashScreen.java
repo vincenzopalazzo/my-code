@@ -59,7 +59,7 @@ public class SplashScreen{
 	FXMLLoader load = new FXMLLoader();
 	Parent splash = new Pane();
 	try {
-	    splash = load.load(new FileInputStream(Constanti.PANNELLO_SPLASH_SCREEN));
+	    splash = load.load(System.class.getResourceAsStream(Constanti.PANNELLO_SPLASH_SCREEN));
 	} catch (Exception e) {
 	    e.printStackTrace();
 	    LOGGER.error("Si e' verificato un errrore del tipo: " + e.getLocalizedMessage());

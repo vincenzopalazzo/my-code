@@ -1,7 +1,8 @@
 ### IDE files
 .idea/
+.setting/
 *.iml
-targer/
+target/
 src/test/
 
 ### Package Files #
@@ -9,3 +10,4 @@ src/test/
 
 ### Java template
 *.class
+/target/

@@ -29,3 +29,4 @@ Un metodo di visualizzazione della licenza nel programma. (Fatto)
 Guarda Vista principale.
 I pannelli devono restituire uno stage, perchè altrimenti non riesco ad inizializzare correttamente il Toast
 Bisogna completare anche l'interfaccia secondaria.
+risolvere problema delle cartelle dati per l'esecuzione su altri pc

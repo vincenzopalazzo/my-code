@@ -49,7 +49,7 @@ public class PannelloSettingAvatar {
         FXMLLoader load = new FXMLLoader();
         stageSettingAvatar = new Stage();
         try {
-            pannello = load.load(new FileInputStream(Constanti.PANNELLO_SETTING_AVATAR));
+            pannello = load.load(System.class.getResourceAsStream(Constanti.PANNELLO_SETTING_AVATAR));
             //TODO manca qualcosa per settare il pannello a modale.
             stageSettingAvatar.initStyle(StageStyle.TRANSPARENT);
             stageSettingAvatar.initModality(Modality.APPLICATION_MODAL);

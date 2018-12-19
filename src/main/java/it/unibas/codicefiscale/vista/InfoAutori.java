@@ -47,7 +47,7 @@ public class InfoAutori {
 	FXMLLoader load = new FXMLLoader();
 	Parent root = new AnchorPane();
 	try {
-	    root = load.load(new FileInputStream(Constanti.PANNELLO_INFO_AUTORI));
+	    root = load.load(System.class.getResourceAsStream(Constanti.PANNELLO_INFO_AUTORI));
 	} catch (Exception e) {
 	    LOGGER.error("Si e' verificato un errore del tipo: " + e.getLocalizedMessage());
 	    e.printStackTrace();

@@ -45,7 +45,7 @@ public class PannelloLicense extends Stage{
         FXMLLoader loader = new FXMLLoader();
         Parent parent;
         try {
-            parent = loader.load(new FileInputStream(Constanti.PANNELLO_LICENSE));
+            parent = loader.load(System.class.getResourceAsStream(Constanti.PANNELLO_LICENSE));
             scene = new Scene(parent);
             this.setScene(scene);
         } catch (Exception e) {

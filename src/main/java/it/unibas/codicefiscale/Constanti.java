@@ -50,13 +50,14 @@ public class Constanti {
             "H", "L", "M", "P", "R", 
             "S", "T"
     };
-    
+
+    //Server al DAO TODO fixare
     public static final String NOMEFILE = "dati/listaComuni.txt";
-    
+
     public static final String[] VOLCALI_ALFABETO = {"A", "E", "I", "O", "U"};
 
     //FILE DI CONFIGURAZIONE VISTE
-    private static final String PERCORSO_PRINCIPALE_FORM = "src/main/resources/form/";
+    private static final String PERCORSO_PRINCIPALE_FORM = "/form/";
     public static final String PANNELLO_COPYRIGHT = PERCORSO_PRINCIPALE_FORM + "pannelloCopyright.fxml";
     public static final String PANNELLO_SETTING = PERCORSO_PRINCIPALE_FORM + "settingPanel.fxml";
     public static final String PANNELLO_SETTING_AVATAR = PERCORSO_PRINCIPALE_FORM + "settingAvatarPanel.fxml";

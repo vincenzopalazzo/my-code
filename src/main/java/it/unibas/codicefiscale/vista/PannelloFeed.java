@@ -49,7 +49,7 @@ public class PannelloFeed {
         FXMLLoader load = new FXMLLoader();
         Parent root;
         try {
-            root = load.load(new FileInputStream(Constanti.PANNELLO_FEED));
+            root = load.load(System.class.getResourceAsStream(Constanti.PANNELLO_FEED));
             Scene scene = new Scene(root);
             stage = new Stage();
             stage.setScene(scene);
