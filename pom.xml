@@ -4,7 +4,7 @@
     <groupId>top.gigabox</groupId>
     <artifactId>MyCode</artifactId>
     <packaging>jar</packaging>
-    <version>0.5</version>
+    <version>0.6</version>
     <name>MyCode</name>
     <url>https://github.com/vincenzopalazzo/my-code</url>
     <dependencies>
@@ -27,6 +27,12 @@
             <artifactId>AnimateFX</artifactId>
             <version>1.2.0</version>
             <type>pom</type>
+        </dependency>
+
+        <dependency>
+            <groupId>org.openjfx</groupId>
+            <artifactId>javafx-controls</artifactId>
+            <version>11</version>
         </dependency>
 
         <dependency>
@@ -67,8 +73,18 @@
         </dependency>
 
     </dependencies>
-    
+
     <build>
+        <resources>
+            <resource>
+                <directory>src/main/resources/</directory>
+                <includes>
+                    <include>form/*.*</include>
+                    <include>icon/*.*</include>
+                    <include>*.xml</include>
+                </includes>
+            </resource>
+        </resources>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>

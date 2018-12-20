@@ -51,9 +51,6 @@ public class Constanti {
             "S", "T"
     };
 
-    //Server al DAO TODO fixare
-    public static final String NOMEFILE = "dati/listaComuni.txt";
-
     public static final String[] VOLCALI_ALFABETO = {"A", "E", "I", "O", "U"};
 
     //FILE DI CONFIGURAZIONE VISTE
@@ -105,8 +102,10 @@ public class Constanti {
     //CICLO DI VITA APPLIZAZIONE
     public static final String VISUALIZZA_FEED = "VISUALIZZA_FEED";
     //TODO questo deve essere modificato i setting devono essere in maniera separata dall'applicazione oppure 
-    //dare la possibilita di scegliere 
-    public static final String PERCORSO_SETTING = "dati/setting.json";
+    //dare la possibilita di scegliere
+    private static final String PERCORSO_ESECUZIONE_JAR = System.getProperty("user.dir");
+    public static final String PERCORSO_SETTING = PERCORSO_ESECUZIONE_JAR + "/core/dati/setting.json";
+    public static final String NOMEFILE = PERCORSO_ESECUZIONE_JAR + "/core/dati/listaComuni.txt";
     public static final String AVATAR_SCELTO = "AVATAR_SCELTO";
     public static final String ABILITA_MODIFICHE = "ABILITA_MODIFICHE";
     public static final String SETTING = "SETTING";

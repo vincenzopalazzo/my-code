@@ -1,9 +1,14 @@
 ### IDE files
 .idea/
-.setting/
+.settings/
 *.iml
 target/
 src/test/
+my-code/
+.classpath
+.project
+core/lib
+core/dati/*.json
 
 ### Package Files #
 *.jar

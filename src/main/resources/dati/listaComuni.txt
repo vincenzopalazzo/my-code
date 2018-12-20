@@ -1,0 +1,8093 @@
+nullComune_Provincia_CodFisco
+Abano Terme_PD_A001
+Abbadia Cerreto_LO_A004
+Abbadia Lariana_LC_A005
+Abbadia San Salvatore_SI_A006
+Abbasanta_OR_A007
+Abbateggio_PE_A008
+Abbiategrasso_MI_A010
+Abetone_PT_A012
+Abriola_PZ_A013
+Acate_RG_A014
+Accadia_FG_A015
+Acceglio_CN_A016
+Accettura_MT_A017
+Acciano_AQ_A018
+Accumoli_RI_A019
+Acerenza_PZ_A020
+Acerno_SA_A023
+Acerra_NA_A024
+Aci Bonaccorsi_CT_A025
+Aci Castello_CT_A026
+Aci Catena_CT_A027
+Aci Sant'Antonio_CT_A029
+Acireale_CT_A028
+Acquacanina_MC_A031
+Acquafondata_FR_A032
+Acquaformosa_CS_A033
+Acquafredda_BS_A034
+Acqualagna_PU_A035
+Acquanegra Cremonese_CR_A039
+Acquanegra sul Chiese_MN_A038
+Acquapendente_VT_A040
+Acquappesa_CS_A041
+Acquarica del Capo_LE_A042
+Acquaro_VV_A043
+Acquasanta Terme_AP_A044
+Acquasparta_TR_A045
+Acquaviva Collecroce_CB_A050
+Acquaviva delle Fonti_BA_A048
+Acquaviva d'Isernia_IS_A051
+Acquaviva Picena_AP_A047
+Acquaviva Platani_CL_A049
+Acquedolci_ME_M211
+Acqui Terme_AL_A052
+Acri_CS_A053
+Acuto_FR_A054
+Adelfia_BA_A055
+Adrano_CT_A056
+Adrara San Martino_BG_A057
+Adrara San Rocco_BG_A058
+Adria_RO_A059
+Adro_BS_A060
+Affi_VR_A061
+Affile_RM_A062
+Afragola_NA_A064
+Africo_RC_A065
+Agazzano_PC_A067
+Agerola_NA_A068
+Aggius_OT_A069
+Agira_EN_A070
+Agliana_PT_A071
+Agliano Terme_AT_A072
+Agli�_TO_A074
+Aglientu_OT_H848
+Agna_PD_A075
+Agnadello_CR_A076
+Agnana Calabra_RC_A077
+Agnone_IS_A080
+Agnosine_BS_A082
+Agordo_BL_A083
+Agosta_RM_A084
+Agra_VA_A085
+Agrate Brianza_MB_A087
+Agrate Conturbia_NO_A088
+Agrigento_AG_A089
+Agropoli_SA_A091
+Agugliano_AN_A092
+Agugliaro_VI_A093
+Aicurzio_MB_A096
+Aidomaggiore_OR_A097
+Aidone_EN_A098
+Aielli_AQ_A100
+Aiello Calabro_CS_A102
+Aiello del Friuli_UD_A103
+Aiello del Sabato_AV_A101
+Aieta_CS_A105
+Ailano_CE_A106
+Ailoche_BI_A107
+Airasca_TO_A109
+Airola_BN_A110
+Airole_IM_A111
+Airuno_LC_A112
+Aisone_CN_A113
+Ala_TN_A116
+Al� dei Sardi_OT_A115
+Ala di Stura_TO_A117
+Alagna_PV_A118
+Alagna Valsesia_VC_A119
+Alanno_PE_A120
+Alano di Piave_BL_A121
+Alassio_SV_A122
+Alatri_FR_A123
+Alba_CN_A124
+Alba Adriatica_TE_A125
+Albagiara_OR_A126
+Albairate_MI_A127
+Albanella_SA_A128
+Albano di Lucania_PZ_A131
+Albano Laziale_RM_A132
+Albano Sant'Alessandro_BG_A129
+Albano Vercellese_VC_A130
+Albaredo Arnaboldi_PV_A134
+Albaredo d'Adige_VR_A137
+Albaredo per San Marco_SO_A135
+Albareto_PR_A138
+Albaretto della Torre_CN_A139
+Albavilla_CO_A143
+Albenga_SV_A145
+Albera Ligure_AL_A146
+Alberobello_BA_A149
+Alberona_FG_A150
+Albese con Cassano_CO_A153
+Albettone_VI_A154
+Albi_CZ_A155
+Albiano_TN_A158
+Albiano d'Ivrea_TO_A157
+Albiate_MB_A159
+Albidona_CS_A160
+Albignasego_PD_A161
+Albinea_RE_A162
+Albino_BG_A163
+Albiolo_CO_A164
+Albisola Superiore_SV_A166
+Albissola Marina_SV_A165
+Albizzate_VA_A167
+Albonese_PV_A171
+Albosaggia_SO_A172
+Albugnano_AT_A173
+Albuzzano_PV_A175
+Alcamo_TP_A176
+Alcara Li Fusi_ME_A177
+Aldeno_TN_A178
+Aldino_BZ_A179
+Ales_OR_A180
+Alessandria_AL_A182
+Alessandria del Carretto_CS_A183
+Alessandria della Rocca_AG_A181
+Alessano_LE_A184
+Alezio_LE_A185
+Alfano_SA_A186
+Alfedena_AQ_A187
+Alfianello_BS_A188
+Alfiano Natta_AL_A189
+Alfonsine_RA_A191
+Alghero_SS_A192
+Algua_BG_A193
+Al�_ME_A194
+Al� Terme_ME_A201
+Alia_PA_A195
+Aliano_MT_A196
+Alice Bel Colle_AL_A197
+Alice Castello_VC_A198
+Alice Superiore_TO_A199
+Alife_CE_A200
+Alimena_PA_A202
+Aliminusa_PA_A203
+Allai_OR_A204
+Alleghe_BL_A206
+Allein_AO_A205
+Allerona_TR_A207
+Alliste_LE_A208
+Allumiere_RM_A210
+Alluvioni Cambi�_AL_A211
+Alm�_BG_A214
+Almenno San Bartolomeo_BG_A216
+Almenno San Salvatore_BG_A217
+Almese_TO_A218
+Alonte_VI_A220
+Alpette_TO_A221
+Alpignano_TO_A222
+Alseno_PC_A223
+Alserio_CO_A224
+Altamura_BA_A225
+Altare_SV_A226
+Altavilla Irpina_AV_A228
+Altavilla Milicia_PA_A229
+Altavilla Monferrato_AL_A227
+Altavilla Silentina_SA_A230
+Altavilla Vicentina_VI_A231
+Altidona_FM_A233
+Altilia_CS_A234
+Altino_CH_A235
+Altissimo_VI_A236
+Altivole_TV_A237
+Alto_CN_A238
+Altofonte_PA_A239
+Altomonte_CS_A240
+Altopascio_LU_A241
+Alviano_TR_A242
+Alvignano_CE_A243
+Alvito_FR_A244
+Alzano Lombardo_BG_A246
+Alzano Scrivia_AL_A245
+Alzate Brianza_CO_A249
+Amalfi_SA_A251
+Amandola_FM_A252
+Amantea_CS_A253
+Amaro_UD_A254
+Amaroni_CZ_A255
+Amaseno_FR_A256
+Amato_CZ_A257
+Amatrice_RI_A258
+Ambivere_BG_A259
+Amblar_TN_A260
+Ameglia_SP_A261
+Amelia_TR_A262
+Amendolara_CS_A263
+Ameno_NO_A264
+Amorosi_BN_A265
+Ampezzo_UD_A267
+Anacapri_NA_A268
+Anagni_FR_A269
+Ancarano_TE_A270
+Ancona_AN_A271
+Andali_CZ_A272
+Andalo_TN_A274
+Andalo Valtellino_SO_A273
+Andezeno_TO_A275
+Andora_SV_A278
+Andorno Micca_BI_A280
+Andrano_LE_A281
+Andrate_TO_A282
+Andreis_PN_A283
+Andretta_AV_A284
+Andria_BT_A285
+Andriano_BZ_A286
+Anela_SS_A287
+Anfo_BS_A288
+Angera_VA_A290
+Anghiari_AR_A291
+Angiari_VR_A292
+Angolo Terme_BS_A293
+Angri_SA_A294
+Angrogna_TO_A295
+Anguillara Sabazia_RM_A297
+Anguillara Veneta_PD_A296
+Annicco_CR_A299
+Annone di Brianza_LC_A301
+Annone Veneto_VE_A302
+Anoia_RC_A303
+Antegnate_BG_A304
+Anterivo_BZ_A306
+Antey-Saint-Andr�_AO_A305
+Anticoli Corrado_RM_A309
+Antignano_AT_A312
+Antillo_ME_A313
+Antonimina_RC_A314
+Antrodoco_RI_A315
+Antrona Schieranco_VB_A317
+Anversa degli Abruzzi_AQ_A318
+Anzano del Parco_CO_A319
+Anzano di Puglia_FG_A320
+Anzi_PZ_A321
+Anzio_RM_A323
+Anzola dell'Emilia_BO_A324
+Anzola d'Ossola_VB_A325
+Aosta_AO_A326
+Apecchio_PU_A327
+Apice_BN_A328
+Apiro_MC_A329
+Apollosa_BN_A330
+Appiano Gentile_CO_A333
+Appiano sulla Strada del Vino_BZ_A332
+Appignano_MC_A334
+Appignano del Tronto_AP_A335
+Aprica_SO_A337
+Apricale_IM_A338
+Apricena_FG_A339
+Aprigliano_CS_A340
+Aprilia_LT_A341
+Aquara_SA_A343
+Aquila d'Arroscia_IM_A344
+Aquileia_UD_A346
+Aquilonia_AV_A347
+Aquino_FR_A348
+Aradeo_LE_A350
+Aragona_AG_A351
+Aramengo_AT_A352
+Arba_PN_A354
+Arborea_OR_A357
+Arborio_VC_A358
+Arbus_VS_A359
+Arcade_TV_A360
+Arce_FR_A363
+Arcene_BG_A365
+Arcevia_AN_A366
+Archi_CH_A367
+Arcidosso_GR_A369
+Arcinazzo Romano_RM_A370
+Arcisate_VA_A371
+Arco_TN_A372
+Arcola_SP_A373
+Arcole_VR_A374
+Arconate_MI_A375
+Arcore_MB_A376
+Arcugnano_VI_A377
+Ardara_SS_A379
+Ardauli_OR_A380
+Ardea_RM_M213
+Ardenno_SO_A382
+Ardesio_BG_A383
+Ardore_RC_A385
+Arena_VV_A386
+Arena Po_PV_A387
+Arenzano_GE_A388
+Arese_MI_A389
+Arezzo_AR_A390
+Argegno_CO_A391
+Argelato_BO_A392
+Argenta_FE_A393
+Argentera_CN_A394
+Arguello_CN_A396
+Argusto_CZ_A397
+Ari_CH_A398
+Ariano Irpino_AV_A399
+Ariano nel Polesine_RO_A400
+Ariccia_RM_A401
+Arielli_CH_A402
+Arienzo_CE_A403
+Arignano_TO_A405
+Aritzo_NU_A407
+Arizzano_VB_A409
+Arlena di Castro_VT_A412
+Arluno_MI_A413
+Armeno_NO_A414
+Armento_PZ_A415
+Armo_IM_A418
+Armungia_CA_A419
+Arnad_AO_A424
+Arnara_FR_A421
+Arnasco_SV_A422
+Arnesano_LE_A425
+Arola_VB_A427
+Arona_NO_A429
+Arosio_CO_A430
+Arpaia_BN_A431
+Arpaise_BN_A432
+Arpino_FR_A433
+Arqu� Petrarca_PD_A434
+Arqu� Polesine_RO_A435
+Arquata del Tronto_AP_A437
+Arquata Scrivia_AL_A436
+Arre_PD_A438
+Arrone_TR_A439
+Arsago Seprio_VA_A441
+Arsi�_BL_A443
+Arsiero_VI_A444
+Arsita_TE_A445
+Arsoli_RM_A446
+Arta Terme_UD_A447
+Artegna_UD_A448
+Artena_RM_A449
+Artogne_BS_A451
+Arvier_AO_A452
+Arzachena_OT_A453
+Arzago d'Adda_BG_A440
+Arzana_OG_A454
+Arzano_NA_A455
+Arzene_PN_A456
+Arzergrande_PD_A458
+Arzignano_VI_A459
+Ascea_SA_A460
+Asciano_SI_A461
+Ascoli Piceno_AP_A462
+Ascoli Satriano_FG_A463
+Ascrea_RI_A464
+Asiago_VI_A465
+Asigliano Veneto_VI_A467
+Asigliano Vercellese_VC_A466
+Asola_MN_A470
+Asolo_TV_A471
+Assago_MI_A473
+Assemini_CA_A474
+Assisi_PG_A475
+Asso_CO_A476
+Assolo_OR_A477
+Assoro_EN_A478
+Asti_AT_A479
+Asuni_OR_A480
+Ateleta_AQ_A481
+Atella_PZ_A482
+Atena Lucana_SA_A484
+Atessa_CH_A485
+Atina_FR_A486
+Atrani_SA_A487
+Atri_TE_A488
+Atripalda_AV_A489
+Attigliano_TR_A490
+Attimis_UD_A491
+Atzara_NU_A492
+Auditore_PU_A493
+Augusta_SR_A494
+Auletta_SA_A495
+Aulla_MS_A496
+Aurano_VB_A497
+Aurigo_IM_A499
+Auronzo di Cadore_BL_A501
+Ausonia_FR_A502
+Austis_NU_A503
+Avegno_GE_A506
+Avelengo_BZ_A507
+Avella_AV_A508
+Avellino_AV_A509
+Averara_BG_A511
+Aversa_CE_A512
+Avetrana_TA_A514
+Avezzano_AQ_A515
+Aviano_PN_A516
+Aviatico_BG_A517
+Avigliana_TO_A518
+Avigliano_PZ_A519
+Avigliano Umbro_TR_M258
+Avio_TN_A520
+Avise_AO_A521
+Avola_SR_A522
+Avolasca_AL_A523
+Ayas_AO_A094
+Aymavilles_AO_A108
+Azeglio_TO_A525
+Azzanello_CR_A526
+Azzano d'Asti_AT_A527
+Azzano Decimo_PN_A530
+Azzano Mella_BS_A529
+Azzano San Paolo_BG_A528
+Azzate_VA_A531
+Azzio_VA_A532
+Azzone_BG_A533
+Baceno_VB_A534
+Bacoli_NA_A535
+Badalucco_IM_A536
+Badesi_OT_M214
+Badia_BZ_A537
+Badia Calavena_VR_A540
+Badia Pavese_PV_A538
+Badia Polesine_RO_A539
+Badia Tedalda_AR_A541
+Badolato_CZ_A542
+Bagaladi_RC_A544
+Bagheria_PA_A546
+Bagnacavallo_RA_A547
+Bagnara Calabra_RC_A552
+Bagnara di Romagna_RA_A551
+Bagnaria_PV_A550
+Bagnaria Arsa_UD_A553
+Bagnasco_CN_A555
+Bagnatica_BG_A557
+Bagni di Lucca_LU_A560
+Bagno a Ripoli_FI_A564
+Bagno di Romagna_FC_A565
+Bagnoli del Trigno_IS_A567
+Bagnoli di Sopra_PD_A568
+Bagnoli Irpino_AV_A566
+Bagnolo Cremasco_CR_A570
+Bagnolo del Salento_LE_A572
+Bagnolo di Po_RO_A574
+Bagnolo in Piano_RE_A573
+Bagnolo Mella_BS_A569
+Bagnolo Piemonte_CN_A571
+Bagnolo San Vito_MN_A575
+Bagnone_MS_A576
+Bagnoregio_VT_A577
+Bagolino_BS_A578
+Baia e Latina_CE_A579
+Baiano_AV_A580
+Bairo_TO_A584
+Baiso_RE_A586
+Bajardo_IM_A581
+Balangero_TO_A587
+Baldichieri d'Asti_AT_A588
+Baldissero Canavese_TO_A590
+Baldissero d'Alba_CN_A589
+Baldissero Torinese_TO_A591
+Balestrate_PA_A592
+Balestrino_SV_A593
+Ballabio_LC_A594
+Ballao_CA_A597
+Balme_TO_A599
+Balmuccia_VC_A600
+Balocco_VC_A601
+Balsorano_AQ_A603
+Balvano_PZ_A604
+Balzola_AL_A605
+Banari_SS_A606
+Banchette_TO_A607
+Bannio Anzino_VB_A610
+Banzi_PZ_A612
+Baone_PD_A613
+Baradili_OR_A614
+Baragiano_PZ_A615
+Baranello_CB_A616
+Barano d'Ischia_NA_A617
+Baranzate_MI_A618
+Barasso_VA_A619
+Baratili San Pietro_OR_A621
+Barbania_TO_A625
+Barbara_AN_A626
+Barbarano Romano_VT_A628
+Barbarano Vicentino_VI_A627
+Barbaresco_CN_A629
+Barbariga_BS_A630
+Barbata_BG_A631
+Barberino di Mugello_FI_A632
+Barberino Val d'Elsa_FI_A633
+Barbianello_PV_A634
+Barbiano_BZ_A635
+Barbona_PD_A637
+Barcellona Pozzo di Gotto_ME_A638
+Barchi_PU_A639
+Barcis_PN_A640
+Bard_AO_A643
+Bardello_VA_A645
+Bardi_PR_A646
+Bardineto_SV_A647
+Bardolino_VR_A650
+Bardonecchia_TO_A651
+Bareggio_MI_A652
+Barengo_NO_A653
+Baressa_OR_A655
+Barete_AQ_A656
+Barga_LU_A657
+Bargagli_GE_A658
+Barge_CN_A660
+Barghe_BS_A661
+Bari_BA_A662
+Bari Sardo_OG_A663
+Bariano_BG_A664
+Baricella_BO_A665
+Barile_PZ_A666
+Barisciano_AQ_A667
+Barlassina_MB_A668
+Barletta_BT_A669
+Barni_CO_A670
+Barolo_CN_A671
+Barone Canavese_TO_A673
+Baronissi_SA_A674
+Barrafranca_EN_A676
+Barrali_CA_A677
+Barrea_AQ_A678
+Barumini_VS_A681
+Barzago_LC_A683
+Barzana_BG_A684
+Barzan�_LC_A686
+Barzio_LC_A687
+Basaluzzo_AL_A689
+Bascap�_PV_A690
+Baschi_TR_A691
+Basciano_TE_A692
+Baselga di Pin�_TN_A694
+Baselice_BN_A696
+Basiano_MI_A697
+Basic�_ME_A698
+Basiglio_MI_A699
+Basiliano_UD_A700
+Bassano Bresciano_BS_A702
+Bassano del Grappa_VI_A703
+Bassano in Teverina_VT_A706
+Bassano Romano_VT_A704
+Bassiano_LT_A707
+Bassignana_AL_A708
+Bastia Mondov�_CN_A709
+Bastia Umbra_PG_A710
+Bastida de' Dossi_PV_A711
+Bastida Pancarana_PV_A712
+Bastiglia_MO_A713
+Battaglia Terme_PD_A714
+Battifollo_CN_A716
+Battipaglia_SA_A717
+Battuda_PV_A718
+Baucina_PA_A719
+Bauladu_OR_A721
+Baunei_OG_A722
+Baveno_VB_A725
+Bazzano_BO_A726
+Bedero Valcuvia_VA_A728
+Bedizzole_BS_A729
+Bedollo_TN_A730
+Bedonia_PR_A731
+Bedulita_BG_A732
+Bee_VB_A733
+Beinasco_TO_A734
+Beinette_CN_A735
+Belcastro_CZ_A736
+Belfiore_VR_A737
+Belforte all'Isauro_PU_A740
+Belforte del Chienti_MC_A739
+Belforte Monferrato_AL_A738
+Belgioioso_PV_A741
+Belgirate_VB_A742
+Bella_PZ_A743
+Bellagio_CO_A744
+Bellano_LC_A745
+Bellante_TE_A746
+Bellaria-Igea Marina_RN_A747
+Bellegra_RM_A749
+Bellino_CN_A750
+Bellinzago Lombardo_MI_A751
+Bellinzago Novarese_NO_A752
+Bellizzi_SA_M294
+Bellona_CE_A755
+Bellosguardo_SA_A756
+Belluno_BL_A757
+Bellusco_MB_A759
+Belmonte Calabro_CS_A762
+Belmonte Castello_FR_A763
+Belmonte del Sannio_IS_A761
+Belmonte in Sabina_RI_A765
+Belmonte Mezzagno_PA_A764
+Belmonte Piceno_FM_A760
+Belpasso_CT_A766
+Belsito_CS_A768
+Belvedere di Spinello_KR_A772
+Belvedere Langhe_CN_A774
+Belvedere Marittimo_CS_A773
+Belvedere Ostrense_AN_A769
+Belveglio_AT_A770
+Belv�_NU_A776
+Bema_SO_A777
+Bene Lario_CO_A778
+Bene Vagienna_CN_A779
+Benestare_RC_A780
+Benetutti_SS_A781
+Benevello_CN_A782
+Benevento_BN_A783
+Benna_BI_A784
+Bentivoglio_BO_A785
+Berbenno_BG_A786
+Berbenno di Valtellina_SO_A787
+Berceto_PR_A788
+Berchidda_OT_A789
+Beregazzo con Figliaro_CO_A791
+Bereguardo_PV_A792
+Bergamasco_AL_A793
+Bergamo_BG_A794
+Bergantino_RO_A795
+Bergeggi_SV_A796
+Bergolo_CN_A798
+Berlingo_BS_A799
+Bernalda_MT_A801
+Bernareggio_MB_A802
+Bernate Ticino_MI_A804
+Bernezzo_CN_A805
+Berra_FE_A806
+Bersone_TN_A808
+Bertinoro_FC_A809
+Bertiolo_UD_A810
+Bertonico_LO_A811
+Berzano di San Pietro_AT_A812
+Berzano di Tortona_AL_A813
+Berzo Demo_BS_A816
+Berzo Inferiore_BS_A817
+Berzo San Fermo_BG_A815
+Besana in Brianza_MB_A818
+Besano_VA_A819
+Besate_MI_A820
+Besenello_TN_A821
+Besenzone_PC_A823
+Besnate_VA_A825
+Besozzo_VA_A826
+Bessude_SS_A827
+Bettola_PC_A831
+Bettona_PG_A832
+Beura-Cardezza_VB_A834
+Bevagna_PG_A835
+Beverino_SP_A836
+Bevilacqua_VR_A837
+Biancavilla_CT_A841
+Bianchi_CS_A842
+Bianco_RC_A843
+Biandrate_NO_A844
+Biandronno_VA_A845
+Bianzano_BG_A846
+Bianz�_VC_A847
+Bianzone_SO_A848
+Biassono_MB_A849
+Bibbiano_RE_A850
+Bibbiena_AR_A851
+Bibbona_LI_A852
+Bibiana_TO_A853
+Biccari_FG_A854
+Bicinicco_UD_A855
+Bidon�_OR_A856
+Biella_BI_A859
+Bienno_BS_A861
+Bieno_TN_A863
+Bientina_PI_A864
+Bigarello_MN_A866
+Binago_CO_A870
+Binasco_MI_A872
+Binetto_BA_A874
+Bioglio_BI_A876
+Bionaz_AO_A877
+Bione_BS_A878
+Birori_NU_A880
+Bisaccia_AV_A881
+Bisacquino_PA_A882
+Bisceglie_BT_A883
+Bisegna_AQ_A884
+Bisenti_TE_A885
+Bisignano_CS_A887
+Bistagno_AL_A889
+Bisuschio_VA_A891
+Bitetto_BA_A892
+Bitonto_BA_A893
+Bitritto_BA_A894
+Bitti_NU_A895
+Bivona_AG_A896
+Bivongi_RC_A897
+Bizzarone_CO_A898
+Bleggio Superiore_TN_A902
+Blello_BG_A903
+Blera_VT_A857
+Blessagno_CO_A904
+Blevio_CO_A905
+Blufi_PA_M268
+Boara Pisani_PD_A906
+Bobbio_PC_A909
+Bobbio Pellice_TO_A910
+Boca_NO_A911
+Bocchigliero_CS_A912
+Boccioleto_VC_A914
+Bocenago_TN_A916
+Bodio Lomnago_VA_A918
+Boffalora d'Adda_LO_A919
+Boffalora Sopra Ticino_MI_A920
+Bogliasco_GE_A922
+Bognanco_VB_A925
+Bogogno_NO_A929
+Boissano_SV_A931
+Bojano_CB_A930
+Bolano_SP_A932
+Bolbeno_TN_A933
+Bolgare_BG_A937
+Bollate_MI_A940
+Bollengo_TO_A941
+Bologna_BO_A944
+Bolognano_PE_A945
+Bolognetta_PA_A946
+Bolognola_MC_A947
+Bolotana_NU_A948
+Bolsena_VT_A949
+Boltiere_BG_A950
+Bolzano_BZ_A952
+Bolzano Novarese_NO_A953
+Bolzano Vicentino_VI_A954
+Bomarzo_VT_A955
+Bomba_CH_A956
+Bompensiere_CL_A957
+Bompietro_PA_A958
+Bomporto_MO_A959
+Bonarcado_OR_A960
+Bonassola_SP_A961
+Bonate Sopra_BG_A963
+Bonate Sotto_BG_A962
+Bonavigo_VR_A964
+Bondeno_FE_A965
+Bondo_TN_A967
+Bondone_TN_A968
+Bonea_BN_A970
+Bonefro_CB_A971
+Bonemerse_CR_A972
+Bonifati_CS_A973
+Bonito_AV_A975
+Bonnanaro_SS_A976
+Bono_SS_A977
+Bonorva_SS_A978
+Bonvicino_CN_A979
+Borbona_RI_A981
+Borca di Cadore_BL_A982
+Bordano_UD_A983
+Bordighera_IM_A984
+Bordolano_CR_A986
+Bore_PR_A987
+Boretto_RE_A988
+Borgarello_PV_A989
+Borgaro Torinese_TO_A990
+Borgetto_PA_A991
+Borghetto d'Arroscia_IM_A993
+Borghetto di Borbera_AL_A998
+Borghetto di Vara_SP_A992
+Borghetto Lodigiano_LO_A995
+Borghetto Santo Spirito_SV_A999
+Borghi_FC_B001
+Borgia_CZ_B002
+Borgiallo_TO_B003
+Borgio Verezzi_SV_B005
+Borgo a Mozzano_LU_B007
+Borgo d'Ale_VC_B009
+Borgo di Terzo_BG_B010
+Borgo Pace_PU_B026
+Borgo Priolo_PV_B028
+Borgo San Dalmazzo_CN_B033
+Borgo San Giacomo_BS_B035
+Borgo San Giovanni_LO_B017
+Borgo San Lorenzo_FI_B036
+Borgo San Martino_AL_B037
+Borgo San Siro_PV_B038
+Borgo Ticino_NO_B043
+Borgo Tossignano_BO_B044
+Borgo Val di Taro_PR_B042
+Borgo Valsugana_TN_B006
+Borgo Velino_RI_A996
+Borgo Vercelli_VC_B046
+Borgoforte_MN_B011
+Borgofranco d'Ivrea_TO_B015
+Borgofranco sul Po_MN_B013
+Borgolavezzaro_NO_B016
+Borgomale_CN_B018
+Borgomanero_NO_B019
+Borgomaro_IM_B020
+Borgomasino_TO_B021
+Borgone Susa_TO_B024
+Borgonovo Val Tidone_PC_B025
+Borgoratto Alessandrino_AL_B029
+Borgoratto Mormorolo_PV_B030
+Borgoricco_PD_B031
+Borgorose_RI_B008
+Borgosatollo_BS_B040
+Borgosesia_VC_B041
+Bormida_SV_B048
+Bormio_SO_B049
+Bornasco_PV_B051
+Borno_BS_B054
+Boroneddu_OR_B055
+Borore_NU_B056
+Borrello_CH_B057
+Borriana_BI_B058
+Borso del Grappa_TV_B061
+Bortigali_NU_B062
+Bortigiadas_OT_B063
+Borutta_SS_B064
+Borzonasca_GE_B067
+Bosa_OR_B068
+Bosaro_RO_B069
+Boschi Sant'Anna_VR_B070
+Bosco Chiesanuova_VR_B073
+Bosco Marengo_AL_B071
+Bosconero_TO_B075
+Boscoreale_NA_B076
+Boscotrecase_NA_B077
+Bosentino_TN_B078
+Bosia_CN_B079
+Bosio_AL_B080
+Bosisio Parini_LC_B081
+Bosnasco_PV_B082
+Bossico_BG_B083
+Bossolasco_CN_B084
+Botricello_CZ_B085
+Botrugno_LE_B086
+Bottanuco_BG_B088
+Botticino_BS_B091
+Bottidda_SS_B094
+Bova_RC_B097
+Bova Marina_RC_B099
+Bovalino_RC_B098
+Bovegno_BS_B100
+Boves_CN_B101
+Bovezzo_BS_B102
+Boville Ernica_FR_A720
+Bovino_FG_B104
+Bovisio-Masciago_MB_B105
+Bovolenta_PD_B106
+Bovolone_VR_B107
+Bozzole_AL_B109
+Bozzolo_MN_B110
+Bra_CN_B111
+Bracca_BG_B112
+Bracciano_RM_B114
+Bracigliano_SA_B115
+Braies_BZ_B116
+Brallo di Pregola_PV_B117
+Brancaleone_RC_B118
+Brandico_BS_B120
+Brandizzo_TO_B121
+Branzi_BG_B123
+Braone_BS_B124
+Brebbia_VA_B126
+Breda di Piave_TV_B128
+Bregano_VA_B131
+Breganze_VI_B132
+Bregnano_CO_B134
+Breguzzo_TN_B135
+Breia_VC_B136
+Brembate_BG_B137
+Brembate di Sopra_BG_B138
+Brembilla_BG_B140
+Brembio_LO_B141
+Breme_PV_B142
+Brendola_VI_B143
+Brenna_CO_B144
+Brennero_BZ_B145
+Breno_BS_B149
+Brenta_VA_B150
+Brentino Belluno_VR_B152
+Brentonico_TN_B153
+Brenzone_VR_B154
+Brescello_RE_B156
+Brescia_BS_B157
+Bresimo_TN_B158
+Bressana Bottarone_PV_B159
+Bressanone_BZ_B160
+Bressanvido_VI_B161
+Bresso_MI_B162
+Brez_TN_B165
+Brezzo di Bedero_VA_B166
+Briaglia_CN_B167
+Briatico_VV_B169
+Bricherasio_TO_B171
+Brienno_CO_B172
+Brienza_PZ_B173
+Briga Alta_CN_B175
+Briga Novarese_NO_B176
+Brignano Gera d'Adda_BG_B178
+Brignano-Frascata_AL_B179
+Brindisi_BR_B180
+Brindisi Montagna_PZ_B181
+Brinzio_VA_B182
+Briona_NO_B183
+Brione_BS_B184
+Brione_TN_B185
+Briosco_MB_B187
+Brisighella_RA_B188
+Brissago-Valtravaglia_VA_B191
+Brissogne_AO_B192
+Brittoli_PE_B193
+Brivio_LC_B194
+Broccostella_FR_B195
+Brogliano_VI_B196
+Brognaturo_VV_B197
+Brolo_ME_B198
+Brondello_CN_B200
+Broni_PV_B201
+Bronte_CT_B202
+Bronzolo_BZ_B203
+Brossasco_CN_B204
+Brosso_TO_B205
+Brovello-Carpugnino_VB_B207
+Brozolo_TO_B209
+Brugherio_MB_B212
+Brugine_PD_B213
+Brugnato_SP_B214
+Brugnera_PN_B215
+Bruino_TO_B216
+Brumano_BG_B217
+Brunate_CO_B218
+Brunello_VA_B219
+Brunico_BZ_B220
+Bruno_AT_B221
+Brusaporto_BG_B223
+Brusasco_TO_B225
+Brusciano_NA_B227
+Brusimpiano_VA_B228
+Brusnengo_BI_B229
+Brusson_AO_B230
+Bruzolo_TO_B232
+Bruzzano Zeffirio_RC_B234
+Bubbiano_MI_B235
+Bubbio_AT_B236
+Buccheri_SR_B237
+Bucchianico_CH_B238
+Bucciano_BN_B239
+Buccinasco_MI_B240
+Buccino_SA_B242
+Bucine_AR_B243
+Buddus�_OT_B246
+Budoia_PN_B247
+Budoni_OT_B248
+Budrio_BO_B249
+Buggerru_CI_B250
+Buggiano_PT_B251
+Buglio in Monte_SO_B255
+Bugnara_AQ_B256
+Buguggiate_VA_B258
+Buja_UD_B259
+Bulciago_LC_B261
+Bulgarograsso_CO_B262
+Bultei_SS_B264
+Bulzi_SS_B265
+Buonabitacolo_SA_B266
+Buonalbergo_BN_B267
+Buonconvento_SI_B269
+Buonvicino_CS_B270
+Burago di Molgora_MB_B272
+Burcei_CA_B274
+Burgio_AG_B275
+Burgos_SS_B276
+Buriasco_TO_B278
+Burolo_TO_B279
+Buronzo_VC_B280
+Busachi_OR_B281
+Busalla_GE_B282
+Busana_RE_B283
+Busano_TO_B284
+Busca_CN_B285
+Buscate_MI_B286
+Buscemi_SR_B287
+Buseto Palizzolo_TP_B288
+Busnago_MB_B289
+Bussero_MI_B292
+Busseto_PR_B293
+Bussi sul Tirino_PE_B294
+Busso_CB_B295
+Bussolengo_VR_B296
+Bussoleno_TO_B297
+Busto Arsizio_VA_B300
+Busto Garolfo_MI_B301
+Butera_CL_B302
+Buti_PI_B303
+Buttapietra_VR_B304
+Buttigliera Alta_TO_B305
+Buttigliera d'Asti_AT_B306
+Buttrio_UD_B309
+Ca' d'Andrea_CR_B320
+Cabella Ligure_AL_B311
+Cabiate_CO_B313
+Cabras_OR_B314
+Caccamo_PA_B315
+Caccuri_KR_B319
+Cadegliano-Viconago_VA_B326
+Cadelbosco di Sopra_RE_B328
+Cadeo_PC_B332
+Caderzone Terme_TN_B335
+Cadoneghe_PD_B345
+Cadorago_CO_B346
+Cadrezzate_VA_B347
+Caerano di San Marco_TV_B349
+Cafasse_TO_B350
+Caggiano_SA_B351
+Cagli_PU_B352
+Cagliari_CA_B354
+Caglio_CO_B355
+Cagnano Amiterno_AQ_B358
+Cagnano Varano_FG_B357
+Cagno_CO_B359
+Cagn�_TN_B360
+Caianello_CE_B361
+Caiazzo_CE_B362
+Caines_BZ_B364
+Caino_BS_B365
+Caiolo_SO_B366
+Cairano_AV_B367
+Cairate_VA_B368
+Cairo Montenotte_SV_B369
+Caivano_NA_B371
+Calabritto_AV_B374
+Calalzo di Cadore_BL_B375
+Calamandrana_AT_B376
+Calamonaci_AG_B377
+Calangianus_OT_B378
+Calanna_RC_B379
+Calasca-Castiglione_VB_B380
+Calascibetta_EN_B381
+Calascio_AQ_B382
+Calasetta_CI_B383
+Calatabiano_CT_B384
+Calatafimi Segesta_TP_B385
+Calavino_TN_B386
+Calcata_VT_B388
+Calceranica al Lago_TN_B389
+Calci_PI_B390
+Calciano_MT_B391
+Calcinaia_PI_B392
+Calcinate_BG_B393
+Calcinato_BS_B394
+Calcio_BG_B395
+Calco_LC_B396
+Caldaro sulla Strada del Vino_BZ_B397
+Caldarola_MC_B398
+Calderara di Reno_BO_B399
+Caldes_TN_B400
+Caldiero_VR_B402
+Caldogno_VI_B403
+Caldonazzo_TN_B404
+Calendasco_PC_B405
+Calenzano_FI_B406
+Calestano_PR_B408
+Calice al Cornoviglio_SP_B410
+Calice Ligure_SV_B409
+Calimera_LE_B413
+Calitri_AV_B415
+Calizzano_SV_B416
+Callabiana_BI_B417
+Calliano_AT_B418
+Calliano_TN_B419
+Calolziocorte_LC_B423
+Calopezzati_CS_B424
+Calosso_AT_B425
+Caloveto_CS_B426
+Caltabellotta_AG_B427
+Caltagirone_CT_B428
+Caltanissetta_CL_B429
+Caltavuturo_PA_B430
+Caltignaga_NO_B431
+Calto_RO_B432
+Caltrano_VI_B433
+Calusco d'Adda_BG_B434
+Caluso_TO_B435
+Calvagese della Riviera_BS_B436
+Calvanico_SA_B437
+Calvatone_CR_B439
+Calvello_PZ_B440
+Calvene_VI_B441
+Calvenzano_BG_B442
+Calvera_PZ_B443
+Calvi_BN_B444
+Calvi dell'Umbria_TR_B446
+Calvi Risorta_CE_B445
+Calvignano_PV_B447
+Calvignasco_MI_B448
+Calvisano_BS_B450
+Calvizzano_NA_B452
+Camagna Monferrato_AL_B453
+Camaiore_LU_B455
+Camairago_LO_B456
+Camandona_BI_B457
+Camastra_AG_B460
+Cambiago_MI_B461
+Cambiano_TO_B462
+Cambiasca_VB_B463
+Camburzano_BI_B465
+Camerana_CN_B467
+Camerano_AN_B468
+Camerano Casasco_AT_B469
+Camerata Cornello_BG_B471
+Camerata Nuova_RM_B472
+Camerata Picena_AN_B470
+Cameri_NO_B473
+Camerino_MC_B474
+Camerota_SA_B476
+Camigliano_CE_B477
+Caminata_PC_B479
+Camini_RC_B481
+Camino_AL_B482
+Camino al Tagliamento_UD_B483
+Camisano_CR_B484
+Camisano Vicentino_VI_B485
+Cammarata_AG_B486
+Camo_CN_B489
+Camogli_GE_B490
+Campagna_SA_B492
+Campagna Lupia_VE_B493
+Campagnano di Roma_RM_B496
+Campagnatico_GR_B497
+Campagnola Cremasca_CR_B498
+Campagnola Emilia_RE_B499
+Campana_CS_B500
+Camparada_MB_B501
+Campegine_RE_B502
+Campello sul Clitunno_PG_B504
+Campertogno_VC_B505
+Campi Bisenzio_FI_B507
+Campi Salentina_LE_B506
+Campiglia Cervo_BI_B508
+Campiglia dei Berici_VI_B511
+Campiglia Marittima_LI_B509
+Campiglione-Fenile_TO_B512
+Campione d'Italia_CO_B513
+Campitello di Fassa_TN_B514
+Campli_TE_B515
+Campo Calabro_RC_B516
+Campo di Giove_AQ_B526
+Campo di Trens_BZ_B529
+Campo Ligure_GE_B538
+Campo nell'Elba_LI_B553
+Campo San Martino_PD_B564
+Campo Tures_BZ_B570
+Campobasso_CB_B519
+Campobello di Licata_AG_B520
+Campobello di Mazara_TP_B521
+Campochiaro_CB_B522
+Campodarsego_PD_B524
+Campodenno_TN_B525
+Campodimele_LT_B527
+Campodipietra_CB_B528
+Campodolcino_SO_B530
+Campodoro_PD_B531
+Campofelice di Fitalia_PA_B533
+Campofelice di Roccella_PA_B532
+Campofilone_FM_B534
+Campofiorito_PA_B535
+Campoformido_UD_B536
+Campofranco_CL_B537
+Campogalliano_MO_B539
+Campolattaro_BN_B541
+Campoli Appennino_FR_B543
+Campoli del Monte Taburno_BN_B542
+Campolieto_CB_B544
+Campolongo Maggiore_VE_B546
+Campolongo sul Brenta_VI_B547
+Campolongo Tapogliano_UD_M311
+Campomaggiore_PZ_B549
+Campomarino_CB_B550
+Campomorone_GE_B551
+Camponogara_VE_B554
+Campora_SA_B555
+Camporeale_PA_B556
+Camporgiano_LU_B557
+Camporosso_IM_B559
+Camporotondo di Fiastrone_MC_B562
+Camporotondo Etneo_CT_B561
+Camposampiero_PD_B563
+Camposano_NA_B565
+Camposanto_MO_B566
+Campospinoso_PV_B567
+Campotosto_AQ_B569
+Camugnano_BO_B572
+Canal San Bovo_TN_B577
+Canale_CN_B573
+Canale d'Agordo_BL_B574
+Canale Monterano_RM_B576
+Canaro_RO_B578
+Canazei_TN_B579
+Cancellara_PZ_B580
+Cancello ed Arnone_CE_B581
+Canda_RO_B582
+Candela_FG_B584
+Candelo_BI_B586
+Candia Canavese_TO_B588
+Candia Lomellina_PV_B587
+Candiana_PD_B589
+Candida_AV_B590
+Candidoni_RC_B591
+Candiolo_TO_B592
+Canegrate_MI_B593
+Canelli_AT_B594
+Canepina_VT_B597
+Caneva_PN_B598
+Canevino_PV_B599
+Canicatt�_AG_B602
+Canicattini Bagni_SR_B603
+Canino_VT_B604
+Canischio_TO_B605
+Canistro_AQ_B606
+Canna_CS_B607
+Cannalonga_SA_B608
+Cannara_PG_B609
+Cannero Riviera_VB_B610
+Canneto Pavese_PV_B613
+Canneto sull'Oglio_MN_B612
+Cannobio_VB_B615
+Cannole_LE_B616
+Canolo_RC_B617
+Canonica d'Adda_BG_B618
+Canosa di Puglia_BT_B619
+Canosa Sannita_CH_B620
+Canosio_CN_B621
+Canossa_RE_C669
+Cansano_AQ_B624
+Cantagallo_PO_B626
+Cantalice_RI_B627
+Cantalupa_TO_B628
+Cantalupo in Sabina_RI_B631
+Cantalupo Ligure_AL_B629
+Cantalupo nel Sannio_IS_B630
+Cantarana_AT_B633
+Cantello_VA_B634
+Canterano_RM_B635
+Cantiano_PU_B636
+Cantoira_TO_B637
+Cant�_CO_B639
+Canzano_TE_B640
+Canzo_CO_B641
+Caorle_VE_B642
+Caorso_PC_B643
+Capaccio_SA_B644
+Capaci_PA_B645
+Capalbio_GR_B646
+Capannoli_PI_B647
+Capannori_LU_B648
+Capena_RM_B649
+Capergnanica_CR_B650
+Capestrano_AQ_B651
+Capiago Intimiano_CO_B653
+Capistrano_VV_B655
+Capistrello_AQ_B656
+Capitignano_AQ_B658
+Capizzi_ME_B660
+Capizzone_BG_B661
+Capo di Ponte_BS_B664
+Capo d'Orlando_ME_B666
+Capodimonte_VT_B663
+Capodrise_CE_B667
+Capoliveri_LI_B669
+Capolona_AR_B670
+Caponago_MB_B671
+Caporciano_AQ_B672
+Caposele_AV_B674
+Capoterra_CA_B675
+Capovalle_BS_B676
+Cappadocia_AQ_B677
+Cappella Cantone_CR_B679
+Cappella de' Picenardi_CR_B680
+Cappella Maggiore_TV_B678
+Cappelle sul Tavo_PE_B681
+Capracotta_IS_B682
+Capraia e Limite_FI_B684
+Capraia Isola_LI_B685
+Capralba_CR_B686
+Capranica_VT_B688
+Capranica Prenestina_RM_B687
+Caprarica di Lecce_LE_B690
+Caprarola_VT_B691
+Caprauna_CN_B692
+Caprese Michelangelo_AR_B693
+Caprezzo_VB_B694
+Capri_NA_B696
+Capri Leone_ME_B695
+Capriana_TN_B697
+Capriano del Colle_BS_B698
+Capriata d'Orba_AL_B701
+Capriate San Gervasio_BG_B703
+Capriati a Volturno_CE_B704
+Caprie_TO_B705
+Capriglia Irpina_AV_B706
+Capriglio_AT_B707
+Caprile_BI_B708
+Caprino Bergamasco_BG_B710
+Caprino Veronese_VR_B709
+Capriolo_BS_B711
+Capriva del Friuli_GO_B712
+Capua_CE_B715
+Capurso_BA_B716
+Caraffa del Bianco_RC_B718
+Caraffa di Catanzaro_CZ_B717
+Caraglio_CN_B719
+Caramagna Piemonte_CN_B720
+Caramanico Terme_PE_B722
+Carano_TN_B723
+Carapelle_FG_B724
+Carapelle Calvisio_AQ_B725
+Carasco_GE_B726
+Carassai_AP_B727
+Carate Brianza_MB_B729
+Carate Urio_CO_B730
+Caravaggio_BG_B731
+Caravate_VA_B732
+Caravino_TO_B733
+Caravonica_IM_B734
+Carbognano_VT_B735
+Carbonara al Ticino_PV_B741
+Carbonara di Nola_NA_B740
+Carbonara di Po_MN_B739
+Carbonara Scrivia_AL_B736
+Carbonate_CO_B742
+Carbone_PZ_B743
+Carbonera_TV_B744
+Carbonia_CI_B745
+Carcare_SV_B748
+Carceri_PD_B749
+Carcoforo_VC_B752
+Cardano al Campo_VA_B754
+Card�_CN_B755
+Cardedu_OG_M285
+Cardeto_RC_B756
+Cardinale_CZ_B758
+Cardito_NA_B759
+Careggine_LU_B760
+Carema_TO_B762
+Carenno_LC_B763
+Carentino_AL_B765
+Careri_RC_B766
+Caresana_VC_B767
+Caresanablot_VC_B768
+Carezzano_AL_B769
+Carfizzi_KR_B771
+Cargeghe_SS_B772
+Cariati_CS_B774
+Carife_AV_B776
+Carignano_TO_B777
+Carimate_CO_B778
+Carinaro_CE_B779
+Carini_PA_B780
+Carinola_CE_B781
+Carisio_VC_B782
+Carisolo_TN_B783
+Carlantino_FG_B784
+Carlazzo_CO_B785
+Carlentini_SR_B787
+Carlino_UD_B788
+Carloforte_CI_B789
+Carlopoli_CZ_B790
+Carmagnola_TO_B791
+Carmiano_LE_B792
+Carmignano_PO_B794
+Carmignano di Brenta_PD_B795
+Carnago_VA_B796
+Carnate_MB_B798
+Carobbio degli Angeli_BG_B801
+Carolei_CS_B802
+Carona_BG_B803
+Caronia_ME_B804
+Caronno Pertusella_VA_B805
+Caronno Varesino_VA_B807
+Carosino_TA_B808
+Carovigno_BR_B809
+Carovilli_IS_B810
+Carpaneto Piacentino_PC_B812
+Carpanzano_CS_B813
+Carpasio_IM_B814
+Carpegna_PU_B816
+Carpenedolo_BS_B817
+Carpeneto_AL_B818
+Carpi_MO_B819
+Carpiano_MI_B820
+Carpignano Salentino_LE_B822
+Carpignano Sesia_NO_B823
+Carpineti_RE_B825
+Carpineto della Nora_PE_B827
+Carpineto Romano_RM_B828
+Carpineto Sinello_CH_B826
+Carpino_FG_B829
+Carpinone_IS_B830
+Carrara_MS_B832
+Carr�_VI_B835
+Carrega Ligure_AL_B836
+Carro_SP_B838
+Carrodano_SP_B839
+Carrosio_AL_B840
+Carr�_CN_B841
+Carsoli_AQ_B842
+Cartigliano_VI_B844
+Cartignano_CN_B845
+Cartoceto_PU_B846
+Cartosio_AL_B847
+Cartura_PD_B848
+Carugate_MI_B850
+Carugo_CO_B851
+Carunchio_CH_B853
+Carvico_BG_B854
+Carzano_TN_B856
+Casabona_KR_B857
+Casacalenda_CB_B858
+Casacanditella_CH_B859
+Casagiove_CE_B860
+Casal Cermelli_AL_B870
+Casal di Principe_CE_B872
+Casal Velino_SA_B895
+Casalanguida_CH_B861
+Casalattico_FR_B862
+Casalbeltrame_NO_B864
+Casalbordino_CH_B865
+Casalbore_AV_B866
+Casalborgone_TO_B867
+Casalbuono_SA_B868
+Casalbuttano ed Uniti_CR_B869
+Casalciprano_CB_B871
+Casalduni_BN_B873
+Casale Corte Cerro_VB_B876
+Casale Cremasco-Vidolasco_CR_B881
+Casale di Scodosia_PD_B877
+Casale Litta_VA_B875
+Casale Marittimo_PI_B878
+Casale Monferrato_AL_B885
+Casale sul Sile_TV_B879
+Casalecchio di Reno_BO_B880
+Casaleggio Boiro_AL_B882
+Casaleggio Novara_NO_B883
+Casaleone_VR_B886
+Casaletto Ceredano_CR_B889
+Casaletto di Sopra_CR_B890
+Casaletto Lodigiano_LO_B887
+Casaletto Spartano_SA_B888
+Casaletto Vaprio_CR_B891
+Casalfiumanese_BO_B892
+Casalgrande_RE_B893
+Casalgrasso_CN_B894
+Casalincontrada_CH_B896
+Casalino_NO_B897
+Casalmaggiore_CR_B898
+Casalmaiocco_LO_B899
+Casalmorano_CR_B900
+Casalmoro_MN_B901
+Casalnoceto_AL_B902
+Casalnuovo di Napoli_NA_B905
+Casalnuovo Monterotaro_FG_B904
+Casaloldo_MN_B907
+Casalpusterlengo_LO_B910
+Casalromano_MN_B911
+Casalserugo_PD_B912
+Casaluce_CE_B916
+Casalvecchio di Puglia_FG_B917
+Casalvecchio Siculo_ME_B918
+Casalvieri_FR_B919
+Casalvolone_NO_B920
+Casalzuigno_VA_B921
+Casamarciano_NA_B922
+Casamassima_BA_B923
+Casamicciola Terme_NA_B924
+Casandrino_NA_B925
+Casanova Elvo_VC_B928
+Casanova Lerrone_SV_B927
+Casanova Lonati_PV_B929
+Casape_RM_B932
+Casapesenna_CE_M260
+Casapinta_BI_B933
+Casaprota_RI_B934
+Casapulla_CE_B935
+Casarano_LE_B936
+Casargo_LC_B937
+Casarile_MI_B938
+Casarsa della Delizia_PN_B940
+Casarza Ligure_GE_B939
+Casasco_AL_B941
+Casasco d'Intelvi_CO_B942
+Casatenovo_LC_B943
+Casatisma_PV_B945
+Casavatore_NA_B946
+Casazza_BG_B947
+Cascia_PG_B948
+Casciago_VA_B949
+Casciana Terme_PI_A559
+Cascina_PI_B950
+Cascinette d'Ivrea_TO_B953
+Casei Gerola_PV_B954
+Caselette_TO_B955
+Casella_GE_B956
+Caselle in Pittari_SA_B959
+Caselle Landi_LO_B961
+Caselle Lurani_LO_B958
+Caselle Torinese_TO_B960
+Caserta_CE_B963
+Casier_TV_B965
+Casignana_RC_B966
+Casina_RE_B967
+Casirate d'Adda_BG_B971
+Caslino d'Erba_CO_B974
+Casnate con Bernate_CO_B977
+Casnigo_BG_B978
+Casola di Napoli_NA_B980
+Casola in Lunigiana_MS_B979
+Casola Valsenio_RA_B982
+Casole Bruzio_CS_B983
+Casole d'Elsa_SI_B984
+Casoli_CH_B985
+Casorate Primo_PV_B988
+Casorate Sempione_VA_B987
+Casorezzo_MI_B989
+Casoria_NA_B990
+Casorzo_AT_B991
+Casperia_RI_A472
+Caspoggio_SO_B993
+Cassacco_UD_B994
+Cassago Brianza_LC_B996
+Cassano all'Ionio_CS_C002
+Cassano d'Adda_MI_C003
+Cassano delle Murge_BA_B998
+Cassano Irpino_AV_B997
+Cassano Magnago_VA_C004
+Cassano Spinola_AL_C005
+Cassano Valcuvia_VA_B999
+Cassaro_SR_C006
+Cassiglio_BG_C007
+Cassina de' Pecchi_MI_C014
+Cassina Rizzardi_CO_C020
+Cassina Valsassina_LC_C024
+Cassinasco_AT_C022
+Cassine_AL_C027
+Cassinelle_AL_C030
+Cassinetta di Lugagnano_MI_C033
+Cassino_FR_C034
+Cassola_VI_C037
+Cassolnovo_PV_C038
+Castagnaro_VR_C041
+Castagneto Carducci_LI_C044
+Castagneto Po_TO_C045
+Castagnito_CN_C046
+Castagnole delle Lanze_AT_C049
+Castagnole Monferrato_AT_C047
+Castagnole Piemonte_TO_C048
+Castana_PV_C050
+Castano Primo_MI_C052
+Casteggio_PV_C053
+Castegnato_BS_C055
+Castegnero_VI_C056
+Castel Baronia_AV_C058
+Castel Boglione_AT_C064
+Castel Bolognese_RA_C065
+Castel Campagnano_CE_B494
+Castel Castagna_TE_C040
+Castel Colonna_AN_C071
+Castel Condino_TN_C183
+Castel d'Aiano_BO_C075
+Castel d'Ario_MN_C076
+Castel d'Azzano_VR_C078
+Castel del Giudice_IS_C082
+Castel del Monte_AQ_C083
+Castel del Piano_GR_C085
+Castel del Rio_BO_C086
+Castel di Casio_BO_B969
+Castel di Ieri_AQ_C090
+Castel di Iudica_CT_C091
+Castel di Lama_AP_C093
+Castel di Lucio_ME_C094
+Castel di Sangro_AQ_C096
+Castel di Sasso_CE_C097
+Castel di Tora_RI_C098
+Castel Focognano_AR_C102
+Castel Frentano_CH_C114
+Castel Gabbiano_CR_C115
+Castel Gandolfo_RM_C116
+Castel Giorgio_TR_C117
+Castel Goffredo_MN_C118
+Castel Guelfo di Bologna_BO_C121
+Castel Madama_RM_C203
+Castel Maggiore_BO_C204
+Castel Mella_BS_C208
+Castel Morrone_CE_C211
+Castel Ritaldi_PG_C252
+Castel Rocchero_AT_C253
+Castel Rozzone_BG_C255
+Castel San Giorgio_SA_C259
+Castel San Giovanni_PC_C261
+Castel San Lorenzo_SA_C262
+Castel San Niccol�_AR_C263
+Castel San Pietro Romano_RM_C266
+Castel San Pietro Terme_BO_C265
+Castel San Vincenzo_IS_C270
+Castel Sant'Angelo_RI_C268
+Castel Sant'Elia_VT_C269
+Castel Viscardo_TR_C289
+Castel Vittorio_IM_C110
+Castel Volturno_CE_C291
+Castelbaldo_PD_C057
+Castelbelforte_MN_C059
+Castelbellino_AN_C060
+Castelbello-Ciardes_BZ_C062
+Castelbianco_SV_C063
+Castelbottaccio_CB_C066
+Castelbuono_PA_C067
+Castelcivita_SA_C069
+Castelcovati_BS_C072
+Castelcucco_TV_C073
+Casteldaccia_PA_C074
+Casteldelci_RN_C080
+Casteldelfino_CN_C081
+Casteldidone_CR_C089
+Castelfidardo_AN_C100
+Castelfiorentino_FI_C101
+Castelfondo_TN_C103
+Castelforte_LT_C104
+Castelfranci_AV_C105
+Castelfranco di Sopra_AR_C112
+Castelfranco di Sotto_PI_C113
+Castelfranco Emilia_MO_C107
+Castelfranco in Miscano_BN_C106
+Castelfranco Veneto_TV_C111
+Castelgomberto_VI_C119
+Castelgrande_PZ_C120
+Castelguglielmo_RO_C122
+Castelguidone_CH_C123
+Castellabate_SA_C125
+Castellafiume_AQ_C126
+Castell'Alfero_AT_C127
+Castellalto_TE_C128
+Castellammare del Golfo_TP_C130
+Castellammare di Stabia_NA_C129
+Castellamonte_TO_C133
+Castellana Grotte_BA_C134
+Castellana Sicula_PA_C135
+Castellaneta_TA_C136
+Castellania_AL_C137
+Castellanza_VA_C139
+Castellar_CN_C140
+Castellar Guidobono_AL_C142
+Castellarano_RE_C141
+Castellaro_IM_C143
+Castell'Arquato_PC_C145
+Castellavazzo_BL_C146
+Castell'Azzara_GR_C147
+Castellazzo Bormida_AL_C148
+Castellazzo Novarese_NO_C149
+Castelleone_CR_C153
+Castelleone di Suasa_AN_C152
+Castellero_AT_C154
+Castelletto Cervo_BI_C155
+Castelletto d'Erro_AL_C156
+Castelletto di Branduzzo_PV_C157
+Castelletto d'Orba_AL_C158
+Castelletto Merli_AL_C160
+Castelletto Molina_AT_C161
+Castelletto Monferrato_AL_C162
+Castelletto Sopra Ticino_NO_C166
+Castelletto Stura_CN_C165
+Castelletto Uzzone_CN_C167
+Castelli_TE_C169
+Castelli Calepio_BG_C079
+Castellina in Chianti_SI_C172
+Castellina Marittima_PI_C174
+Castellinaldo_CN_C173
+Castellino del Biferno_CB_C175
+Castellino Tanaro_CN_C176
+Castelliri_FR_C177
+Castello Cabiaglio_VA_B312
+Castello d'Agogna_PV_C184
+Castello d'Argile_BO_C185
+Castello del Matese_CE_C178
+Castello dell'Acqua_SO_C186
+Castello di Annone_AT_A300
+Castello di Brianza_LC_C187
+Castello di Cisterna_NA_C188
+Castello di Godego_TV_C190
+Castello di Serravalle_BO_C191
+Castello Tesino_TN_C194
+Castello-Molina di Fiemme_TN_C189
+Castellucchio_MN_C195
+Castelluccio dei Sauri_FG_C198
+Castelluccio Inferiore_PZ_C199
+Castelluccio Superiore_PZ_C201
+Castelluccio Valmaggiore_FG_C202
+Castell'Umberto_ME_C051
+Castelmagno_CN_C205
+Castelmarte_CO_C206
+Castelmassa_RO_C207
+Castelmauro_CB_C197
+Castelmezzano_PZ_C209
+Castelmola_ME_C210
+Castelnovetto_PV_C213
+Castelnovo Bariano_RO_C215
+Castelnovo del Friuli_PN_C217
+Castelnovo di Sotto_RE_C218
+Castelnovo ne' Monti_RE_C219
+Castelnuovo_TN_C216
+Castelnuovo Belbo_AT_C226
+Castelnuovo Berardenga_SI_C227
+Castelnuovo Bocca d'Adda_LO_C228
+Castelnuovo Bormida_AL_C229
+Castelnuovo Bozzente_CO_C220
+Castelnuovo Calcea_AT_C230
+Castelnuovo Cilento_SA_C231
+Castelnuovo del Garda_VR_C225
+Castelnuovo della Daunia_FG_C222
+Castelnuovo di Ceva_CN_C214
+Castelnuovo di Conza_SA_C235
+Castelnuovo di Farfa_RI_C224
+Castelnuovo di Garfagnana_LU_C236
+Castelnuovo di Porto_RM_C237
+Castelnuovo di Val di Cecina_PI_C244
+Castelnuovo Don Bosco_AT_C232
+Castelnuovo Magra_SP_C240
+Castelnuovo Nigra_TO_C241
+Castelnuovo Parano_FR_C223
+Castelnuovo Rangone_MO_C242
+Castelnuovo Scrivia_AL_C243
+Castelpagano_BN_C245
+Castelpetroso_IS_C246
+Castelpizzuto_IS_C247
+Castelplanio_AN_C248
+Castelpoto_BN_C250
+Castelraimondo_MC_C251
+Castelrotto_BZ_C254
+Castelsantangelo sul Nera_MC_C267
+Castelsaraceno_PZ_C271
+Castelsardo_SS_C272
+Castelseprio_VA_C273
+Castelsilano_KR_B968
+Castelspina_AL_C274
+Casteltermini_AG_C275
+Castelveccana_VA_C181
+Castelvecchio Calvisio_AQ_C278
+Castelvecchio di Rocca Barbena_SV_C276
+Castelvecchio Subequo_AQ_C279
+Castelvenere_BN_C280
+Castelverde_CR_B129
+Castelverrino_IS_C200
+Castelvetere in Val Fortore_BN_C284
+Castelvetere sul Calore_AV_C283
+Castelvetrano_TP_C286
+Castelvetro di Modena_MO_C287
+Castelvetro Piacentino_PC_C288
+Castelvisconti_CR_C290
+Castenaso_BO_C292
+Castenedolo_BS_C293
+Castiadas_CA_M288
+Castiglion Fibocchi_AR_C318
+Castiglion Fiorentino_AR_C319
+Castiglione a Casauria_PE_C308
+Castiglione Chiavarese_GE_C302
+Castiglione Cosentino_CS_C301
+Castiglione d'Adda_LO_C304
+Castiglione dei Pepoli_BO_C296
+Castiglione del Genovesi_SA_C306
+Castiglione del Lago_PG_C309
+Castiglione della Pescaia_GR_C310
+Castiglione delle Stiviere_MN_C312
+Castiglione di Garfagnana_LU_C303
+Castiglione di Sicilia_CT_C297
+Castiglione d'Intelvi_CO_C299
+Castiglione d'Orcia_SI_C313
+Castiglione Falletto_CN_C314
+Castiglione in Teverina_VT_C315
+Castiglione Messer Marino_CH_C298
+Castiglione Messer Raimondo_TE_C316
+Castiglione Olona_VA_C300
+Castiglione Tinella_CN_C317
+Castiglione Torinese_TO_C307
+Castignano_AP_C321
+Castilenti_TE_C322
+Castino_CN_C323
+Castione Andevenno_SO_C325
+Castione della Presolana_BG_C324
+Castions di Strada_UD_C327
+Castiraga Vidardo_LO_C329
+Casto_BS_C330
+Castorano_AP_C331
+Castrezzato_BS_C332
+Castri di Lecce_LE_C334
+Castrignano de' Greci_LE_C335
+Castrignano del Capo_LE_C336
+Castro_BG_C337
+Castro_LE_M261
+Castro dei Volsci_FR_C338
+Castrocaro Terme e Terra del Sole_FC_C339
+Castrocielo_FR_C340
+Castrofilippo_AG_C341
+Castrolibero_CS_C108
+Castronno_VA_C343
+Castronovo di Sicilia_PA_C344
+Castronuovo di Sant'Andrea_PZ_C345
+Castropignano_CB_C346
+Castroreale_ME_C347
+Castroregio_CS_C348
+Castrovillari_CS_C349
+Catania_CT_C351
+Catanzaro_CZ_C352
+Catenanuova_EN_C353
+Catignano_PE_C354
+Cattolica_RN_C357
+Cattolica Eraclea_AG_C356
+Caulonia_RC_C285
+Cautano_BN_C359
+Cava de' Tirreni_SA_C361
+Cava Manara_PV_C360
+Cavacurta_LO_C362
+Cavagli�_BI_C363
+Cavaglietto_NO_C364
+Cavaglio d'Agogna_NO_C365
+Cavaglio-Spoccia_VB_C367
+Cavagnolo_TO_C369
+Cavaion Veronese_VR_C370
+Cavalese_TN_C372
+Cavallasca_CO_C374
+Cavallerleone_CN_C375
+Cavallermaggiore_CN_C376
+Cavallino_LE_C377
+Cavallino-Treporti_VE_M308
+Cavallirio_NO_C378
+Cavareno_TN_C380
+Cavargna_CO_C381
+Cavaria con Premezzo_VA_C382
+Cavarzere_VE_C383
+Cavaso del Tomba_TV_C384
+Cavasso Nuovo_PN_C385
+Cavatore_AL_C387
+Cavazzo Carnico_UD_C389
+Cave_RM_C390
+Cavedago_TN_C392
+Cavedine_TN_C393
+Cavenago d'Adda_LO_C394
+Cavenago di Brianza_MB_C395
+Cavernago_BG_C396
+Cavezzo_MO_C398
+Cavizzana_TN_C400
+Cavour_TO_C404
+Cavriago_RE_C405
+Cavriana_MN_C406
+Cavriglia_AR_C407
+Cazzago Brabbia_VA_C409
+Cazzago San Martino_BS_C408
+Cazzano di Tramigna_VR_C412
+Cazzano Sant'Andrea_BG_C410
+Ceccano_FR_C413
+Cecima_PV_C414
+Cecina_LI_C415
+Cedegolo_BS_C417
+Cedrasco_SO_C418
+Cefal� Diana_PA_C420
+Cefal�_PA_C421
+Ceggia_VE_C422
+Ceglie Messapica_BR_C424
+Celano_AQ_C426
+Celenza sul Trigno_CH_C428
+Celenza Valfortore_FG_C429
+Celico_CS_C430
+Cella Dati_CR_C435
+Cella Monte_AL_C432
+Cellamare_BA_C436
+Cellara_CS_C437
+Cellarengo_AT_C438
+Cellatica_BS_C439
+Celle di Bulgheria_SA_C444
+Celle di Macra_CN_C441
+Celle di San Vito_FG_C442
+Celle Enomondo_AT_C440
+Celle Ligure_SV_C443
+Celleno_VT_C446
+Cellere_VT_C447
+Cellino Attanasio_TE_C449
+Cellino San Marco_BR_C448
+Cellio_VC_C450
+Cellole_CE_M262
+Cembra_TN_C452
+Cenadi_CZ_C453
+Cenate Sopra_BG_C456
+Cenate Sotto_BG_C457
+Cencenighe Agordino_BL_C458
+Cene_BG_C459
+Ceneselli_RO_C461
+Cengio_SV_C463
+Centa San Nicol�_TN_C467
+Centallo_CN_C466
+Cento_FE_C469
+Centola_SA_C470
+Centrache_CZ_C472
+Centuripe_EN_C471
+Cepagatti_PE_C474
+Ceppaloni_BN_C476
+Ceppo Morelli_VB_C478
+Ceprano_FR_C479
+Cerami_EN_C480
+Ceranesi_GE_C481
+Cerano_NO_C483
+Cerano d'Intelvi_CO_C482
+Ceranova_PV_C484
+Ceraso_SA_C485
+Cercemaggiore_CB_C486
+Cercenasco_TO_C487
+Cercepiccola_CB_C488
+Cerchiara di Calabria_CS_C489
+Cerchio_AQ_C492
+Cercino_SO_C493
+Cercivento_UD_C494
+Cercola_NA_C495
+Cerda_PA_C496
+Cerea_VR_C498
+Ceregnano_RO_C500
+Cerenzia_KR_C501
+Ceres_TO_C497
+Ceresara_MN_C502
+Cereseto_AL_C503
+Ceresole Alba_CN_C504
+Ceresole Reale_TO_C505
+Cerete_BG_C506
+Ceretto Lomellina_PV_C508
+Cergnago_PV_C509
+Ceriale_SV_C510
+Ceriana_IM_C511
+Ceriano Laghetto_MB_C512
+Cerignale_PC_C513
+Cerignola_FG_C514
+Cerisano_CS_C515
+Cermenate_CO_C516
+Cermes_BZ_A022
+Cermignano_TE_C517
+Cernobbio_CO_C520
+Cernusco Lombardone_LC_C521
+Cernusco sul Naviglio_MI_C523
+Cerreto Castello_BI_C526
+Cerreto d'Asti_AT_C528
+Cerreto d'Esi_AN_C524
+Cerreto di Spoleto_PG_C527
+Cerreto Grue_AL_C507
+Cerreto Guidi_FI_C529
+Cerreto Laziale_RM_C518
+Cerreto Sannita_BN_C525
+Cerretto Langhe_CN_C530
+Cerrina Monferrato_AL_C531
+Cerrione_BI_C532
+Cerro al Lambro_MI_C536
+Cerro al Volturno_IS_C534
+Cerro Maggiore_MI_C537
+Cerro Tanaro_AT_C533
+Cerro Veronese_VR_C538
+Cersosimo_PZ_C539
+Certaldo_FI_C540
+Certosa di Pavia_PV_C541
+Cerva_CZ_C542
+Cervara di Roma_RM_C543
+Cervarese Santa Croce_PD_C544
+Cervaro_FR_C545
+Cervasca_CN_C547
+Cervatto_VC_C548
+Cerveno_BS_C549
+Cervere_CN_C550
+Cervesina_PV_C551
+Cerveteri_RM_C552
+Cervia_RA_C553
+Cervicati_CS_C554
+Cervignano d'Adda_LO_C555
+Cervignano del Friuli_UD_C556
+Cervinara_AV_C557
+Cervino_CE_C558
+Cervo_IM_C559
+Cerzeto_CS_C560
+Cesa_CE_C561
+Cesana Brianza_LC_C563
+Cesana Torinese_TO_C564
+Cesano Boscone_MI_C565
+Cesano Maderno_MB_C566
+Cesara_VB_C567
+Cesar�_ME_C568
+Cesate_MI_C569
+Cesena_FC_C573
+Cesenatico_FC_C574
+Cesinali_AV_C576
+Cesio_IM_C578
+Cesiomaggiore_BL_C577
+Cessalto_TV_C580
+Cessaniti_VV_C581
+Cessapalombo_MC_C582
+Cessole_AT_C583
+Cetara_SA_C584
+Ceto_BS_C585
+Cetona_SI_C587
+Cetraro_CS_C588
+Ceva_CN_C589
+Cevo_BS_C591
+Challand-Saint-Anselme_AO_C593
+Challand-Saint-Victor_AO_C594
+Chambave_AO_C595
+Chamois_AO_B491
+Champdepraz_AO_C596
+Champorcher_AO_B540
+Charvensod_AO_C598
+Chatillon_AO_C294
+Cherasco_CN_C599
+Cheremule_SS_C600
+Chialamberto_TO_C604
+Chiampo_VI_C605
+Chianche_AV_C606
+Chianciano Terme_SI_C608
+Chianni_PI_C609
+Chianocco_TO_C610
+Chiaramonte Gulfi_RG_C612
+Chiaramonti_SS_C613
+Chiarano_TV_C614
+Chiaravalle_AN_C615
+Chiaravalle Centrale_CZ_C616
+Chiari_BS_C618
+Chiaromonte_PZ_C619
+Chiauci_IS_C620
+Chiavari_GE_C621
+Chiavenna_SO_C623
+Chiaverano_TO_C624
+Chienes_BZ_C625
+Chieri_TO_C627
+Chies d'Alpago_BL_C630
+Chiesa in Valmalenco_SO_C628
+Chiesanuova_TO_C629
+Chiesina Uzzanese_PT_C631
+Chieti_CH_C632
+Chieuti_FG_C633
+Chieve_CR_C634
+Chignolo d'Isola_BG_C635
+Chignolo Po_PV_C637
+Chioggia_VE_C638
+Chiomonte_TO_C639
+Chions_PN_C640
+Chiopris-Viscone_UD_C641
+Chitignano_AR_C648
+Chiuduno_BG_C649
+Chiuppano_VI_C650
+Chiuro_SO_C651
+Chiusa_BZ_C652
+Chiusa di Pesio_CN_C653
+Chiusa di San Michele_TO_C655
+Chiusa Sclafani_PA_C654
+Chiusaforte_UD_C656
+Chiusanico_IM_C657
+Chiusano d'Asti_AT_C658
+Chiusano di San Domenico_AV_C659
+Chiusavecchia_IM_C660
+Chiusdino_SI_C661
+Chiusi_SI_C662
+Chiusi della Verna_AR_C663
+Chivasso_TO_C665
+Ciampino_RM_M272
+Cianciana_AG_C668
+Cibiana di Cadore_BL_C672
+Cicagna_GE_C673
+Cicala_CZ_C674
+Cicciano_NA_C675
+Cicerale_SA_C676
+Ciciliano_RM_C677
+Cicognolo_CR_C678
+Ciconio_TO_C679
+Cigliano_VC_C680
+Cigli�_CN_C681
+Cigognola_PV_C684
+Cigole_BS_C685
+Cilavegna_PV_C686
+Cimadolmo_TV_C689
+Cimbergo_BS_C691
+Cimego_TN_C694
+Cimin�_RC_C695
+Ciminna_PA_C696
+Cimitile_NA_C697
+Cimolais_PN_C699
+Cimone_TN_C700
+Cinaglio_AT_C701
+Cineto Romano_RM_C702
+Cingia de' Botti_CR_C703
+Cingoli_MC_C704
+Cinigiano_GR_C705
+Cinisello Balsamo_MI_C707
+Cinisi_PA_C708
+Cino_SO_C709
+Cinquefrondi_RC_C710
+Cintano_TO_C711
+Cinte Tesino_TN_C712
+Cinto Caomaggiore_VE_C714
+Cinto Euganeo_PD_C713
+Cinzano_TO_C715
+Ciorlano_CE_C716
+Cipressa_IM_C718
+Circello_BN_C719
+Ciri�_TO_C722
+Cirigliano_MT_C723
+Cirimido_CO_C724
+Cir�_KR_C725
+Cir� Marina_KR_C726
+Cis_TN_C727
+Cisano Bergamasco_BG_C728
+Cisano sul Neva_SV_C729
+Ciserano_BG_C730
+Cislago_VA_C732
+Cisliano_MI_C733
+Cismon del Grappa_VI_C734
+Cison di Valmarino_TV_C735
+Cissone_CN_C738
+Cisterna d'Asti_AT_C739
+Cisterna di Latina_LT_C740
+Cisternino_BR_C741
+Citerna_PG_C742
+Citt� della Pieve_PG_C744
+Citt� di Castello_PG_C745
+Citt� Sant'Angelo_PE_C750
+Cittadella_PD_C743
+Cittaducale_RI_C746
+Cittanova_RC_C747
+Cittareale_RI_C749
+Cittiglio_VA_C751
+Civate_LC_C752
+Civenna_CO_C754
+Civezza_IM_C755
+Civezzano_TN_C756
+Civiasco_VC_C757
+Cividale del Friuli_UD_C758
+Cividate al Piano_BG_C759
+Cividate Camuno_BS_C760
+Civita_CS_C763
+Civita Castellana_VT_C765
+Civita d'Antino_AQ_C766
+Civitacampomarano_CB_C764
+Civitaluparella_CH_C768
+Civitanova del Sannio_IS_C769
+Civitanova Marche_MC_C770
+Civitaquana_PE_C771
+Civitavecchia_RM_C773
+Civitella Alfedena_AQ_C778
+Civitella Casanova_PE_C779
+Civitella d'Agliano_VT_C780
+Civitella del Tronto_TE_C781
+Civitella di Romagna_FC_C777
+Civitella in Val di Chiana_AR_C774
+Civitella Messer Raimondo_CH_C776
+Civitella Paganico_GR_C782
+Civitella Roveto_AQ_C783
+Civitella San Paolo_RM_C784
+Civo_SO_C785
+Claino con Osteno_CO_C787
+Claut_PN_C790
+Clauzetto_PN_C791
+Clavesana_CN_C792
+Claviere_TO_C793
+Cles_TN_C794
+Cleto_CS_C795
+Clivio_VA_C796
+Cloz_TN_C797
+Clusone_BG_C800
+Coassolo Torinese_TO_C801
+Coazze_TO_C803
+Coazzolo_AT_C804
+Coccaglio_BS_C806
+Cocconato_AT_C807
+Cocquio-Trevisago_VA_C810
+Cocullo_AQ_C811
+Codevigo_PD_C812
+Codevilla_PV_C813
+Codigoro_FE_C814
+Codogn�_TV_C815
+Codogno_LO_C816
+Codroipo_UD_C817
+Codrongianos_SS_C818
+Coggiola_BI_C819
+Cogliate_MB_C820
+Cogne_AO_C821
+Cogoleto_GE_C823
+Cogollo del Cengio_VI_C824
+Cogorno_GE_C826
+Colazza_NO_C829
+Colbordolo_PU_C830
+Colere_BG_C835
+Colfelice_FR_C836
+Coli_PC_C838
+Colico_LC_C839
+Collagna_RE_C840
+Collalto Sabino_RI_C841
+Collarmele_AQ_C844
+Collazzone_PG_C845
+Colle Brianza_LC_C851
+Colle d'Anchise_CB_C854
+Colle di Tora_RI_C857
+Colle di Val d'Elsa_SI_C847
+Colle San Magno_FR_C870
+Colle Sannita_BN_C846
+Colle Santa Lucia_BL_C872
+Colle Umberto_TV_C848
+Collebeato_BS_C850
+Collecchio_PR_C852
+Collecorvino_PE_C853
+Colledara_TE_C311
+Colledimacine_CH_C855
+Colledimezzo_CH_C856
+Colleferro_RM_C858
+Collegiove_RI_C859
+Collegno_TO_C860
+Collelongo_AQ_C862
+Collepardo_FR_C864
+Collepasso_LE_C865
+Collepietro_AQ_C866
+Colleretto Castelnuovo_TO_C867
+Colleretto Giacosa_TO_C868
+Collesalvetti_LI_C869
+Collesano_PA_C871
+Colletorto_CB_C875
+Collevecchio_RI_C876
+Colli a Volturno_IS_C878
+Colli del Tronto_AP_C877
+Colli sul Velino_RI_C880
+Colliano_SA_C879
+Collinas_VS_C882
+Collio_BS_C883
+Collobiano_VC_C884
+Colloredo di Monte Albano_UD_C885
+Colmurano_MC_C886
+Colobraro_MT_C888
+Cologna Veneta_VR_C890
+Cologne_BS_C893
+Cologno al Serio_BG_C894
+Cologno Monzese_MI_C895
+Colognola ai Colli_VR_C897
+Colonna_RM_C900
+Colonnella_TE_C901
+Colonno_CO_C902
+Colorina_SO_C903
+Colorno_PR_C904
+Colosimi_CS_C905
+Colturano_MI_C908
+Colzate_BG_C910
+Comabbio_VA_C911
+Comacchio_FE_C912
+Comano_MS_C914
+Comano Terme_TN_M314
+Comazzo_LO_C917
+Comeglians_UD_C918
+Comelico Superiore_BL_C920
+Comerio_VA_C922
+Comezzano-Cizzago_BS_C925
+Comignago_NO_C926
+Comiso_RG_C927
+Comitini_AG_C928
+Comiziano_NA_C929
+Commessaggio_MN_C930
+Commezzadura_TN_C931
+Como_CO_C933
+Compiano_PR_C934
+Comun Nuovo_BG_C937
+Comunanza_AP_C935
+Cona_VE_C938
+Conca Casale_IS_C941
+Conca dei Marini_SA_C940
+Conca della Campania_CE_C939
+Concamarise_VR_C943
+Concerviano_RI_C946
+Concesio_BS_C948
+Conco_VI_C949
+Concordia Sagittaria_VE_C950
+Concordia sulla Secchia_MO_C951
+Concorezzo_MB_C952
+Condino_TN_C953
+Condofuri_RC_C954
+Condove_TO_C955
+Condr�_ME_C956
+Conegliano_TV_C957
+Confienza_PV_C958
+Configni_RI_C959
+Conflenti_CZ_C960
+Coniolo_AL_C962
+Conselice_RA_C963
+Conselve_PD_C964
+Contessa Entellina_PA_C968
+Contigliano_RI_C969
+Contrada_AV_C971
+Controguerra_TE_C972
+Controne_SA_C973
+Contursi Terme_SA_C974
+Conversano_BA_C975
+Conza della Campania_AV_C976
+Conzano_AL_C977
+Copertino_LE_C978
+Copiano_PV_C979
+Copparo_FE_C980
+Corana_PV_C982
+Corato_BA_C983
+Corbara_SA_C984
+Corbetta_MI_C986
+Corbola_RO_C987
+Corchiano_VT_C988
+Corciano_PG_C990
+Cordenons_PN_C991
+Cordignano_TV_C992
+Cordovado_PN_C993
+Coredo_TN_C994
+Coreglia Antelminelli_LU_C996
+Coreglia Ligure_GE_C995
+Coreno Ausonio_FR_C998
+Corfinio_AQ_C999
+Cori_LT_D003
+Coriano_RN_D004
+Corigliano Calabro_CS_D005
+Corigliano d'Otranto_LE_D006
+Corinaldo_AN_D007
+Corio_TO_D008
+Corleone_PA_D009
+Corleto Monforte_SA_D011
+Corleto Perticara_PZ_D010
+Cormano_MI_D013
+Cormons_GO_D014
+Corna Imagna_BG_D015
+Cornalba_BG_D016
+Cornale_PV_D017
+Cornaredo_MI_D018
+Cornate d'Adda_MB_D019
+Cornedo all'Isarco_BZ_B799
+Cornedo Vicentino_VI_D020
+Cornegliano Laudense_LO_D021
+Corneliano d'Alba_CN_D022
+Corniglio_PR_D026
+Corno di Rosazzo_UD_D027
+Corno Giovine_LO_D028
+Cornovecchio_LO_D029
+Cornuda_TV_D030
+Correggio_RE_D037
+Correzzana_MB_D038
+Correzzola_PD_D040
+Corrido_CO_D041
+Corridonia_MC_D042
+Corropoli_TE_D043
+Corsano_LE_D044
+Corsico_MI_D045
+Corsione_AT_D046
+Cortaccia sulla Strada del Vino_BZ_D048
+Cortale_CZ_D049
+Cortandone_AT_D050
+Cortanze_AT_D051
+Cortazzone_AT_D052
+Corte Brugnatella_PC_D054
+Corte de' Cortesi con Cignone_CR_D056
+Corte de' Frati_CR_D057
+Corte Franca_BS_D058
+Corte Palasio_LO_D068
+Cortemaggiore_PC_D061
+Cortemilia_CN_D062
+Corteno Golgi_BS_D064
+Cortenova_LC_D065
+Cortenuova_BG_D066
+Corteolona_PV_D067
+Cortiglione_AT_D072
+Cortina d'Ampezzo_BL_A266
+Cortina sulla Strada del Vino_BZ_D075
+Cortino_TE_D076
+Cortona_AR_D077
+Corvara_PE_D078
+Corvara in Badia_BZ_D079
+Corvino San Quirico_PV_D081
+Corzano_BS_D082
+Coseano_UD_D085
+Cosenza_CS_D086
+Cosio d'Arroscia_IM_D087
+Cosio Valtellino_SO_D088
+Cosoleto_RC_D089
+Cossano Belbo_CN_D093
+Cossano Canavese_TO_D092
+Cossato_BI_D094
+Cosseria_SV_D095
+Cossignano_AP_D096
+Cossogno_VB_D099
+Cossoine_SS_D100
+Cossombrato_AT_D101
+Costa de' Nobili_PV_D109
+Costa di Mezzate_BG_D110
+Costa di Rovigo_RO_D105
+Costa Masnaga_LC_D112
+Costa Serina_BG_D111
+Costa Valle Imagna_BG_D103
+Costa Vescovato_AL_D102
+Costa Volpino_BG_D117
+Costabissara_VI_D107
+Costacciaro_PG_D108
+Costanzana_VC_D113
+Costarainera_IM_D114
+Costermano_VR_D118
+Costigliole d'Asti_AT_D119
+Costigliole Saluzzo_CN_D120
+Cotignola_RA_D121
+Cotronei_KR_D123
+Cottanello_RI_D124
+Courmayeur_AO_D012
+Covo_BG_D126
+Cozzo_PV_D127
+Craco_MT_D128
+Crandola Valsassina_LC_D131
+Cravagliana_VC_D132
+Cravanzana_CN_D133
+Craveggia_VB_D134
+Creazzo_VI_D136
+Crecchio_CH_D137
+Credaro_BG_D139
+Credera Rubbiano_CR_D141
+Crema_CR_D142
+Cremella_LC_D143
+Cremenaga_VA_D144
+Cremeno_LC_D145
+Cremia_CO_D147
+Cremolino_AL_D149
+Cremona_CR_D150
+Cremosano_CR_D151
+Crescentino_VC_D154
+Crespadoro_VI_D156
+Crespano del Grappa_TV_D157
+Crespellano_BO_D158
+Crespiatica_LO_D159
+Crespina_PI_D160
+Crespino_RO_D161
+Cressa_NO_D162
+Crevacuore_BI_D165
+Crevalcore_BO_D166
+Crevoladossola_VB_D168
+Crispano_NA_D170
+Crispiano_TA_D171
+Crissolo_CN_D172
+Crocefieschi_GE_D175
+Crocetta del Montello_TV_C670
+Crodo_VB_D177
+Crognaleto_TE_D179
+Cropalati_CS_D180
+Cropani_CZ_D181
+Crosa_BI_D182
+Crosia_CS_D184
+Crosio della Valle_VA_D185
+Crotone_KR_D122
+Crotta d'Adda_CR_D186
+Crova_VC_D187
+Croviana_TN_D188
+Crucoli_KR_D189
+Cuasso al Monte_VA_D192
+Cuccaro Monferrato_AL_D194
+Cuccaro Vetere_SA_D195
+Cucciago_CO_D196
+Cuceglio_TO_D197
+Cuggiono_MI_D198
+Cugliate-Fabiasco_VA_D199
+Cuglieri_OR_D200
+Cugnoli_PE_D201
+Cumiana_TO_D202
+Cumignano sul Naviglio_CR_D203
+Cunardo_VA_D204
+Cuneo_CN_D205
+Cunevo_TN_D206
+Cunico_AT_D207
+Cuorgn�_TO_D208
+Cupello_CH_D209
+Cupra Marittima_AP_D210
+Cupramontana_AN_D211
+Cura Carpignano_PV_B824
+Curcuris_OR_D214
+Cureggio_NO_D216
+Curiglia con Monteviasco_VA_D217
+Curinga_CZ_D218
+Curino_BI_D219
+Curno_BG_D221
+Curon Venosta_BZ_D222
+Cursi_LE_D223
+Cursolo-Orasso_VB_D225
+Curtarolo_PD_D226
+Curtatone_MN_D227
+Curti_CE_D228
+Cusago_MI_D229
+Cusano Milanino_MI_D231
+Cusano Mutri_BN_D230
+Cusino_CO_D232
+Cusio_BG_D233
+Custonaci_TP_D234
+Cutigliano_PT_D235
+Cutro_KR_D236
+Cutrofiano_LE_D237
+Cuveglio_VA_D238
+Cuvio_VA_D239
+Daiano_TN_D243
+Dairago_MI_D244
+Dalmine_BG_D245
+Dambel_TN_D246
+Danta di Cadore_BL_D247
+Daone_TN_D248
+Dar�_TN_D250
+Darfo Boario Terme_BS_D251
+Das�_VV_D253
+Davagna_GE_D255
+Daverio_VA_D256
+Davoli_CZ_D257
+Dazio_SO_D258
+Decimomannu_CA_D259
+Decimoputzu_CA_D260
+Decollatura_CZ_D261
+Dego_SV_D264
+Deiva Marina_SP_D265
+Delebio_SO_D266
+Delia_CL_D267
+Delianuova_RC_D268
+Deliceto_FG_D269
+Dello_BS_D270
+Demonte_CN_D271
+Denice_AL_D272
+Denno_TN_D273
+Dernice_AL_D277
+Derovere_CR_D278
+Deruta_PG_D279
+Dervio_LC_D280
+Desana_VC_D281
+Desenzano del Garda_BS_D284
+Desio_MB_D286
+Desulo_NU_D287
+Diamante_CS_D289
+Diano Arentino_IM_D293
+Diano Castello_IM_D296
+Diano d'Alba_CN_D291
+Diano Marina_IM_D297
+Diano San Pietro_IM_D298
+Dicomano_FI_D299
+Dignano_UD_D300
+Dimaro_TN_D302
+Dinami_VV_D303
+Dipignano_CS_D304
+Diso_LE_D305
+Divignano_NO_D309
+Dizzasco_CO_D310
+Dobbiaco_BZ_D311
+Doberd� del Lago_GO_D312
+Dogliani_CN_D314
+Dogliola_CH_D315
+Dogna_UD_D316
+Dolc�_VR_D317
+Dolceacqua_IM_D318
+Dolcedo_IM_D319
+Dolegna del Collio_GO_D321
+Dolianova_CA_D323
+Dolo_VE_D325
+Dolzago_LC_D327
+Domanico_CS_D328
+Domaso_CO_D329
+Domegge di Cadore_BL_D330
+Domicella_AV_D331
+Domodossola_VB_D332
+Domus De Maria_CA_D333
+Domusnovas_CI_D334
+Don_TN_D336
+Donato_BI_D339
+Dongo_CO_D341
+Donnas_AO_D338
+Donori_CA_D344
+Dorgali_NU_D345
+Dorio_LC_D346
+Dormelletto_NO_D347
+Dorno_PV_D348
+Dorsino_TN_D349
+Dorzano_BI_D350
+Dosolo_MN_D351
+Dossena_BG_D352
+Dosso del Liro_CO_D355
+Doues_AO_D356
+Dovadola_FC_D357
+Dovera_CR_D358
+Dozza_BO_D360
+Dragoni_CE_D361
+Drapia_VV_D364
+Drena_TN_D365
+Drenchia_UD_D366
+Dresano_MI_D367
+Drezzo_CO_D369
+Drizzona_CR_D370
+Dro_TN_D371
+Dronero_CN_D372
+Druento_TO_D373
+Druogno_VB_D374
+Dualchi_NU_D376
+Dubino_SO_D377
+Due Carrare_PD_M300
+Dueville_VI_D379
+Dugenta_BN_D380
+Duino-Aurisina_TS_D383
+Dumenza_VA_D384
+Duno_VA_D385
+Durazzano_BN_D386
+Duronia_CB_C772
+Dusino San Michele_AT_D388
+Eboli_SA_D390
+Edolo_BS_D391
+Egna_BZ_D392
+Elice_PE_D394
+Elini_OG_D395
+Ello_LC_D398
+Elmas_CA_D399
+Elva_CN_D401
+Emar�se_AO_D402
+Empoli_FI_D403
+Endine Gaiano_BG_D406
+Enego_VI_D407
+Enemonzo_UD_D408
+Enna_EN_C342
+Entracque_CN_D410
+Entratico_BG_D411
+Envie_CN_D412
+Episcopia_PZ_D414
+Eraclea_VE_D415
+Erba_CO_D416
+Erb�_VR_D419
+Erbezzo_VR_D420
+Erbusco_BS_D421
+Erchie_BR_D422
+Ercolano_NA_H243
+Erice_TP_D423
+Erli_SV_D424
+Erto e Casso_PN_D426
+Erula_SS_M292
+Erve_LC_D428
+Esanatoglia_MC_D429
+Escalaplano_CA_D430
+Escolca_CA_D431
+Esine_BS_D434
+Esino Lario_LC_D436
+Esperia_FR_D440
+Esporlatu_SS_D441
+Este_PD_D442
+Esterzili_CA_D443
+Etroubles_AO_D444
+Eupilio_CO_D445
+Exilles_TO_D433
+Fabbrica Curone_AL_D447
+Fabbriche di Vallico_LU_D449
+Fabbrico_RE_D450
+Fabriano_AN_D451
+Fabrica di Roma_VT_D452
+Fabrizia_VV_D453
+Fabro_TR_D454
+Faedis_UD_D455
+Faedo_TN_D457
+Faedo Valtellino_SO_D456
+Faenza_RA_D458
+Faeto_FG_D459
+Fagagna_UD_D461
+Faggeto Lario_CO_D462
+Faggiano_TA_D463
+Fagnano Alto_AQ_D465
+Fagnano Castello_CS_D464
+Fagnano Olona_VA_D467
+Fai della Paganella_TN_D468
+Faicchio_BN_D469
+Falcade_BL_D470
+Falciano del Massico_CE_D471
+Falconara Albanese_CS_D473
+Falconara Marittima_AN_D472
+Falcone_ME_D474
+Faleria_VT_D475
+Falerna_CZ_D476
+Falerone_FM_D477
+Fallo_CH_D480
+Falmenta_VB_D481
+Faloppio_CO_D482
+Falvaterra_FR_D483
+Falzes_BZ_D484
+Fanano_MO_D486
+Fanna_PN_D487
+Fano_PU_D488
+Fano Adriano_TE_D489
+Fara Filiorum Petri_CH_D494
+Fara Gera d'Adda_BG_D490
+Fara in Sabina_RI_D493
+Fara Novarese_NO_D492
+Fara Olivana con Sola_BG_D491
+Fara San Martino_CH_D495
+Fara Vicentino_VI_D496
+Fardella_PZ_D497
+Farigliano_CN_D499
+Farindola_PE_D501
+Farini_PC_D502
+Farnese_VT_D503
+Farra d'Alpago_BL_D506
+Farra di Soligo_TV_D505
+Farra d'Isonzo_GO_D504
+Fasano_BR_D508
+Fascia_GE_D509
+Fauglia_PI_D510
+Faule_CN_D511
+Favale di Malvaro_GE_D512
+Favara_AG_D514
+Faver_TN_D516
+Favignana_TP_D518
+Favria_TO_D520
+Feisoglio_CN_D523
+Feletto_TO_D524
+Felino_PR_D526
+Felitto_SA_D527
+Felizzano_AL_D528
+Felonica_MN_D529
+Feltre_BL_D530
+Fenegr�_CO_D531
+Fenestrelle_TO_D532
+F�nis_AO_D537
+Ferentillo_TR_D538
+Ferentino_FR_D539
+Ferla_SR_D540
+Fermignano_PU_D541
+Fermo_FM_D542
+Ferno_VA_D543
+Feroleto Antico_CZ_D544
+Feroleto della Chiesa_RC_D545
+Ferrandina_MT_D547
+Ferrara_FE_D548
+Ferrara di Monte Baldo_VR_D549
+Ferrazzano_CB_D550
+Ferrera di Varese_VA_D551
+Ferrera Erbognone_PV_D552
+Ferrere_AT_D554
+Ferriere_PC_D555
+Ferruzzano_RC_D557
+Fiamignano_RI_D560
+Fiano_TO_D562
+Fiano Romano_RM_D561
+Fiastra_MC_D564
+Fiav�_TN_D565
+Ficarazzi_PA_D567
+Ficarolo_RO_D568
+Ficarra_ME_D569
+Ficulle_TR_D570
+Fidenza_PR_B034
+Fi� allo Sciliar_BZ_D571
+Fiera di Primiero_TN_D572
+Fierozzo_TN_D573
+Fiesco_CR_D574
+Fiesole_FI_D575
+Fiesse_BS_D576
+Fiesso d'Artico_VE_D578
+Fiesso Umbertiano_RO_D577
+Figino Serenza_CO_D579
+Figline Valdarno_FI_D583
+Figline Vegliaturo_CS_D582
+Filacciano_RM_D586
+Filadelfia_VV_D587
+Filago_BG_D588
+Filandari_VV_D589
+Filattiera_MS_D590
+Filettino_FR_D591
+Filetto_CH_D592
+Filiano_PZ_D593
+Filighera_PV_D594
+Filignano_IS_D595
+Filogaso_VV_D596
+Filottrano_AN_D597
+Finale Emilia_MO_D599
+Finale Ligure_SV_D600
+Fino del Monte_BG_D604
+Fino Mornasco_CO_D605
+Fiorano al Serio_BG_D606
+Fiorano Canavese_TO_D608
+Fiorano Modenese_MO_D607
+Fiordimonte_MC_D609
+Fiorenzuola d'Arda_PC_D611
+Firenze_FI_D612
+Firenzuola_FI_D613
+Firmo_CS_D614
+Fisciano_SA_D615
+Fiuggi_FR_A310
+Fiumalbo_MO_D617
+Fiumara_RC_D619
+Fiume Veneto_PN_D621
+Fiumedinisi_ME_D622
+Fiumefreddo Bruzio_CS_D624
+Fiumefreddo di Sicilia_CT_D623
+Fiumicello_UD_D627
+Fiumicino_RM_M297
+Fiuminata_MC_D628
+Fivizzano_MS_D629
+Flaibano_UD_D630
+Flavon_TN_D631
+Flero_BS_D634
+Floresta_ME_D635
+Floridia_SR_D636
+Florinas_SS_D637
+Flumeri_AV_D638
+Fluminimaggiore_CI_D639
+Flussio_OR_D640
+Fobello_VC_D641
+Foggia_FG_D643
+Foglianise_BN_D644
+Fogliano Redipuglia_GO_D645
+Foglizzo_TO_D646
+Foiano della Chiana_AR_D649
+Foiano di Val Fortore_BN_D650
+Folgaria_TN_D651
+Folignano_AP_D652
+Foligno_PG_D653
+Follina_TV_D654
+Follo_SP_D655
+Follonica_GR_D656
+Fombio_LO_D660
+Fondachelli-Fantina_ME_D661
+Fondi_LT_D662
+Fondo_TN_D663
+Fonni_NU_D665
+Fontainemore_AO_D666
+Fontana Liri_FR_D667
+Fontanafredda_PN_D670
+Fontanarosa_AV_D671
+Fontanelice_BO_D668
+Fontanella_BG_D672
+Fontanellato_PR_D673
+Fontanelle_TV_D674
+Fontaneto d'Agogna_NO_D675
+Fontanetto Po_VC_D676
+Fontanigorda_GE_D677
+Fontanile_AT_D678
+Fontaniva_PD_D679
+Fonte_TV_D680
+Fonte Nuova_RM_M309
+Fontecchio_AQ_D681
+Fontechiari_FR_D682
+Fontegreca_CE_D683
+Fonteno_BG_D684
+Fontevivo_PR_D685
+Fonzaso_BL_D686
+Foppolo_BG_D688
+Forano_RI_D689
+Force_AP_D691
+Forchia_BN_D693
+Forcola_SO_D694
+Fordongianus_OR_D695
+Forenza_PZ_D696
+Foresto Sparso_BG_D697
+Forgaria nel Friuli_UD_D700
+Forino_AV_D701
+Forio_NA_D702
+Forl�_FC_D704
+Forl� del Sannio_IS_D703
+Forlimpopoli_FC_D705
+Formazza_VB_D706
+Formello_RM_D707
+Formia_LT_D708
+Formicola_CE_D709
+Formigara_CR_D710
+Formigine_MO_D711
+Formigliana_VC_D712
+Formignana_FE_D713
+Fornace_TN_D714
+Fornelli_IS_D715
+Forni Avoltri_UD_D718
+Forni di Sopra_UD_D719
+Forni di Sotto_UD_D720
+Forno Canavese_TO_D725
+Forno di Zoldo_BL_D726
+Fornovo di Taro_PR_D728
+Fornovo San Giovanni_BG_D727
+Forte dei Marmi_LU_D730
+Fortezza_BZ_D731
+Fortunago_PV_D732
+Forza d'Agr�_ME_D733
+Fosciandora_LU_D734
+Fosdinovo_MS_D735
+Fossa_AQ_D736
+Fossacesia_CH_D738
+Fossalta di Piave_VE_D740
+Fossalta di Portogruaro_VE_D741
+Fossalto_CB_D737
+Fossano_CN_D742
+Fossato di Vico_PG_D745
+Fossato Serralta_CZ_D744
+Foss�_VE_D748
+Fossombrone_PU_D749
+Foza_VI_D750
+Frabosa Soprana_CN_D751
+Frabosa Sottana_CN_D752
+Fraconalto_AL_D559
+Fragagnano_TA_D754
+Fragneto L'Abate_BN_D755
+Fragneto Monforte_BN_D756
+Fraine_CH_D757
+Framura_SP_D758
+Francavilla al Mare_CH_D763
+Francavilla Angitola_VV_D762
+Francavilla Bisio_AL_D759
+Francavilla d'Ete_FM_D760
+Francavilla di Sicilia_ME_D765
+Francavilla Fontana_BR_D761
+Francavilla in Sinni_PZ_D766
+Francavilla Marittima_CS_D764
+Francica_VV_D767
+Francofonte_SR_D768
+Francolise_CE_D769
+Frascaro_AL_D770
+Frascarolo_PV_D771
+Frascati_RM_D773
+Frascineto_CS_D774
+Frassilongo_TN_D775
+Frassinelle Polesine_RO_D776
+Frassinello Monferrato_AL_D777
+Frassineto Po_AL_D780
+Frassinetto_TO_D781
+Frassino_CN_D782
+Frassinoro_MO_D783
+Frasso Sabino_RI_D785
+Frasso Telesino_BN_D784
+Fratta Polesine_RO_D788
+Fratta Todina_PG_D787
+Frattamaggiore_NA_D789
+Frattaminore_NA_D790
+Fratte Rosa_PU_D791
+Frazzan�_ME_D793
+Fregona_TV_D794
+Fresagrandinaria_CH_D796
+Fresonara_AL_D797
+Frigento_AV_D798
+Frignano_CE_D799
+Frinco_AT_D802
+Frisa_CH_D803
+Frisanco_PN_D804
+Front_TO_D805
+Frontino_PU_D807
+Frontone_PU_D808
+Frosinone_FR_D810
+Frosolone_IS_D811
+Frossasco_TO_D812
+Frugarolo_AL_D813
+Fubine_AL_D814
+Fucecchio_FI_D815
+Fuipiano Valle Imagna_BG_D817
+Fumane_VR_D818
+Fumone_FR_D819
+Funes_BZ_D821
+Furci_CH_D823
+Furci Siculo_ME_D824
+Furnari_ME_D825
+Furore_SA_D826
+Furtei_VS_D827
+Fuscaldo_CS_D828
+Fusignano_RA_D829
+Fusine_SO_D830
+Futani_SA_D832
+Gabbioneta-Binanuova_CR_D834
+Gabiano_AL_D835
+Gabicce Mare_PU_D836
+Gaby_AO_D839
+Gadesco-Pieve Delmona_CR_D841
+Gadoni_NU_D842
+Gaeta_LT_D843
+Gaggi_ME_D844
+Gaggiano_MI_D845
+Gaggio Montano_BO_D847
+Gaglianico_BI_D848
+Gagliano Aterno_AQ_D850
+Gagliano Castelferrato_EN_D849
+Gagliano del Capo_LE_D851
+Gagliato_CZ_D852
+Gagliole_MC_D853
+Gaiarine_TV_D854
+Gaiba_RO_D855
+Gaiola_CN_D856
+Gaiole in Chianti_SI_D858
+Gairo_OG_D859
+Gais_BZ_D860
+Galati Mamertino_ME_D861
+Galatina_LE_D862
+Galatone_LE_D863
+Galatro_RC_D864
+Galbiate_LC_D865
+Galeata_FC_D867
+Galgagnano_LO_D868
+Gallarate_VA_D869
+Gallese_VT_D870
+Galliate_NO_D872
+Galliate Lombardo_VA_D871
+Galliavola_PV_D873
+Gallicano_LU_D874
+Gallicano nel Lazio_RM_D875
+Gallicchio_PZ_D876
+Galliera_BO_D878
+Galliera Veneta_PD_D879
+Gallinaro_FR_D881
+Gallio_VI_D882
+Gallipoli_LE_D883
+Gallo Matese_CE_D884
+Gallodoro_ME_D885
+Galluccio_CE_D886
+Galtell�_NU_D888
+Galzignano Terme_PD_D889
+Gamalero_AL_D890
+Gambara_BS_D891
+Gambarana_PV_D892
+Gambasca_CN_D894
+Gambassi Terme_FI_D895
+Gambatesa_CB_D896
+Gambellara_VI_D897
+Gamberale_CH_D898
+Gambettola_FC_D899
+Gambol�_PV_D901
+Gambugliano_VI_D902
+Gandellino_BG_D903
+Gandino_BG_D905
+Gandosso_BG_D906
+Gangi_PA_D907
+Garaguso_MT_D909
+Garbagna_AL_D910
+Garbagna Novarese_NO_D911
+Garbagnate Milanese_MI_D912
+Garbagnate Monastero_LC_D913
+Garda_VR_D915
+Gardone Riviera_BS_D917
+Gardone Val Trompia_BS_D918
+Garessio_CN_D920
+Gargallo_NO_D921
+Gargazzone_BZ_D923
+Gargnano_BS_D924
+Garlasco_PV_D925
+Garlate_LC_D926
+Garlenda_SV_D927
+Garniga Terme_TN_D928
+Garzeno_CO_D930
+Garzigliana_TO_D931
+Gasperina_CZ_D932
+Gassino Torinese_TO_D933
+Gattatico_RE_D934
+Gatteo_FC_D935
+Gattico_NO_D937
+Gattinara_VC_D938
+Gavardo_BS_D940
+Gavazzana_AL_D941
+Gavello_RO_D942
+Gaverina Terme_BG_D943
+Gavi_AL_D944
+Gavignano_RM_D945
+Gavirate_VA_D946
+Gavoi_NU_D947
+Gavorrano_GR_D948
+Gazoldo degli Ippoliti_MN_D949
+Gazzada Schianno_VA_D951
+Gazzaniga_BG_D952
+Gazzo_PD_D956
+Gazzo Veronese_VR_D957
+Gazzola_PC_D958
+Gazzuolo_MN_D959
+Gela_CL_D960
+Gemmano_RN_D961
+Gemona del Friuli_UD_D962
+Gemonio_VA_D963
+Genazzano_RM_D964
+Genga_AN_D965
+Genivolta_CR_D966
+Genola_CN_D967
+Genoni_OR_D968
+Genova_GE_D969
+Genuri_VS_D970
+Genzano di Lucania_PZ_D971
+Genzano di Roma_RM_D972
+Genzone_PV_D973
+Gera Lario_CO_D974
+Gerace_RC_D975
+Geraci Siculo_PA_D977
+Gerano_RM_D978
+Gerenzago_PV_D980
+Gerenzano_VA_D981
+Gergei_CA_D982
+Germagnano_TO_D983
+Germagno_VB_D984
+Germignaga_VA_D987
+Gerocarne_VV_D988
+Gerola Alta_SO_D990
+Gerosa_BG_D991
+Gerre de' Caprioli_CR_D993
+Gesico_CA_D994
+Gessate_MI_D995
+Gessopalena_CH_D996
+Gesturi_VS_D997
+Gesualdo_AV_D998
+Ghedi_BS_D999
+Ghemme_NO_E001
+Ghiffa_VB_E003
+Ghilarza_OR_E004
+Ghisalba_BG_E006
+Ghislarengo_VC_E007
+Giacciano con Baruchella_RO_E008
+Giaglione_TO_E009
+Gianico_BS_E010
+Giano dell'Umbria_PG_E012
+Giano Vetusto_CE_E011
+Giardinello_PA_E013
+Giardini-Naxos_ME_E014
+Giarole_AL_E015
+Giarratana_RG_E016
+Giarre_CT_E017
+Giave_SS_E019
+Giaveno_TO_E020
+Giavera del Montello_TV_E021
+Giba_CI_E022
+Gibellina_TP_E023
+Gifflenga_BI_E024
+Giffone_RC_E025
+Giffoni Sei Casali_SA_E026
+Giffoni Valle Piana_SA_E027
+Gignese_VB_E028
+Gignod_AO_E029
+Gildone_CB_E030
+Gimigliano_CZ_E031
+Ginestra_PZ_E033
+Ginestra degli Schiavoni_BN_E034
+Ginosa_TA_E036
+Gioi_SA_E037
+Gioia dei Marsi_AQ_E040
+Gioia del Colle_BA_E038
+Gioia Sannitica_CE_E039
+Gioia Tauro_RC_E041
+Gioiosa Ionica_RC_E044
+Gioiosa Marea_ME_E043
+Giove_TR_E045
+Giovinazzo_BA_E047
+Giovo_TN_E048
+Girasole_OG_E049
+Girifalco_CZ_E050
+Gironico_CO_E051
+Gissi_CH_E052
+Giuggianello_LE_E053
+Giugliano in Campania_NA_E054
+Giuliana_PA_E055
+Giuliano di Roma_FR_E057
+Giuliano Teatino_CH_E056
+Giulianova_TE_E058
+Giuncugnano_LU_E059
+Giungano_SA_E060
+Giurdignano_LE_E061
+Giussago_PV_E062
+Giussano_MB_E063
+Giustenice_SV_E064
+Giustino_TN_E065
+Giusvalla_SV_E066
+Givoletto_TO_E067
+Gizzeria_CZ_E068
+Glorenza_BZ_E069
+Godega di Sant'Urbano_TV_E071
+Godiasco_PV_E072
+Godrano_PA_E074
+Goito_MN_E078
+Golasecca_VA_E079
+Golferenzo_PV_E081
+Golfo Aranci_OT_M274
+Gombito_CR_E082
+Gonars_UD_E083
+Goni_CA_E084
+Gonnesa_CI_E086
+Gonnoscodina_OR_E087
+Gonnosfanadiga_VS_E085
+Gonnosn�_OR_D585
+Gonnostramatza_OR_E088
+Gonzaga_MN_E089
+Gordona_SO_E090
+Gorga_RM_E091
+Gorgo al Monticano_TV_E092
+Gorgoglione_MT_E093
+Gorgonzola_MI_E094
+Goriano Sicoli_AQ_E096
+Gorizia_GO_E098
+Gorla Maggiore_VA_E101
+Gorla Minore_VA_E102
+Gorlago_BG_E100
+Gorle_BG_E103
+Gornate-Olona_VA_E104
+Gorno_BG_E106
+Goro_FE_E107
+Gorreto_GE_E109
+Gorzegno_CN_E111
+Gosaldo_BL_E113
+Gossolengo_PC_E114
+Gottasecca_CN_E115
+Gottolengo_BS_E116
+Govone_CN_E118
+Gozzano_NO_E120
+Gradara_PU_E122
+Gradisca d'Isonzo_GO_E124
+Grado_GO_E125
+Gradoli_VT_E126
+Graffignana_LO_E127
+Graffignano_VT_E128
+Graglia_BI_E130
+Gragnano_NA_E131
+Gragnano Trebbiense_PC_E132
+Grammichele_CT_E133
+Grana_AT_E134
+Granaglione_BO_E135
+Granarolo dell'Emilia_BO_E136
+Grancona_VI_E138
+Grandate_CO_E139
+Grandola ed Uniti_CO_E141
+Graniti_ME_E142
+Granozzo con Monticello_NO_E143
+Grantola_VA_E144
+Grantorto_PD_E145
+Granze_PD_E146
+Grassano_MT_E147
+Grassobbio_BG_E148
+Gratteri_PA_E149
+Grauno_TN_E150
+Gravedona ed Uniti_CO_M315
+Gravellona Lomellina_PV_E152
+Gravellona Toce_VB_E153
+Gravere_TO_E154
+Gravina di Catania_CT_E156
+Gravina in Puglia_BA_E155
+Grazzanise_CE_E158
+Grazzano Badoglio_AT_E159
+Greccio_RI_E160
+Greci_AV_E161
+Greggio_VC_E163
+Gremiasco_AL_E164
+Gressan_AO_E165
+Gressoney-la-Trinit�_AO_E167
+Gressoney-Saint-Jean_AO_E168
+Greve in Chianti_FI_E169
+Grezzago_MI_E170
+Grezzana_VR_E171
+Griante_CO_E172
+Gricignano di Aversa_CE_E173
+Grignasco_NO_E177
+Grigno_TN_E178
+Grimacco_UD_E179
+Grimaldi_CS_E180
+Grinzane Cavour_CN_E182
+Grisignano di Zocco_VI_E184
+Grisolia_CS_E185
+Grizzana Morandi_BO_E187
+Grognardo_AL_E188
+Gromo_BG_E189
+Grondona_AL_E191
+Grone_BG_E192
+Grontardo_CR_E193
+Gropello Cairoli_PV_E195
+Gropparello_PC_E196
+Groscavallo_TO_E199
+Grosio_SO_E200
+Grosotto_SO_E201
+Grosseto_GR_E202
+Grosso_TO_E203
+Grottaferrata_RM_E204
+Grottaglie_TA_E205
+Grottaminarda_AV_E206
+Grottammare_AP_E207
+Grottazzolina_FM_E208
+Grotte_AG_E209
+Grotte di Castro_VT_E210
+Grotteria_RC_E212
+Grottole_MT_E213
+Grottolella_AV_E214
+Gruaro_VE_E215
+Grugliasco_TO_E216
+Grumello Cremonese ed Uniti_CR_E217
+Grumello del Monte_BG_E219
+Grumento Nova_PZ_E221
+Grumes_TN_E222
+Grumo Appula_BA_E223
+Grumo Nevano_NA_E224
+Grumolo delle Abbadesse_VI_E226
+Guagnano_LE_E227
+Gualdo_MC_E228
+Gualdo Cattaneo_PG_E229
+Gualdo Tadino_PG_E230
+Gualtieri_RE_E232
+Gualtieri Sicamin�_ME_E233
+Guamaggiore_CA_E234
+Guanzate_CO_E235
+Guarcino_FR_E236
+Guarda Veneta_RO_E240
+Guardabosone_VC_E237
+Guardamiglio_LO_E238
+Guardavalle_CZ_E239
+Guardea_TR_E241
+Guardia Lombardi_AV_E245
+Guardia Perticara_PZ_E246
+Guardia Piemontese_CS_E242
+Guardia Sanframondi_BN_E249
+Guardiagrele_CH_E243
+Guardialfiera_CB_E244
+Guardiaregia_CB_E248
+Guardistallo_PI_E250
+Guarene_CN_E251
+Guasila_CA_E252
+Guastalla_RE_E253
+Guazzora_AL_E255
+Gubbio_PG_E256
+Gudo Visconti_MI_E258
+Guglionesi_CB_E259
+Guidizzolo_MN_E261
+Guidonia Montecelio_RM_E263
+Guiglia_MO_E264
+Guilmi_CH_E266
+Gurro_VB_E269
+Guspini_VS_E270
+Gussago_BS_E271
+Gussola_CR_E272
+Hone_AO_E273
+Idro_BS_E280
+Iglesias_CI_E281
+Igliano_CN_E282
+Ilbono_OG_E283
+Illasi_VR_E284
+Illorai_SS_E285
+Imbersago_LC_E287
+Imer_TN_E288
+Imola_BO_E289
+Imperia_IM_E290
+Impruneta_FI_E291
+Inarzo_VA_E292
+Incisa in Val d'Arno_FI_E296
+Incisa Scapaccino_AT_E295
+Incudine_BS_E297
+Induno Olona_VA_E299
+Ingria_TO_E301
+Intragna_VB_E304
+Introbio_LC_E305
+Introd_AO_E306
+Introdacqua_AQ_E307
+Introzzo_LC_E308
+Inverigo_CO_E309
+Inverno e Monteleone_PV_E310
+Inverso Pinasca_TO_E311
+Inveruno_MI_E313
+Invorio_NO_E314
+Inzago_MI_E317
+Ionadi_VV_E321
+Irgoli_NU_E323
+Irma_BS_E325
+Irsina_MT_E326
+Isasca_CN_E327
+Isca sullo Ionio_CZ_E328
+Ischia_NA_E329
+Ischia di Castro_VT_E330
+Ischitella_FG_E332
+Iseo_BS_E333
+Isera_TN_E334
+Isernia_IS_E335
+Isili_CA_E336
+Isnello_PA_E337
+Isola d'Asti_AT_E338
+Isola del Cantone_GE_E341
+Isola del Giglio_GR_E348
+Isola del Gran Sasso d'Italia_TE_E343
+Isola del Liri_FR_E340
+Isola del Piano_PU_E351
+Isola della Scala_VR_E349
+Isola delle Femmine_PA_E350
+Isola di Capo Rizzuto_KR_E339
+Isola di Fondra_BG_E353
+Isola Dovarese_CR_E356
+Isola Rizza_VR_E358
+Isola Sant'Antonio_AL_E360
+Isola Vicentina_VI_E354
+Isolabella_TO_E345
+Isolabona_IM_E346
+Isole Tremiti_FG_E363
+Isorella_BS_E364
+Ispani_SA_E365
+Ispica_RG_E366
+Ispra_VA_E367
+Issiglio_TO_E368
+Issime_AO_E369
+Isso_BG_E370
+Issogne_AO_E371
+Istrana_TV_E373
+Itala_ME_E374
+Itri_LT_E375
+Ittireddu_SS_E376
+Ittiri_SS_E377
+Ivano-Fracena_TN_E378
+Ivrea_TO_E379
+Izano_CR_E380
+Jacurso_CZ_E274
+Jelsi_CB_E381
+Jenne_RM_E382
+Jerago con Orago_VA_E386
+Jerzu_OG_E387
+Jesi_AN_E388
+Jesolo_VE_C388
+Jolanda di Savoia_FE_E320
+Joppolo_VV_E389
+Joppolo Giancaxio_AG_E390
+Jovencan_AO_E391
+La Cassa_TO_E394
+La Loggia_TO_E423
+La Maddalena_OT_E425
+La Magdeleine_AO_A308
+La Morra_CN_E430
+La Salle_AO_E458
+La Spezia_SP_E463
+La Thuile_AO_E470
+La Valle_BZ_E491
+La Valle Agordina_BL_E490
+Labico_RM_E392
+Labro_RI_E393
+Lacchiarella_MI_E395
+Lacco Ameno_NA_E396
+Lacedonia_AV_E397
+Laces_BZ_E398
+Laconi_OR_E400
+Ladispoli_RM_M212
+Laerru_SS_E401
+Laganadi_RC_E402
+Laghi_VI_E403
+Laglio_CO_E405
+Lagnasco_CN_E406
+Lago_CS_E407
+Lagonegro_PZ_E409
+Lagosanto_FE_E410
+Lagundo_BZ_E412
+Laigueglia_SV_E414
+Lainate_MI_E415
+Laino_CO_E416
+Laino Borgo_CS_E417
+Laino Castello_CS_E419
+Laion_BZ_E420
+Laives_BZ_E421
+Lajatico_PI_E413
+Lallio_BG_E422
+Lama dei Peligni_CH_E424
+Lama Mocogno_MO_E426
+Lambrugo_CO_E428
+Lamezia Terme_CZ_M208
+Lamon_BL_E429
+Lampedusa e Linosa_AG_E431
+Lamporecchio_PT_E432
+Lamporo_VC_E433
+Lana_BZ_E434
+Lanciano_CH_E435
+Landiona_NO_E436
+Landriano_PV_E437
+Langhirano_PR_E438
+Langosco_PV_E439
+Lanusei_OG_E441
+Lanuvio_RM_C767
+Lanzada_SO_E443
+Lanzo d'Intelvi_CO_E444
+Lanzo Torinese_TO_E445
+Lapedona_FM_E447
+Lapio_AV_E448
+Lappano_CS_E450
+L'Aquila_AQ_A345
+Larciano_PT_E451
+Lardaro_TN_E452
+Lardirago_PV_E454
+Lari_PI_E455
+Lariano_RM_M207
+Larino_CB_E456
+Las Plassas_VS_E464
+Lasa_BZ_E457
+Lascari_PA_E459
+Lasino_TN_E461
+Lasnigo_CO_E462
+Lastebasse_VI_E465
+Lastra a Signa_FI_E466
+Latera_VT_E467
+Laterina_AR_E468
+Laterza_TA_E469
+Latiano_BR_E471
+Latina_LT_E472
+Latisana_UD_E473
+Latronico_PZ_E474
+Lattarico_CS_E475
+Lauco_UD_E476
+Laureana Cilento_SA_E480
+Laureana di Borrello_RC_E479
+Lauregno_BZ_E481
+Laurenzana_PZ_E482
+Lauria_PZ_E483
+Lauriano_TO_E484
+Laurino_SA_E485
+Laurito_SA_E486
+Lauro_AV_E487
+Lavagna_GE_E488
+Lavagno_VR_E489
+Lavarone_TN_E492
+Lavello_PZ_E493
+Lavena Ponte Tresa_VA_E494
+Laveno-Mombello_VA_E496
+Lavenone_BS_E497
+Laviano_SA_E498
+Lavis_TN_E500
+Lazise_VR_E502
+Lazzate_MB_E504
+Lecce_LE_E506
+Lecce nei Marsi_AQ_E505
+Lecco_LC_E507
+Ledro_TN_M313
+Leffe_BG_E509
+Leggiuno_VA_E510
+Legnago_VR_E512
+Legnano_MI_E514
+Legnaro_PD_E515
+Lei_NU_E517
+Leini_TO_E518
+Leivi_GE_E519
+Lemie_TO_E520
+Lendinara_RO_E522
+Leni_ME_E523
+Lenna_BG_E524
+Lenno_CO_E525
+Leno_BS_E526
+Lenola_LT_E527
+Lenta_VC_E528
+Lentate sul Seveso_MB_E530
+Lentella_CH_E531
+Lentiai_BL_C562
+Lentini_SR_E532
+Leonessa_RI_E535
+Leonforte_EN_E536
+Leporano_TA_E537
+Lequile_LE_E538
+Lequio Berria_CN_E540
+Lequio Tanaro_CN_E539
+Lercara Friddi_PA_E541
+Lerici_SP_E542
+Lerma_AL_E543
+Lesa_NO_E544
+Lesegno_CN_E546
+Lesignano de' Bagni_PR_E547
+Lesina_FG_E549
+Lesmo_MB_E550
+Lessolo_TO_E551
+Lessona_BI_E552
+Lestizza_UD_E553
+Letino_CE_E554
+Letojanni_ME_E555
+Lettere_NA_E557
+Lettomanoppello_PE_E558
+Lettopalena_CH_E559
+Levanto_SP_E560
+Levate_BG_E562
+Leverano_LE_E563
+Levice_CN_E564
+Levico Terme_TN_E565
+Levone_TO_E566
+Lezzeno_CO_E569
+Liberi_CE_E570
+Librizzi_ME_E571
+Licata_AG_E573
+Licciana Nardi_MS_E574
+Licenza_RM_E576
+Licodia Eubea_CT_E578
+Lierna_LC_E581
+Lignana_VC_E583
+Lignano Sabbiadoro_UD_E584
+Ligonchio_RE_E585
+Ligosullo_UD_E586
+Lillianes_AO_E587
+Limana_BL_E588
+Limatola_BN_E589
+Limbadi_VV_E590
+Limbiate_MB_E591
+Limena_PD_E592
+Limido Comasco_CO_E593
+Limina_ME_E594
+Limone Piemonte_CN_E597
+Limone sul Garda_BS_E596
+Limosano_CB_E599
+Linarolo_PV_E600
+Linguaglossa_CT_E602
+Lioni_AV_E605
+Lipari_ME_E606
+Lipomo_CO_E607
+Lirio_PV_E608
+Liscate_MI_E610
+Liscia_CH_E611
+Lisciano Niccone_PG_E613
+Lisignago_TN_E614
+Lisio_CN_E615
+Lissone_MB_E617
+Liveri_NA_E620
+Livigno_SO_E621
+Livinallongo del Col di Lana_BL_E622
+Livo_TN_E624
+Livo_CO_E623
+Livorno_LI_E625
+Livorno Ferraris_VC_E626
+Livraga_LO_E627
+Lizzanello_LE_E629
+Lizzano_TA_E630
+Lizzano in Belvedere_BO_A771
+Loano_SV_E632
+Loazzolo_AT_E633
+Locana_TO_E635
+Locate di Triulzi_MI_E639
+Locate Varesino_CO_E638
+Locatello_BG_E640
+Loceri_OG_E644
+Locorotondo_BA_E645
+Locri_RC_D976
+Loculi_NU_E646
+Lod�_NU_E647
+Lodi_LO_E648
+Lodi Vecchio_LO_E651
+Lodine_NU_E649
+Lodrino_BS_E652
+Lograto_BS_E654
+Loiano_BO_E655
+Loiri Porto San Paolo_OT_M275
+Lomagna_LC_E656
+Lomazzo_CO_E659
+Lombardore_TO_E660
+Lombriasco_TO_E661
+Lomello_PV_E662
+Lona-Lases_TN_E664
+Lonate Ceppino_VA_E665
+Lonate Pozzolo_VA_E666
+Lonato del Garda_BS_M312
+Londa_FI_E668
+Longano_IS_E669
+Longare_VI_E671
+Longarone_BL_E672
+Longhena_BS_E673
+Longi_ME_E674
+Longiano_FC_E675
+Longobardi_CS_E677
+Longobucco_CS_E678
+Longone al Segrino_CO_E679
+Longone Sabino_RI_E681
+Lonigo_VI_E682
+Loranz�_TO_E683
+Loreggia_PD_E684
+Loreglia_VB_E685
+Lorenzago di Cadore_BL_E687
+Lorenzana_PI_E688
+Loreo_RO_E689
+Loreto_AN_E690
+Loreto Aprutino_PE_E691
+Loria_TV_E692
+Loro Ciuffenna_AR_E693
+Loro Piceno_MC_E694
+Lorsica_GE_E695
+Losine_BS_E698
+Lotzorai_OG_E700
+Lovere_BG_E704
+Lovero_SO_E705
+Lozio_BS_E706
+Lozza_VA_E707
+Lozzo Atestino_PD_E709
+Lozzo di Cadore_BL_E708
+Lozzolo_VC_E711
+Lu_AL_E712
+Lubriano_VT_E713
+Lucca_LU_E715
+Lucca Sicula_AG_E714
+Lucera_FG_E716
+Lucignano_AR_E718
+Lucinasco_IM_E719
+Lucito_CB_E722
+Luco dei Marsi_AQ_E723
+Lucoli_AQ_E724
+Lugagnano Val D'Arda_PC_E726
+Lugnacco_TO_E727
+Lugnano in Teverina_TR_E729
+Lugo_RA_E730
+Lugo di Vicenza_VI_E731
+Luino_VA_E734
+Luisago_CO_E735
+Lula_NU_E736
+Lumarzo_GE_E737
+Lumezzane_BS_E738
+Lunamatrona_VS_E742
+Lunano_PU_E743
+Lungavilla_PV_B387
+Lungro_CS_E745
+Luogosano_AV_E746
+Luogosanto_OT_E747
+Lupara_CB_E748
+Lurago d'Erba_CO_E749
+Lurago Marinone_CO_E750
+Lurano_BG_E751
+Luras_OT_E752
+Lurate Caccivio_CO_E753
+Lusciano_CE_E754
+Luserna_TN_E757
+Luserna San Giovanni_TO_E758
+Lusernetta_TO_E759
+Lusevera_UD_E760
+Lusia_RO_E761
+Lusiana_VI_E762
+Lusigli�_TO_E763
+Luson_BZ_E764
+Lustra_SA_E767
+Luvinate_VA_E769
+Luzzana_BG_E770
+Luzzara_RE_E772
+Luzzi_CS_E773
+Maccagno_VA_E775
+Maccastorna_LO_E777
+Macchia d'Isernia_IS_E778
+Macchia Valfortore_CB_E780
+Macchiagodena_IS_E779
+Macello_TO_E782
+Macerata_MC_E783
+Macerata Campania_CE_E784
+Macerata Feltria_PU_E785
+Macherio_MB_E786
+Maclodio_BS_E787
+Macomer_NU_E788
+Macra_CN_E789
+Macugnaga_VB_E790
+Maddaloni_CE_E791
+Madesimo_SO_E342
+Madignano_CR_E793
+Madone_BG_E794
+Madonna del Sasso_VB_E795
+Maenza_LT_E798
+Mafalda_CB_E799
+Magasa_BS_E800
+Magenta_MI_E801
+Maggiora_NO_E803
+Magherno_PV_E804
+Magione_PG_E805
+Magisano_CZ_E806
+Magliano Alfieri_CN_E809
+Magliano Alpi_CN_E808
+Magliano de' Marsi_AQ_E811
+Magliano di Tenna_FM_E807
+Magliano in Toscana_GR_E810
+Magliano Romano_RM_E813
+Magliano Sabina_RI_E812
+Magliano Vetere_SA_E814
+Maglie_LE_E815
+Magliolo_SV_E816
+Maglione_TO_E817
+Magnacavallo_MN_E818
+Magnago_MI_E819
+Magnano_BI_E821
+Magnano in Riviera_UD_E820
+Magomadas_OR_E825
+Magr� sulla Strada del Vino_BZ_E829
+Magreglio_CO_E830
+Maida_CZ_E834
+Maier�_CS_E835
+Maierato_VV_E836
+Maiolati Spontini_AN_E837
+Maiolo_RN_E838
+Maiori_SA_E839
+Mairago_LO_E840
+Mairano_BS_E841
+Maissana_SP_E842
+Majano_UD_E833
+Malagnino_CR_E843
+Malalbergo_BO_E844
+Malborghetto Valbruna_UD_E847
+Malcesine_VR_E848
+Mal�_TN_E850
+Malegno_BS_E851
+Maleo_LO_E852
+Malesco_VB_E853
+Maletto_CT_E854
+Malfa_ME_E855
+Malgesso_VA_E856
+Malgrate_LC_E858
+Malito_CS_E859
+Mallare_SV_E860
+Malles Venosta_BZ_E862
+Malnate_VA_E863
+Malo_VI_E864
+Malonno_BS_E865
+Malosco_TN_E866
+Maltignano_AP_E868
+Malvagna_ME_E869
+Malvicino_AL_E870
+Malvito_CS_E872
+Mammola_RC_E873
+Mamoiada_NU_E874
+Manciano_GR_E875
+Mandanici_ME_E876
+Mandas_CA_E877
+Mandatoriccio_CS_E878
+Mandela_RM_B632
+Mandello del Lario_LC_E879
+Mandello Vitta_NO_E880
+Manduria_TA_E882
+Manerba del Garda_BS_E883
+Manerbio_BS_E884
+Manfredonia_FG_E885
+Mango_CN_E887
+Mangone_CS_E888
+Maniace_CT_M283
+Maniago_PN_E889
+Manocalzati_AV_E891
+Manoppello_PE_E892
+Mansu�_TV_E893
+Manta_CN_E894
+Mantello_SO_E896
+Mantova_MN_E897
+Manzano_UD_E899
+Manziana_RM_E900
+Mapello_BG_E901
+Mara_SS_E902
+Maracalagonis_CA_E903
+Maranello_MO_E904
+Marano di Napoli_NA_E906
+Marano di Valpolicella_VR_E911
+Marano Equo_RM_E908
+Marano Lagunare_UD_E910
+Marano Marchesato_CS_E914
+Marano Principato_CS_E915
+Marano sul Panaro_MO_E905
+Marano Ticino_NO_E907
+Marano Vicentino_VI_E912
+Maranzana_AT_E917
+Maratea_PZ_E919
+Marcallo con Casone_MI_E921
+Marcaria_MN_E922
+Marcedusa_CZ_E923
+Marcellina_RM_E924
+Marcellinara_CZ_E925
+Marcetelli_RI_E927
+Marcheno_BS_E928
+Marchirolo_VA_E929
+Marciana_LI_E930
+Marciana Marina_LI_E931
+Marcianise_CE_E932
+Marciano della Chiana_AR_E933
+Marcignago_PV_E934
+Marcon_VE_E936
+Marebbe_BZ_E938
+Marene_CN_E939
+Mareno di Piave_TV_E940
+Marentino_TO_E941
+Maretto_AT_E944
+Margarita_CN_E945
+Margherita di Savoia_BT_E946
+Margno_LC_E947
+Mariana Mantovana_MN_E949
+Mariano Comense_CO_E951
+Mariano del Friuli_GO_E952
+Marianopoli_CL_E953
+Mariglianella_NA_E954
+Marigliano_NA_E955
+Marina di Gioiosa Ionica_RC_E956
+Marineo_PA_E957
+Marino_RM_E958
+Marlengo_BZ_E959
+Marliana_PT_E960
+Marmentino_BS_E961
+Marmirolo_MN_E962
+Marmora_CN_E963
+Marnate_VA_E965
+Marone_BS_E967
+Maropati_RC_E968
+Marostica_VI_E970
+Marradi_FI_E971
+Marrubiu_OR_E972
+Marsaglia_CN_E973
+Marsala_TP_E974
+Marsciano_PG_E975
+Marsico Nuovo_PZ_E976
+Marsicovetere_PZ_E977
+Marta_VT_E978
+Martano_LE_E979
+Martellago_VE_E980
+Martello_BZ_E981
+Martignacco_UD_E982
+Martignana di Po_CR_E983
+Martignano_LE_E984
+Martina Franca_TA_E986
+Martinengo_BG_E987
+Martiniana Po_CN_E988
+Martinsicuro_TE_E989
+Martirano_CZ_E990
+Martirano Lombardo_CZ_E991
+Martis_SS_E992
+Martone_RC_E993
+Marudo_LO_E994
+Maruggio_TA_E995
+Marzabotto_BO_B689
+Marzano_PV_E999
+Marzano Appio_CE_E998
+Marzano di Nola_AV_E997
+Marzi_CS_F001
+Marzio_VA_F002
+Masainas_CI_M270
+Masate_MI_F003
+Mascali_CT_F004
+Mascalucia_CT_F005
+Maschito_PZ_F006
+Masciago Primo_VA_F007
+Maser_TV_F009
+Masera_VB_F010
+Maser� di Padova_PD_F011
+Maserada sul Piave_TV_F012
+Masi_PD_F013
+Masi Torello_FE_F016
+Masio_AL_F015
+Maslianico_CO_F017
+Mason Vicentino_VI_F019
+Masone_GE_F020
+Massa_MS_F023
+Massa d'Albe_AQ_F022
+Massa di Somma_NA_M289
+Massa e Cozzile_PT_F025
+Massa Fermana_FM_F021
+Massa Fiscaglia_FE_F026
+Massa Lombarda_RA_F029
+Massa Lubrense_NA_F030
+Massa Marittima_GR_F032
+Massa Martana_PG_F024
+Massafra_TA_F027
+Massalengo_LO_F028
+Massanzago_PD_F033
+Massarosa_LU_F035
+Massazza_BI_F037
+Massello_TO_F041
+Masserano_BI_F042
+Massignano_AP_F044
+Massimeno_TN_F045
+Massimino_SV_F046
+Massino Visconti_NO_F047
+Massiola_VB_F048
+Masullas_OR_F050
+Matelica_MC_F051
+Matera_MT_F052
+Mathi_TO_F053
+Matino_LE_F054
+Matrice_CB_F055
+Mattie_TO_F058
+Mattinata_FG_F059
+Mazara del Vallo_TP_F061
+Mazzano_BS_F063
+Mazzano Romano_RM_F064
+Mazzarino_CL_F065
+Mazzarr� Sant'Andrea_ME_F066
+Mazzarrone_CT_M271
+Mazz�_TO_F067
+Mazzin_TN_F068
+Mazzo di Valtellina_SO_F070
+Meana di Susa_TO_F074
+Meana Sardo_NU_F073
+Meda_MB_F078
+Mede_PV_F080
+Medea_GO_F081
+Medesano_PR_F082
+Medicina_BO_F083
+Mediglia_MI_F084
+Medolago_BG_F085
+Medole_MN_F086
+Medolla_MO_F087
+Meduna di Livenza_TV_F088
+Meduno_PN_F089
+Megliadino San Fidenzio_PD_F091
+Megliadino San Vitale_PD_F092
+Meina_NO_F093
+Mel_BL_F094
+Melara_RO_F095
+Melazzo_AL_F096
+Meldola_FC_F097
+Mele_GE_F098
+Melegnano_MI_F100
+Melendugno_LE_F101
+Meleti_LO_F102
+Melfi_PZ_F104
+Melicucc�_RC_F105
+Melicucco_RC_F106
+Melilli_SR_F107
+Melissa_KR_F108
+Melissano_LE_F109
+Melito di Napoli_NA_F111
+Melito di Porto Salvo_RC_F112
+Melito Irpino_AV_F110
+Melizzano_BN_F113
+Melle_CN_F114
+Mello_SO_F115
+Melpignano_LE_F117
+Meltina_BZ_F118
+Melzo_MI_F119
+Menaggio_CO_F120
+Menarola_SO_F121
+Menconico_PV_F122
+Mendatica_IM_F123
+Mendicino_CS_F125
+Menfi_AG_F126
+Mentana_RM_F127
+Meolo_VE_F130
+Merana_AL_F131
+Merano_BZ_F132
+Merate_LC_F133
+Mercallo_VA_F134
+Mercatello sul Metauro_PU_F135
+Mercatino Conca_PU_F136
+Mercato San Severino_SA_F138
+Mercato Saraceno_FC_F139
+Mercenasco_TO_F140
+Mercogliano_AV_F141
+Mereto di Tomba_UD_F144
+Mergo_AN_F145
+Mergozzo_VB_F146
+Mer�_ME_F147
+Merlara_PD_F148
+Merlino_LO_F149
+Merone_CO_F151
+Mesagne_BR_F152
+Mese_SO_F153
+Mesenzana_VA_F154
+Mesero_MI_F155
+Mesola_FE_F156
+Mesoraca_KR_F157
+Messina_ME_F158
+Mestrino_PD_F161
+Meta_NA_F162
+Meugliano_TO_F164
+Mezzago_MB_F165
+Mezzana_TN_F168
+Mezzana Bigli_PV_F170
+Mezzana Mortigliengo_BI_F167
+Mezzana Rabattone_PV_F171
+Mezzane di Sotto_VR_F172
+Mezzanego_GE_F173
+Mezzani_PR_F174
+Mezzanino_PV_F175
+Mezzano_TN_F176
+Mezzegra_CO_F181
+Mezzenile_TO_F182
+Mezzocorona_TN_F183
+Mezzojuso_PA_F184
+Mezzoldo_BG_F186
+Mezzolombardo_TN_F187
+Mezzomerico_NO_F188
+Miagliano_BI_F189
+Miane_TV_F190
+Miasino_NO_F191
+Miazzina_VB_F192
+Micigliano_RI_F193
+Miggiano_LE_F194
+Miglianico_CH_F196
+Migliarino_FE_F198
+Migliaro_FE_F199
+Miglierina_CZ_F200
+Miglionico_MT_F201
+Mignanego_GE_F202
+Mignano Monte Lungo_CE_F203
+Milano_MI_F205
+Milazzo_ME_F206
+Milena_CL_E618
+Mileto_VV_F207
+Milis_OR_F208
+Militello in Val di Catania_CT_F209
+Militello Rosmarino_ME_F210
+Millesimo_SV_F213
+Milo_CT_F214
+Milzano_BS_F216
+Mineo_CT_F217
+Minerbe_VR_F218
+Minerbio_BO_F219
+Minervino di Lecce_LE_F221
+Minervino Murge_BT_F220
+Minori_SA_F223
+Minturno_LT_F224
+Minucciano_LU_F225
+Mioglia_SV_F226
+Mira_VE_F229
+Mirabella Eclano_AV_F230
+Mirabella Imbaccari_CT_F231
+Mirabello_FE_F235
+Mirabello Monferrato_AL_F232
+Mirabello Sannitico_CB_F233
+Miradolo Terme_PV_F238
+Miranda_IS_F239
+Mirandola_MO_F240
+Mirano_VE_F241
+Mirto_ME_F242
+Misano Adriatico_RN_F244
+Misano di Gera d'Adda_BG_F243
+Misilmeri_PA_F246
+Misinto_MB_F247
+Missaglia_LC_F248
+Missanello_PZ_F249
+Misterbianco_CT_F250
+Mistretta_ME_F251
+Moasca_AT_F254
+Moconesi_GE_F256
+Modena_MO_F257
+Modica_RG_F258
+Modigliana_FC_F259
+Modolo_OR_F261
+Modugno_BA_F262
+Moena_TN_F263
+Moggio_LC_F265
+Moggio Udinese_UD_F266
+Moglia_MN_F267
+Mogliano_MC_F268
+Mogliano Veneto_TV_F269
+Mogorella_OR_F270
+Mogoro_OR_F272
+Moiano_BN_F274
+Moimacco_UD_F275
+Moio Alcantara_ME_F277
+Moio de' Calvi_BG_F276
+Moio della Civitella_SA_F278
+Moiola_CN_F279
+Mola di Bari_BA_F280
+Molare_AL_F281
+Molazzana_LU_F283
+Molfetta_BA_F284
+Molina Aterno_AQ_M255
+Molinara_BN_F287
+Molinella_BO_F288
+Molini di Triora_IM_F290
+Molino dei Torti_AL_F293
+Molise_CB_F294
+Moliterno_PZ_F295
+Mollia_VC_F297
+Molochio_RC_F301
+Molteno_LC_F304
+Moltrasio_CO_F305
+Molvena_VI_F306
+Molveno_TN_F307
+Mombaldone_AT_F308
+Mombarcaro_CN_F309
+Mombaroccio_PU_F310
+Mombaruzzo_AT_F311
+Mombasiglio_CN_F312
+Mombello di Torino_TO_F315
+Mombello Monferrato_AL_F313
+Mombercelli_AT_F316
+Momo_NO_F317
+Mompantero_TO_F318
+Mompeo_RI_F319
+Momperone_AL_F320
+Monacilioni_CB_F322
+Monale_AT_F323
+Monasterace_RC_F324
+Monastero Bormida_AT_F325
+Monastero di Lanzo_TO_F327
+Monastero di Vasco_CN_F326
+Monasterolo Casotto_CN_F329
+Monasterolo del Castello_BG_F328
+Monasterolo di Savigliano_CN_F330
+Monastier di Treviso_TV_F332
+Monastir_CA_F333
+Moncalieri_TO_F335
+Moncalvo_AT_F336
+Moncenisio_TO_D553
+Moncestino_AL_F337
+Monchiero_CN_F338
+Monchio delle Corti_PR_F340
+Monclassico_TN_F341
+Moncrivello_VC_F342
+Moncucco Torinese_AT_F343
+Mondaino_RN_F346
+Mondavio_PU_F347
+Mondolfo_PU_F348
+Mondov�_CN_F351
+Mondragone_CE_F352
+Moneglia_GE_F354
+Monesiglio_CN_F355
+Monfalcone_GO_F356
+Monforte d'Alba_CN_F358
+Monforte San Giorgio_ME_F359
+Monfumo_TV_F360
+Mongardino_AT_F361
+Monghidoro_BO_F363
+Mongiana_VV_F364
+Mongiardino Ligure_AL_F365
+Mongiuffi Melia_ME_F368
+Mongrando_BI_F369
+Mongrassano_CS_F370
+Monguelfo-Tesido_BZ_F371
+Monguzzo_CO_F372
+Moniga del Garda_BS_F373
+Monleale_AL_F374
+Monno_BS_F375
+Monopoli_BA_F376
+Monreale_PA_F377
+Monrupino_TS_F378
+Monsampietro Morico_FM_F379
+Monsampolo del Tronto_AP_F380
+Monsano_AN_F381
+Monselice_PD_F382
+Monserrato_CA_F383
+Monsummano Terme_PT_F384
+Mont�_CN_F385
+Montabone_AT_F386
+Montacuto_AL_F387
+Montafia_AT_F390
+Montagano_CB_F391
+Montagna_BZ_F392
+Montagna in Valtellina_SO_F393
+Montagnana_PD_F394
+Montagnareale_ME_F395
+Montagne_TN_F396
+Montaguto_AV_F397
+Montaione_FI_F398
+Montalbano Elicona_ME_F400
+Montalbano Jonico_MT_F399
+Montalcino_SI_F402
+Montaldeo_AL_F403
+Montaldo Bormida_AL_F404
+Montaldo di Mondov�_CN_F405
+Montaldo Roero_CN_F408
+Montaldo Scarampi_AT_F409
+Montaldo Torinese_TO_F407
+Montale_PT_F410
+Montalenghe_TO_F411
+Montallegro_AG_F414
+Montalto delle Marche_AP_F415
+Montalto di Castro_VT_F419
+Montalto Dora_TO_F420
+Montalto Ligure_IM_F406
+Montalto Pavese_PV_F417
+Montalto Uffugo_CS_F416
+Montanaro_TO_F422
+Montanaso Lombardo_LO_F423
+Montanera_CN_F424
+Montano Antilia_SA_F426
+Montano Lucino_CO_F427
+Montappone_FM_F428
+Montaquila_IS_F429
+Montasola_RI_F430
+Montauro_CZ_F432
+Montazzoli_CH_F433
+Monte Argentario_GR_F437
+Monte Castello di Vibio_PG_F456
+Monte Cavallo_MC_F460
+Monte Cerignone_PU_F467
+Monte Colombo_RN_F476
+Monte Compatri_RM_F477
+Monte Cremasco_CR_F434
+Monte di Malo_VI_F486
+Monte di Procida_NA_F488
+Monte Giberto_FM_F517
+Monte Grimano Terme_PU_F524
+Monte Isola_BS_F532
+Monte Marenzo_LC_F561
+Monte Porzio_PU_F589
+Monte Porzio Catone_RM_F590
+Monte Rinaldo_FM_F599
+Monte Roberto_AN_F600
+Monte Romano_VT_F603
+Monte San Biagio_LT_F616
+Monte San Giacomo_SA_F618
+Monte San Giovanni Campano_FR_F620
+Monte San Giovanni in Sabina_RI_F619
+Monte San Giusto_MC_F621
+Monte San Martino_MC_F622
+Monte San Pietrangeli_FM_F626
+Monte San Pietro_BO_F627
+Monte San Savino_AR_F628
+Monte San Vito_AN_F634
+Monte Santa Maria Tiberina_PG_F629
+Monte Sant'Angelo_FG_F631
+Monte Urano_FM_F653
+Monte Vidon Combatte_FM_F664
+Monte Vidon Corrado_FM_F665
+Montebello della Battaglia_PV_F440
+Montebello di Bertona_PE_F441
+Montebello Ionico_RC_D746
+Montebello sul Sangro_CH_B268
+Montebello Vicentino_VI_F442
+Montebelluna_TV_F443
+Montebruno_GE_F445
+Montebuono_RI_F446
+Montecalvo in Foglia_PU_F450
+Montecalvo Irpino_AV_F448
+Montecalvo Versiggia_PV_F449
+Montecarlo_LU_F452
+Montecarotto_AN_F453
+Montecassiano_MC_F454
+Montecastello_AL_F455
+Montecastrilli_TR_F457
+Montecatini Val di Cecina_PI_F458
+Montecatini-Terme_PT_A561
+Montecchia di Crosara_VR_F461
+Montecchio_TR_F462
+Montecchio Emilia_RE_F463
+Montecchio Maggiore_VI_F464
+Montecchio Precalcino_VI_F465
+Montechiaro d'Acqui_AL_F469
+Montechiaro d'Asti_AT_F468
+Montechiarugolo_PR_F473
+Monteciccardo_PU_F474
+Montecilfone_CB_F475
+Montecopiolo_PU_F478
+Montecorice_SA_F479
+Montecorvino Pugliano_SA_F480
+Montecorvino Rovella_SA_F481
+Montecosaro_MC_F482
+Montecrestese_VB_F483
+Montecreto_MO_F484
+Montedinove_AP_F487
+Montedoro_CL_F489
+Montefalcione_AV_F491
+Montefalco_PG_F492
+Montefalcone Appennino_FM_F493
+Montefalcone di Val Fortore_BN_F494
+Montefalcone nel Sannio_CB_F495
+Montefano_MC_F496
+Montefelcino_PU_F497
+Monteferrante_CH_F498
+Montefiascone_VT_F499
+Montefino_TE_F500
+Montefiore Conca_RN_F502
+Montefiore dell'Aso_AP_F501
+Montefiorino_MO_F503
+Monteflavio_RM_F504
+Monteforte Cilento_SA_F507
+Monteforte d'Alpone_VR_F508
+Monteforte Irpino_AV_F506
+Montefortino_FM_F509
+Montefranco_TR_F510
+Montefredane_AV_F511
+Montefusco_AV_F512
+Montegabbione_TR_F513
+Montegalda_VI_F514
+Montegaldella_VI_F515
+Montegallo_AP_F516
+Montegioco_AL_F518
+Montegiordano_CS_F519
+Montegiorgio_FM_F520
+Montegranaro_FM_F522
+Montegridolfo_RN_F523
+Montegrino Valtravaglia_VA_F526
+Montegrosso d'Asti_AT_F527
+Montegrosso Pian Latte_IM_F528
+Montegrotto Terme_PD_F529
+Monteiasi_TA_F531
+Montelabbate_PU_F533
+Montelanico_RM_F534
+Montelapiano_CH_F535
+Monteleone di Fermo_FM_F536
+Monteleone di Puglia_FG_F538
+Monteleone di Spoleto_PG_F540
+Monteleone d'Orvieto_TR_F543
+Monteleone Rocca Doria_SS_F542
+Monteleone Sabino_RI_F541
+Montelepre_PA_F544
+Montelibretti_RM_F545
+Montella_AV_F546
+Montello_BG_F547
+Montelongo_CB_F548
+Montelparo_FM_F549
+Montelupo Albese_CN_F550
+Montelupo Fiorentino_FI_F551
+Montelupone_MC_F552
+Montemaggiore al Metauro_PU_F555
+Montemaggiore Belsito_PA_F553
+Montemagno_AT_F556
+Montemale di Cuneo_CN_F558
+Montemarano_AV_F559
+Montemarciano_AN_F560
+Montemarzino_AL_F562
+Montemesola_TA_F563
+Montemezzo_CO_F564
+Montemignaio_AR_F565
+Montemiletto_AV_F566
+Montemilone_PZ_F568
+Montemitro_CB_F569
+Montemonaco_AP_F570
+Montemurlo_PO_F572
+Montemurro_PZ_F573
+Montenars_UD_F574
+Montenero di Bisaccia_CB_F576
+Montenero Sabino_RI_F579
+Montenero Val Cocchiara_IS_F580
+Montenerodomo_CH_F578
+Monteodorisio_CH_F582
+Montepaone_CZ_F586
+Monteparano_TA_F587
+Monteprandone_AP_F591
+Montepulciano_SI_F592
+Monterado_AN_F593
+Monterchi_AR_F594
+Montereale_AQ_F595
+Montereale Valcellina_PN_F596
+Monterenzio_BO_F597
+Monteriggioni_SI_F598
+Monteroduni_IS_F601
+Monteroni d'Arbia_SI_F605
+Monteroni di Lecce_LE_F604
+Monterosi_VT_F606
+Monterosso al Mare_SP_F609
+Monterosso Almo_RG_F610
+Monterosso Calabro_VV_F607
+Monterosso Grana_CN_F608
+Monterotondo_RM_F611
+Monterotondo Marittimo_GR_F612
+Monterubbiano_FM_F614
+Montesano Salentino_LE_F623
+Montesano sulla Marcellana_SA_F625
+Montesarchio_BN_F636
+Montescaglioso_MT_F637
+Montescano_PV_F638
+Montescheno_VB_F639
+Montescudaio_PI_F640
+Montescudo_RN_F641
+Montese_MO_F642
+Montesegale_PV_F644
+Montesilvano_PE_F646
+Montespertoli_FI_F648
+Monteu da Po_TO_F651
+Monteu Roero_CN_F654
+Montevago_AG_F655
+Montevarchi_AR_F656
+Montevecchia_LC_F657
+Monteveglio_BO_F659
+Monteverde_AV_F660
+Monteverdi Marittimo_PI_F661
+Monteviale_VI_F662
+Montezemolo_CN_F666
+Monti_OT_F667
+Montiano_FC_F668
+Monticelli Brusati_BS_F672
+Monticelli d'Ongina_PC_F671
+Monticelli Pavese_PV_F670
+Monticello Brianza_LC_F674
+Monticello Conte Otto_VI_F675
+Monticello d'Alba_CN_F669
+Montichiari_BS_F471
+Monticiano_SI_F676
+Montieri_GR_F677
+Montiglio Monferrato_AT_M302
+Montignoso_MS_F679
+Montirone_BS_F680
+Montjovet_AO_F367
+Montodine_CR_F681
+Montoggio_GE_F682
+Montone_PG_F685
+Montopoli di Sabina_RI_F687
+Montopoli in Val d'Arno_PI_F686
+Montorfano_CO_F688
+Montorio al Vomano_TE_F690
+Montorio nei Frentani_CB_F689
+Montorio Romano_RM_F692
+Montoro Inferiore_AV_F693
+Montoro Superiore_AV_F694
+Montorso Vicentino_VI_F696
+Montottone_FM_F697
+Montresta_OR_F698
+Mont� Beccaria_PV_F701
+Monvalle_VA_F703
+Monza_MB_F704
+Monzambano_MN_F705
+Monzuno_BO_F706
+Morano Calabro_CS_F708
+Morano sul Po_AL_F707
+Moransengo_AT_F709
+Moraro_GO_F710
+Morazzone_VA_F711
+Morbegno_SO_F712
+Morbello_AL_F713
+Morciano di Leuca_LE_F716
+Morciano di Romagna_RN_F715
+Morcone_BN_F717
+Mordano_BO_F718
+Morengo_BG_F720
+Mores_SS_F721
+Moresco_FM_F722
+Moretta_CN_F723
+Morfasso_PC_F724
+Morgano_TV_F725
+Morgex_AO_F726
+Morgongiori_OR_F727
+Mori_TN_F728
+Moriago della Battaglia_TV_F729
+Moricone_RM_F730
+Morigerati_SA_F731
+Morimondo_MI_D033
+Morino_AQ_F732
+Moriondo Torinese_TO_F733
+Morlupo_RM_F734
+Mormanno_CS_F735
+Mornago_VA_F736
+Mornese_AL_F737
+Mornico al Serio_BG_F738
+Mornico Losana_PV_F739
+Morolo_FR_F740
+Morozzo_CN_F743
+Morra De Sanctis_AV_F744
+Morro d'Alba_AN_F745
+Morro d'Oro_TE_F747
+Morro Reatino_RI_F746
+Morrone del Sannio_CB_F748
+Morrovalle_MC_F749
+Morsano al Tagliamento_PN_F750
+Morsasco_AL_F751
+Mortara_PV_F754
+Mortegliano_UD_F756
+Morterone_LC_F758
+Moruzzo_UD_F760
+Moscazzano_CR_F761
+Moschiano_AV_F762
+Mosciano Sant'Angelo_TE_F764
+Moscufo_PE_F765
+Moso in Passiria_BZ_F766
+Mossa_GO_F767
+Mossano_VI_F768
+Mosso_BI_M304
+Motta Baluffi_CR_F771
+Motta Camastra_ME_F772
+Motta d'Affermo_ME_F773
+Motta de' Conti_VC_F774
+Motta di Livenza_TV_F770
+Motta Montecorvino_FG_F777
+Motta San Giovanni_RC_F779
+Motta Santa Lucia_CZ_F780
+Motta Sant'Anastasia_CT_F781
+Motta Visconti_MI_F783
+Mottafollone_CS_F775
+Mottalciata_BI_F776
+Motteggiana_MN_B012
+Mottola_TA_F784
+Mozzagrogna_CH_F785
+Mozzanica_BG_F786
+Mozzate_CO_F788
+Mozzecane_VR_F789
+Mozzo_BG_F791
+Muccia_MC_F793
+Muggia_TS_F795
+Muggi�_MB_F797
+Mugnano del Cardinale_AV_F798
+Mugnano di Napoli_NA_F799
+Mulazzano_LO_F801
+Mulazzo_MS_F802
+Mura_BS_F806
+Muravera_CA_F808
+Murazzano_CN_F809
+Murello_CN_F811
+Murialdo_SV_F813
+Murisengo_AL_F814
+Murlo_SI_F815
+Muro Leccese_LE_F816
+Muro Lucano_PZ_F817
+Muros_SS_F818
+Muscoline_BS_F820
+Musei_CI_F822
+Musile di Piave_VE_F826
+Musso_CO_F828
+Mussolente_VI_F829
+Mussomeli_CL_F830
+Muzzana del Turgnano_UD_F832
+Muzzano_BI_F833
+Nago-Torbole_TN_F835
+Nalles_BZ_F836
+Nanno_TN_F837
+Nanto_VI_F838
+Napoli_NA_F839
+Narbolia_OR_F840
+Narcao_CI_F841
+Nard�_LE_F842
+Nardodipace_VV_F843
+Narni_TR_F844
+Naro_AG_F845
+Narzole_CN_F846
+Nasino_SV_F847
+Naso_ME_F848
+Naturno_BZ_F849
+Nave_BS_F851
+Nave San Rocco_TN_F853
+Navelli_AQ_F852
+Naz-Sciaves_BZ_F856
+Nazzano_RM_F857
+Ne_GE_F858
+Nebbiuno_NO_F859
+Negrar_VR_F861
+Neirone_GE_F862
+Neive_CN_F863
+Nembro_BG_F864
+Nemi_RM_F865
+Nemoli_PZ_F866
+Neoneli_OR_F867
+Nepi_VT_F868
+Nereto_TE_F870
+Nerola_RM_F871
+Nervesa della Battaglia_TV_F872
+Nerviano_MI_F874
+Nespolo_RI_F876
+Nesso_CO_F877
+Netro_BI_F878
+Nettuno_RM_F880
+Neviano_LE_F881
+Neviano degli Arduini_PR_F882
+Neviglie_CN_F883
+Niardo_BS_F884
+Nibbiano_PC_F885
+Nibbiola_NO_F886
+Nibionno_LC_F887
+Nichelino_TO_F889
+Nicolosi_CT_F890
+Nicorvo_PV_F891
+Nicosia_EN_F892
+Nicotera_VV_F893
+Niella Belbo_CN_F894
+Niella Tanaro_CN_F895
+Nimis_UD_F898
+Niscemi_CL_F899
+Nissoria_EN_F900
+Nizza di Sicilia_ME_F901
+Nizza Monferrato_AT_F902
+Noale_VE_F904
+Noasca_TO_F906
+Nocara_CS_F907
+Nocciano_PE_F908
+Nocera Inferiore_SA_F912
+Nocera Superiore_SA_F913
+Nocera Terinese_CZ_F910
+Nocera Umbra_PG_F911
+Noceto_PR_F914
+Noci_BA_F915
+Nociglia_LE_F916
+Noepoli_PZ_F917
+Nogara_VR_F918
+Nogaredo_TN_F920
+Nogarole Rocca_VR_F921
+Nogarole Vicentino_VI_F922
+Noic�ttaro_BA_F923
+Nola_NA_F924
+Nole_TO_F925
+Noli_SV_F926
+Nomaglio_TO_F927
+Nomi_TN_F929
+Nonantola_MO_F930
+None_TO_F931
+Nonio_VB_F932
+Noragugume_NU_F933
+Norbello_OR_F934
+Norcia_PG_F935
+Norma_LT_F937
+Nosate_MI_F939
+Notaresco_TE_F942
+Noto_SR_F943
+Nova Levante_BZ_F949
+Nova Milanese_MB_F944
+Nova Ponente_BZ_F950
+Nova Siri_MT_A942
+Novafeltria_RN_F137
+Novaledo_TN_F947
+Novalesa_TO_F948
+Novara_NO_F952
+Novara di Sicilia_ME_F951
+Novate Mezzola_SO_F956
+Novate Milanese_MI_F955
+Nove_VI_F957
+Novedrate_CO_F958
+Novellara_RE_F960
+Novello_CN_F961
+Noventa di Piave_VE_F963
+Noventa Padovana_PD_F962
+Noventa Vicentina_VI_F964
+Novi di Modena_MO_F966
+Novi Ligure_AL_F965
+Novi Velia_SA_F967
+Noviglio_MI_F968
+Novoli_LE_F970
+Nucetto_CN_F972
+Nughedu San Nicol�_SS_F975
+Nughedu Santa Vittoria_OR_F974
+Nule_SS_F976
+Nulvi_SS_F977
+Numana_AN_F978
+Nuoro_NU_F979
+Nurachi_OR_F980
+Nuragus_CA_F981
+Nurallao_CA_F982
+Nuraminis_CA_F983
+Nureci_OR_F985
+Nurri_CA_F986
+Nus_AO_F987
+Nusco_AV_F988
+Nuvolento_BS_F989
+Nuvolera_BS_F990
+Nuxis_CI_F991
+Occhieppo Inferiore_BI_F992
+Occhieppo Superiore_BI_F993
+Occhiobello_RO_F994
+Occimiano_AL_F995
+Ocre_AQ_F996
+Odalengo Grande_AL_F997
+Odalengo Piccolo_AL_F998
+Oderzo_TV_F999
+Odolo_BS_G001
+Ofena_AQ_G002
+Offagna_AN_G003
+Offanengo_CR_G004
+Offida_AP_G005
+Offlaga_BS_G006
+Oggebbio_VB_G007
+Oggiona con Santo Stefano_VA_G008
+Oggiono_LC_G009
+Oglianico_TO_G010
+Ogliastro Cilento_SA_G011
+Olbia_OT_G015
+Olcenengo_VC_G016
+Oldenico_VC_G018
+Oleggio_NO_G019
+Oleggio Castello_NO_G020
+Olevano di Lomellina_PV_G021
+Olevano Romano_RM_G022
+Olevano sul Tusciano_SA_G023
+Olgiate Comasco_CO_G025
+Olgiate Molgora_LC_G026
+Olgiate Olona_VA_G028
+Olginate_LC_G030
+Oliena_NU_G031
+Oliva Gessi_PV_G032
+Olivadi_CZ_G034
+Oliveri_ME_G036
+Oliveto Citra_SA_G039
+Oliveto Lario_LC_G040
+Oliveto Lucano_MT_G037
+Olivetta San Michele_IM_G041
+Olivola_AL_G042
+Ollastra_OR_G043
+Ollolai_NU_G044
+Ollomont_AO_G045
+Olmedo_SS_G046
+Olmeneta_CR_G047
+Olmo al Brembo_BG_G049
+Olmo Gentile_AT_G048
+Oltre il Colle_BG_G050
+Oltressenda Alta_BG_G054
+Oltrona di San Mamette_CO_G056
+Olzai_NU_G058
+Ome_BS_G061
+Omegna_VB_G062
+Omignano_SA_G063
+Onan�_NU_G064
+Onano_VT_G065
+Oncino_CN_G066
+Oneta_BG_G068
+Onifai_NU_G070
+Oniferi_NU_G071
+Ono San Pietro_BS_G074
+Onore_BG_G075
+Onzo_SV_G076
+Opera_MI_G078
+Opi_AQ_G079
+Oppeano_VR_G080
+Oppido Lucano_PZ_G081
+Oppido Mamertina_RC_G082
+Ora_BZ_G083
+Orani_NU_G084
+Oratino_CB_G086
+Orbassano_TO_G087
+Orbetello_GR_G088
+Orciano di Pesaro_PU_G089
+Orciano Pisano_PI_G090
+Orco Feglino_SV_D522
+Ordona_FG_M266
+Orero_GE_G093
+Orgiano_VI_G095
+Orgosolo_NU_G097
+Oria_BR_G098
+Oricola_AQ_G102
+Origgio_VA_G103
+Orino_VA_G105
+Orio al Serio_BG_G108
+Orio Canavese_TO_G109
+Orio Litta_LO_G107
+Oriolo_CS_G110
+Oriolo Romano_VT_G111
+Oristano_OR_G113
+Ormea_CN_G114
+Ormelle_TV_G115
+Ornago_MB_G116
+Ornavasso_VB_G117
+Ornica_BG_G118
+Orosei_NU_G119
+Orotelli_NU_G120
+Orria_SA_G121
+Orroli_CA_G122
+Orsago_TV_G123
+Orsara Bormida_AL_G124
+Orsara di Puglia_FG_G125
+Orsenigo_CO_G126
+Orsogna_CH_G128
+Orsomarso_CS_G129
+Orta di Atella_CE_G130
+Orta Nova_FG_G131
+Orta San Giulio_NO_G134
+Ortacesus_CA_G133
+Orte_VT_G135
+Ortelle_LE_G136
+Ortezzano_FM_G137
+Ortignano Raggiolo_AR_G139
+Ortisei_BZ_G140
+Ortona_CH_G141
+Ortona dei Marsi_AQ_G142
+Ortonovo_SP_G143
+Ortovero_SV_G144
+Ortucchio_AQ_G145
+Ortueri_NU_G146
+Orune_NU_G147
+Orvieto_TR_G148
+Orvinio_RI_B595
+Orzinuovi_BS_G149
+Orzivecchi_BS_G150
+Osasco_TO_G151
+Osasio_TO_G152
+Oschiri_OT_G153
+Osidda_NU_G154
+Osiglia_SV_G155
+Osilo_SS_G156
+Osimo_AN_G157
+Osini_OG_G158
+Osio Sopra_BG_G159
+Osio Sotto_BG_G160
+Osmate_VA_E529
+Osnago_LC_G161
+Osoppo_UD_G163
+Ospedaletti_IM_G164
+Ospedaletto_TN_G168
+Ospedaletto d'Alpinolo_AV_G165
+Ospedaletto Euganeo_PD_G167
+Ospedaletto Lodigiano_LO_G166
+Ospitale di Cadore_BL_G169
+Ospitaletto_BS_G170
+Ossago Lodigiano_LO_G171
+Ossana_TN_G173
+Ossi_SS_G178
+Ossimo_BS_G179
+Ossona_MI_G181
+Ossuccio_CO_G182
+Ostana_CN_G183
+Ostellato_FE_G184
+Ostiano_CR_G185
+Ostiglia_MN_G186
+Ostra_AN_F401
+Ostra Vetere_AN_F581
+Ostuni_BR_G187
+Otranto_LE_G188
+Otricoli_TR_G189
+Ottana_NU_G191
+Ottati_SA_G192
+Ottaviano_NA_G190
+Ottiglio_AL_G193
+Ottobiano_PV_G194
+Ottone_PC_G195
+Oulx_TO_G196
+Ovada_AL_G197
+Ovaro_UD_G198
+Oviglio_AL_G199
+Ovindoli_AQ_G200
+Ovodda_NU_G201
+Oyace_AO_G012
+Ozegna_TO_G202
+Ozieri_SS_G203
+Ozzano dell'Emilia_BO_G205
+Ozzano Monferrato_AL_G204
+Ozzero_MI_G206
+Pabillonis_VS_G207
+Pace del Mela_ME_G209
+Paceco_TP_G208
+Pacentro_AQ_G210
+Pachino_SR_G211
+Paciano_PG_G212
+Padenghe sul Garda_BS_G213
+Padergnone_TN_G214
+Paderna_AL_G215
+Paderno d'Adda_LC_G218
+Paderno del Grappa_TV_G221
+Paderno Dugnano_MI_G220
+Paderno Franciacorta_BS_G217
+Paderno Ponchielli_CR_G222
+Padova_PD_G224
+Padria_SS_G225
+Padru_OT_M301
+Padula_SA_G226
+Paduli_BN_G227
+Paesana_CN_G228
+Paese_TV_G229
+Pagani_SA_G230
+Paganico Sabino_RI_G232
+Pagazzano_BG_G233
+Pagliara_ME_G234
+Paglieta_CH_G237
+Pagnacco_UD_G238
+Pagno_CN_G240
+Pagnona_LC_G241
+Pago del Vallo di Lauro_AV_G242
+Pago Veiano_BN_G243
+Paisco Loveno_BS_G247
+Paitone_BS_G248
+Paladina_BG_G249
+Palagano_MO_G250
+Palagianello_TA_G251
+Palagiano_TA_G252
+Palagonia_CT_G253
+Palaia_PI_G254
+Palanzano_PR_G255
+Palata_CB_G257
+Palau_OT_G258
+Palazzago_BG_G259
+Palazzo Adriano_PA_G263
+Palazzo Canavese_TO_G262
+Palazzo Pignano_CR_G260
+Palazzo San Gervasio_PZ_G261
+Palazzolo Acreide_SR_G267
+Palazzolo dello Stella_UD_G268
+Palazzolo sull'Oglio_BS_G264
+Palazzolo Vercellese_VC_G266
+Palazzuolo sul Senio_FI_G270
+Palena_CH_G271
+Palermiti_CZ_G272
+Palermo_PA_G273
+Palestrina_RM_G274
+Palestro_PV_G275
+Paliano_FR_G276
+Palizzi_RC_G277
+Pallagorio_KR_G278
+Pallanzeno_VB_G280
+Pallare_SV_G281
+Palma Campania_NA_G283
+Palma di Montechiaro_AG_G282
+Palmanova_UD_G284
+Palmariggi_LE_G285
+Palmas Arborea_OR_G286
+Palmi_RC_G288
+Palmiano_AP_G289
+Palmoli_CH_G290
+Palo del Colle_BA_G291
+Palombara Sabina_RM_G293
+Palombaro_CH_G294
+Palomonte_SA_G292
+Palosco_BG_G295
+Pal�_VR_G297
+Pal� del Fersina_TN_G296
+Paludi_CS_G298
+Paluzza_UD_G300
+Pamparato_CN_G302
+Pancalieri_TO_G303
+Pancarana_PV_G304
+Panchi�_TN_G305
+Pandino_CR_G306
+Panettieri_CS_G307
+Panicale_PG_G308
+Pannarano_BN_G311
+Panni_FG_G312
+Pantelleria_TP_G315
+Pantigliate_MI_G316
+Paola_CS_G317
+Paolisi_BN_G318
+Papasidero_CS_G320
+Papozze_RO_G323
+Parabiago_MI_G324
+Parabita_LE_G325
+Paratico_BS_G327
+Parcines_BZ_G328
+Par�_CO_G329
+Parella_TO_G330
+Parenti_CS_G331
+Parete_CE_G333
+Pareto_AL_G334
+Parghelia_VV_G335
+Parlasco_LC_G336
+Parma_PR_G337
+Parodi Ligure_AL_G338
+Paroldo_CN_G339
+Parolise_AV_G340
+Parona_PV_G342
+Parrano_TR_G344
+Parre_BG_G346
+Partanna_TP_G347
+Partinico_PA_G348
+Paruzzaro_NO_G349
+Parzanica_BG_G350
+Pasian di Prato_UD_G352
+Pasiano di Pordenone_PN_G353
+Paspardo_BS_G354
+Passerano Marmorito_AT_G358
+Passignano sul Trasimeno_PG_G359
+Passirano_BS_G361
+Pastena_FR_G362
+Pastorano_CE_G364
+Pastrengo_VR_G365
+Pasturana_AL_G367
+Pasturo_LC_G368
+Paterno_PZ_M269
+Patern�_CT_G371
+Paterno Calabro_CS_G372
+Paternopoli_AV_G370
+Patrica_FR_G374
+Pattada_SS_G376
+Patti_ME_G377
+Pat�_LE_G378
+Pau_OR_G379
+Paularo_UD_G381
+Pauli Arbarei_VS_G382
+Paulilatino_OR_G384
+Paullo_MI_G385
+Paupisi_BN_G386
+Pavarolo_TO_G387
+Pavia_PV_G388
+Pavia di Udine_UD_G389
+Pavone Canavese_TO_G392
+Pavone del Mella_BS_G391
+Pavullo nel Frignano_MO_G393
+Pazzano_RC_G394
+Peccioli_PI_G395
+Pecco_TO_G396
+Pecetto di Valenza_AL_G397
+Pecetto Torinese_TO_G398
+Pecorara_PC_G399
+Pedace_CS_G400
+Pedara_CT_G402
+Pedaso_FM_G403
+Pedavena_BL_G404
+Pedemonte_VI_G406
+Pederobba_TV_G408
+Pedesina_SO_G410
+Pedivigliano_CS_G411
+Pedrengo_BG_G412
+Peglio_CO_G415
+Peglio_PU_G416
+Pegognaga_MN_G417
+Peia_BG_G418
+Peio_TN_G419
+Pelago_FI_G420
+Pella_NO_G421
+Pellegrino Parmense_PR_G424
+Pellezzano_SA_G426
+Pellio Intelvi_CO_G427
+Pellizzano_TN_G428
+Pelugo_TN_G429
+Penango_AT_G430
+Penna in Teverina_TR_G432
+Penna San Giovanni_MC_G436
+Penna Sant'Andrea_TE_G437
+Pennabilli_RN_G433
+Pennadomo_CH_G434
+Pennapiedimonte_CH_G435
+Penne_PE_G438
+Pentone_CZ_G439
+Perano_CH_G441
+Perarolo di Cadore_BL_G442
+Perca_BZ_G443
+Percile_RM_G444
+Perdasdefogu_OG_G445
+Perdaxius_CI_G446
+Perdifumo_SA_G447
+Perego_LC_G448
+Pereto_AQ_G449
+Perfugas_SS_G450
+Pergine Valdarno_AR_G451
+Pergine Valsugana_TN_G452
+Pergola_PU_G453
+Perinaldo_IM_G454
+Perito_SA_G455
+Perledo_LC_G456
+Perletto_CN_G457
+Perlo_CN_G458
+Perloz_AO_G459
+Pernumia_PD_G461
+Pero_MI_C013
+Perosa Argentina_TO_G463
+Perosa Canavese_TO_G462
+Perrero_TO_G465
+Persico Dosimo_CR_G469
+Pertengo_VC_G471
+Pertica Alta_BS_G474
+Pertica Bassa_BS_G475
+Pertosa_SA_G476
+Pertusio_TO_G477
+Perugia_PG_G478
+Pesaro_PU_G479
+Pescaglia_LU_G480
+Pescantina_VR_G481
+Pescara_PE_G482
+Pescarolo ed Uniti_CR_G483
+Pescasseroli_AQ_G484
+Pescate_LC_G485
+Pesche_IS_G486
+Peschici_FG_G487
+Peschiera Borromeo_MI_G488
+Peschiera del Garda_VR_G489
+Pescia_PT_G491
+Pescina_AQ_G492
+Pesco Sannita_BN_G494
+Pescocostanzo_AQ_G493
+Pescolanciano_IS_G495
+Pescopagano_PZ_G496
+Pescopennataro_IS_G497
+Pescorocchiano_RI_G498
+Pescosansonesco_PE_G499
+Pescosolido_FR_G500
+Pessano con Bornago_MI_G502
+Pessina Cremonese_CR_G504
+Pessinetto_TO_G505
+Petacciato_CB_G506
+Petilia Policastro_KR_G508
+Petina_SA_G509
+Petralia Soprana_PA_G510
+Petralia Sottana_PA_G511
+Petrella Salto_RI_G513
+Petrella Tifernina_CB_G512
+Petriano_PU_G514
+Petriolo_MC_G515
+Petritoli_FM_G516
+Petrizzi_CZ_G517
+Petron�_CZ_G518
+Petrosino_TP_M281
+Petruro Irpino_AV_G519
+Pettenasco_NO_G520
+Pettinengo_BI_G521
+Pettineo_ME_G522
+Pettoranello del Molise_IS_G523
+Pettorano sul Gizio_AQ_G524
+Pettorazza Grimani_RO_G525
+Peveragno_CN_G526
+Pezzana_VC_G528
+Pezzaze_BS_G529
+Pezzolo Valle Uzzone_CN_G532
+Piacenza_PC_G535
+Piacenza d'Adige_PD_G534
+Piadena_CR_G536
+Piagge_PU_G537
+Piaggine_SA_G538
+Pian Camuno_BS_G546
+Pian di Sco_AR_G552
+Piana Crixia_SV_G542
+Piana degli Albanesi_PA_G543
+Piana di Monte Verna_CE_G541
+Piancastagnaio_SI_G547
+Piancogno_BS_G549
+Piandimeleto_PU_G551
+Piane Crati_CS_G553
+Pianella_PE_G555
+Pianello del Lario_CO_G556
+Pianello Val Tidone_PC_G557
+Pianengo_CR_G558
+Pianezza_TO_G559
+Pianezze_VI_G560
+Pianfei_CN_G561
+Pianico_BG_G564
+Pianiga_VE_G565
+Piano di Sorrento_NA_G568
+Pianopoli_CZ_D546
+Pianoro_BO_G570
+Piansano_VT_G571
+Piantedo_SO_G572
+Piario_BG_G574
+Piasco_CN_G575
+Piateda_SO_G576
+Piatto_BI_G577
+Piazza al Serchio_LU_G582
+Piazza Armerina_EN_G580
+Piazza Brembana_BG_G579
+Piazzatorre_BG_G583
+Piazzola sul Brenta_PD_G587
+Piazzolo_BG_G588
+Picciano_PE_G589
+Picerno_PZ_G590
+Picinisco_FR_G591
+Pico_FR_G592
+Piea_AT_G593
+Piedicavallo_BI_G594
+Piedimonte Etneo_CT_G597
+Piedimonte Matese_CE_G596
+Piedimonte San Germano_FR_G598
+Piedimulera_VB_G600
+Piegaro_PG_G601
+Pienza_SI_G602
+Pieranica_CR_G603
+Pietra de' Giorgi_PV_G612
+Pietra Ligure_SV_G605
+Pietra Marazzi_AL_G619
+Pietrabbondante_IS_G606
+Pietrabruna_IM_G607
+Pietracamela_TE_G608
+Pietracatella_CB_G609
+Pietracupa_CB_G610
+Pietradefusi_AV_G611
+Pietraferrazzana_CH_G613
+Pietrafitta_CS_G615
+Pietragalla_PZ_G616
+Pietralunga_PG_G618
+Pietramelara_CE_G620
+Pietramontecorvino_FG_G604
+Pietranico_PE_G621
+Pietrapaola_CS_G622
+Pietrapertosa_PZ_G623
+Pietraperzia_EN_G624
+Pietraporzio_CN_G625
+Pietraroja_BN_G626
+Pietrarubbia_PU_G627
+Pietrasanta_LU_G628
+Pietrastornina_AV_G629
+Pietravairano_CE_G630
+Pietrelcina_BN_G631
+Pieve a Nievole_PT_G636
+Pieve Albignola_PV_G635
+Pieve d'Alpago_BL_G638
+Pieve del Cairo_PV_G639
+Pieve di Bono_TN_G641
+Pieve di Cadore_BL_G642
+Pieve di Cento_BO_G643
+Pieve di Coriano_MN_G633
+Pieve di Soligo_TV_G645
+Pieve di Teco_IM_G632
+Pieve d'Olmi_CR_G647
+Pieve Emanuele_MI_G634
+Pieve Fissiraga_LO_G096
+Pieve Fosciana_LU_G648
+Pieve Ligure_GE_G646
+Pieve Porto Morone_PV_G650
+Pieve San Giacomo_CR_G651
+Pieve Santo Stefano_AR_G653
+Pieve Tesino_TN_G656
+Pieve Torina_MC_G657
+Pieve Vergonte_VB_G658
+Pievebovigliana_MC_G637
+Pievepelago_MO_G649
+Piglio_FR_G659
+Pigna_IM_G660
+Pignataro Interamna_FR_G662
+Pignataro Maggiore_CE_G661
+Pignola_PZ_G663
+Pignone_SP_G664
+Pigra_CO_G665
+Pila_VC_G666
+Pimentel_CA_G669
+Pimonte_NA_G670
+Pinarolo Po_PV_G671
+Pinasca_TO_G672
+Pincara_RO_G673
+Pinerolo_TO_G674
+Pineto_TE_F831
+Pino d'Asti_AT_G676
+Pino sulla Sponda del Lago Maggiore_VA_G677
+Pino Torinese_TO_G678
+Pinzano al Tagliamento_PN_G680
+Pinzolo_TN_G681
+Piobbico_PU_G682
+Piobesi d'Alba_CN_G683
+Piobesi Torinese_TO_G684
+Piode_VC_G685
+Pioltello_MI_G686
+Piombino_LI_G687
+Piombino Dese_PD_G688
+Pioraco_MC_G690
+Piossasco_TO_G691
+Piov� Massaia_AT_G692
+Piove di Sacco_PD_G693
+Piovene Rocchette_VI_G694
+Piovera_AL_G695
+Piozzano_PC_G696
+Piozzo_CN_G697
+Piraino_ME_G699
+Pisa_PI_G702
+Pisano_NO_G703
+Piscina_TO_G705
+Piscinas_CI_M291
+Pisciotta_SA_G707
+Pisogne_BS_G710
+Pisoniano_RM_G704
+Pisticci_MT_G712
+Pistoia_PT_G713
+Piteglio_PT_G715
+Pitigliano_GR_G716
+Piubega_MN_G717
+Piuro_SO_G718
+Piverone_TO_G719
+Pizzale_PV_G720
+Pizzighettone_CR_G721
+Pizzo_VV_G722
+Pizzoferrato_CH_G724
+Pizzoli_AQ_G726
+Pizzone_IS_G727
+Pizzoni_VV_G728
+Placanica_RC_G729
+Plataci_CS_G733
+Platania_CZ_G734
+Plat�_RC_G735
+Plaus_BZ_G299
+Plesio_CO_G737
+Ploaghe_SS_G740
+Plodio_SV_G741
+Pocapaglia_CN_G742
+Pocenia_UD_G743
+Podenzana_MS_G746
+Podenzano_PC_G747
+Pofi_FR_G749
+Poggiardo_LE_G751
+Poggibonsi_SI_G752
+Poggio a Caiano_PO_G754
+Poggio Berni_RN_G755
+Poggio Bustone_RI_G756
+Poggio Catino_RI_G757
+Poggio Imperiale_FG_G761
+Poggio Mirteto_RI_G763
+Poggio Moiano_RI_G764
+Poggio Nativo_RI_G765
+Poggio Picenze_AQ_G766
+Poggio Renatico_FE_G768
+Poggio Rusco_MN_G753
+Poggio San Lorenzo_RI_G770
+Poggio San Marcello_AN_G771
+Poggio San Vicino_MC_D566
+Poggio Sannita_IS_B317
+Poggiodomo_PG_G758
+Poggiofiorito_CH_G760
+Poggiomarino_NA_G762
+Poggioreale_TP_G767
+Poggiorsini_BA_G769
+Poggiridenti_SO_G431
+Pogliano Milanese_MI_G772
+Pognana Lario_CO_G773
+Pognano_BG_G774
+Pogno_NO_G775
+Poirino_TO_G777
+Pojana Maggiore_VI_G776
+Polaveno_BS_G779
+Polcenigo_PN_G780
+Polesella_RO_G782
+Polesine Parmense_PR_G783
+Poli_RM_G784
+Polia_VV_G785
+Policoro_MT_G786
+Polignano a Mare_BA_G787
+Polinago_MO_G789
+Polino_TR_G790
+Polistena_RC_G791
+Polizzi Generosa_PA_G792
+Polla_SA_G793
+Pollein_AO_G794
+Pollena Trocchia_NA_G795
+Pollenza_MC_F567
+Pollica_SA_G796
+Pollina_PA_G797
+Pollone_BI_G798
+Pollutri_CH_G799
+Polonghera_CN_G800
+Polpenazze del Garda_BS_G801
+Polverara_PD_G802
+Polverigi_AN_G803
+Pomarance_PI_G804
+Pomaretto_TO_G805
+Pomarico_MT_G806
+Pomaro Monferrato_AL_G807
+Pomarolo_TN_G808
+Pombia_NO_G809
+Pomezia_RM_G811
+Pomigliano d'Arco_NA_G812
+Pompei_NA_G813
+Pompeiana_IM_G814
+Pompiano_BS_G815
+Pomponesco_MN_G816
+Pompu_OR_G817
+Poncarale_BS_G818
+Ponderano_BI_G820
+Ponna_CO_G821
+Ponsacco_PI_G822
+Ponso_PD_G823
+Pontassieve_FI_G825
+Pontboset_AO_G545
+Pont-Canavese_TO_G826
+Ponte_BN_G827
+Ponte Buggianese_PT_G833
+Ponte dell'Olio_PC_G842
+Ponte di Legno_BS_G844
+Ponte di Piave_TV_G846
+Ponte Gardena_BZ_G830
+Ponte in Valtellina_SO_G829
+Ponte Lambro_CO_G847
+Ponte nelle Alpi_BL_B662
+Ponte Nizza_PV_G851
+Ponte Nossa_BG_F941
+Ponte San Nicol�_PD_G855
+Ponte San Pietro_BG_G856
+Pontebba_UD_G831
+Pontecagnano Faiano_SA_G834
+Pontecchio Polesine_RO_G836
+Pontechianale_CN_G837
+Pontecorvo_FR_G838
+Pontecurone_AL_G839
+Pontedassio_IM_G840
+Pontedera_PI_G843
+Pontelandolfo_BN_G848
+Pontelatone_CE_G849
+Pontelongo_PD_G850
+Pontenure_PC_G852
+Ponteranica_BG_G853
+Pontestura_AL_G858
+Pontevico_BS_G859
+Pontey_AO_G860
+Ponti_AL_G861
+Ponti sul Mincio_MN_G862
+Pontida_BG_G864
+Pontinia_LT_G865
+Pontinvrea_SV_G866
+Pontirolo Nuovo_BG_G867
+Pontoglio_BS_G869
+Pontremoli_MS_G870
+Pont-Saint-Martin_AO_G854
+Ponza_LT_G871
+Ponzano di Fermo_FM_G873
+Ponzano Monferrato_AL_G872
+Ponzano Romano_RM_G874
+Ponzano Veneto_TV_G875
+Ponzone_AL_G877
+Popoli_PE_G878
+Poppi_AR_G879
+Porano_TR_G881
+Porcari_LU_G882
+Porcia_PN_G886
+Pordenone_PN_G888
+Porlezza_CO_G889
+Pornassio_IM_G890
+Porpetto_UD_G891
+Porretta Terme_BO_A558
+Portacomaro_AT_G894
+Portalbera_PV_G895
+Porte_TO_G900
+Portici_NA_G902
+Portico di Caserta_CE_G903
+Portico e San Benedetto_FC_G904
+Portigliola_RC_G905
+Porto Azzurro_LI_E680
+Porto Ceresio_VA_G906
+Porto Cesareo_LE_M263
+Porto Empedocle_AG_F299
+Porto Mantovano_MN_G917
+Porto Recanati_MC_G919
+Porto San Giorgio_FM_G920
+Porto Sant'Elpidio_FM_G921
+Porto Tolle_RO_G923
+Porto Torres_SS_G924
+Porto Valtravaglia_VA_G907
+Porto Viro_RO_G926
+Portobuffol�_TV_G909
+Portocannone_CB_G910
+Portoferraio_LI_G912
+Portofino_GE_G913
+Portogruaro_VE_G914
+Portomaggiore_FE_G916
+Portopalo di Capo Passero_SR_M257
+Portoscuso_CI_G922
+Portovenere_SP_G925
+Portula_BI_G927
+Posada_NU_G929
+Posina_VI_G931
+Positano_SA_G932
+Possagno_TV_G933
+Posta_RI_G934
+Posta Fibreno_FR_G935
+Postal_BZ_G936
+Postalesio_SO_G937
+Postiglione_SA_G939
+Postua_VC_G940
+Potenza_PZ_G942
+Potenza Picena_MC_F632
+Pove del Grappa_VI_G943
+Povegliano_TV_G944
+Povegliano Veronese_VR_G945
+Poviglio_RE_G947
+Povoletto_UD_G949
+Pozza di Fassa_TN_G950
+Pozzaglia Sabina_RI_G951
+Pozzaglio ed Uniti_CR_B914
+Pozzallo_RG_G953
+Pozzilli_IS_G954
+Pozzo d'Adda_MI_G955
+Pozzol Groppo_AL_G960
+Pozzolengo_BS_G959
+Pozzoleone_VI_G957
+Pozzolo Formigaro_AL_G961
+Pozzomaggiore_SS_G962
+Pozzonovo_PD_G963
+Pozzuoli_NA_G964
+Pozzuolo del Friuli_UD_G966
+Pozzuolo Martesana_MI_G965
+Pradalunga_BG_G968
+Pradamano_UD_G969
+Pradleves_CN_G970
+Pragelato_TO_G973
+Praia a Mare_CS_G975
+Praiano_SA_G976
+Pralboino_BS_G977
+Prali_TO_G978
+Pralormo_TO_G979
+Pralungo_BI_G980
+Pramaggiore_VE_G981
+Pramollo_TO_G982
+Prarolo_VC_G985
+Prarostino_TO_G986
+Prasco_AL_G987
+Prascorsano_TO_G988
+Praso_TN_G989
+Prata Camportaccio_SO_G993
+Prata d'Ansidonia_AQ_G992
+Prata di Pordenone_PN_G994
+Prata di Principato Ultra_AV_G990
+Prata Sannita_CE_G991
+Pratella_CE_G995
+Pratiglione_TO_G997
+Prato_PO_G999
+Prato allo Stelvio_BZ_H004
+Prato Carnico_UD_H002
+Prato Sesia_NO_H001
+Pratola Peligna_AQ_H007
+Pratola Serra_AV_H006
+Pratovecchio_AR_H008
+Pravisdomini_PN_H010
+Pray_BI_G974
+Prazzo_CN_H011
+Precenicco_UD_H014
+Preci_PG_H015
+Predappio_FC_H017
+Predazzo_TN_H018
+Predoi_BZ_H019
+Predore_BG_H020
+Predosa_AL_H021
+Preganziol_TV_H022
+Pregnana Milanese_MI_H026
+Prel�_IM_H027
+Premana_LC_H028
+Premariacco_UD_H029
+Premeno_VB_H030
+Premia_VB_H033
+Premilcuore_FC_H034
+Premolo_BG_H036
+Premosello-Chiovenda_VB_H037
+Preone_UD_H038
+Preore_TN_H039
+Prepotto_UD_H040
+Pr�-Saint-Didier_AO_H042
+Preseglie_BS_H043
+Presenzano_CE_H045
+Presezzo_BG_H046
+Presicce_LE_H047
+Pressana_VR_H048
+Prestine_BS_H050
+Pretoro_CH_H052
+Prevalle_BS_H055
+Prezza_AQ_H056
+Prezzo_TN_H057
+Priero_CN_H059
+Prignano Cilento_SA_H062
+Prignano sulla Secchia_MO_H061
+Primaluna_LC_H063
+Priocca_CN_H068
+Priola_CN_H069
+Priolo Gargallo_SR_M279
+Priverno_LT_G698
+Prizzi_PA_H070
+Proceno_VT_H071
+Procida_NA_H072
+Propata_GE_H073
+Proserpio_CO_H074
+Prossedi_LT_H076
+Provaglio d'Iseo_BS_H078
+Provaglio Val Sabbia_BS_H077
+Proves_BZ_H081
+Provvidenti_CB_H083
+Prunetto_CN_H085
+Puegnago sul Garda_BS_H086
+Puglianello_BN_H087
+Pula_CA_H088
+Pulfero_UD_H089
+Pulsano_TA_H090
+Pumenengo_BG_H091
+Puos d'Alpago_BL_H092
+Pusiano_CO_H094
+Putifigari_SS_H095
+Putignano_BA_H096
+Quadrelle_AV_H097
+Quadri_CH_H098
+Quagliuzzo_TO_H100
+Qualiano_NA_H101
+Quaranti_AT_H102
+Quaregna_BI_H103
+Quargnento_AL_H104
+Quarna Sopra_VB_H106
+Quarna Sotto_VB_H107
+Quarona_VC_H108
+Quarrata_PT_H109
+Quart_AO_H110
+Quarto_NA_H114
+Quarto d'Altino_VE_H117
+Quartu Sant'Elena_CA_H118
+Quartucciu_CA_H119
+Quassolo_TO_H120
+Quattordio_AL_H121
+Quattro Castella_RE_H122
+Quero_BL_H124
+Quiliano_SV_H126
+Quincinetto_TO_H127
+Quindici_AV_H128
+Quingentole_MN_H129
+Quintano_CR_H130
+Quinto di Treviso_TV_H131
+Quinto Vercellese_VC_H132
+Quinto Vicentino_VI_H134
+Quinzano d'Oglio_BS_H140
+Quistello_MN_H143
+Quittengo_BI_H145
+Rabbi_TN_H146
+Racale_LE_H147
+Racalmuto_AG_H148
+Racconigi_CN_H150
+Raccuja_ME_H151
+Racines_BZ_H152
+Radda in Chianti_SI_H153
+Raddusa_CT_H154
+Radicofani_SI_H156
+Radicondoli_SI_H157
+Raffadali_AG_H159
+Ragalna_CT_M287
+Ragogna_UD_H161
+Ragoli_TN_H162
+Ragusa_RG_H163
+Raiano_AQ_H166
+Ramacca_CT_H168
+Ramiseto_RE_G654
+Ramponio Verna_CO_H171
+Rancio Valcuvia_VA_H173
+Ranco_VA_H174
+Randazzo_CT_H175
+Ranica_BG_H176
+Ranzanico_BG_H177
+Ranzo_IM_H180
+Rapagnano_FM_H182
+Rapallo_GE_H183
+Rapino_CH_H184
+Rapolano Terme_SI_H185
+Rapolla_PZ_H186
+Rapone_PZ_H187
+Rassa_VC_H188
+Rasun Anterselva_BZ_H189
+Rasura_SO_H192
+Ravanusa_AG_H194
+Ravarino_MO_H195
+Ravascletto_UD_H196
+Ravello_SA_H198
+Ravenna_RA_H199
+Raveo_UD_H200
+Raviscanina_CE_H202
+Re_VB_H203
+Rea_PV_H204
+Realmonte_AG_H205
+Reana del Rojale_UD_H206
+Reano_TO_H207
+Recale_CE_H210
+Recanati_MC_H211
+Recco_GE_H212
+Recetto_NO_H213
+Recoaro Terme_VI_H214
+Redavalle_PV_H216
+Redondesco_MN_H218
+Refrancore_AT_H219
+Refrontolo_TV_H220
+Regalbuto_EN_H221
+Reggello_FI_H222
+Reggio Calabria_RC_H224
+Reggio Emilia_RE_H223
+Reggiolo_RE_H225
+Reino_BN_H227
+Reitano_ME_H228
+Remanzacco_UD_H229
+Remedello_BS_H230
+Renate_MB_H233
+Rende_CS_H235
+Renon_BZ_H236
+Resana_TV_H238
+Rescaldina_MI_H240
+Resia_UD_H242
+Resiutta_UD_H244
+Resuttano_CL_H245
+Retorbido_PV_H246
+Revello_CN_H247
+Revere_MN_H248
+Revigliasco d'Asti_AT_H250
+Revine Lago_TV_H253
+Rev�_TN_H254
+Rezzago_CO_H255
+Rezzato_BS_H256
+Rezzo_IM_H257
+Rezzoaglio_GE_H258
+Rhemes-Notre-Dame_AO_H262
+Rhemes-Saint-Georges_AO_H263
+Rho_MI_H264
+Riace_RC_H265
+Rialto_SV_H266
+Riano_RM_H267
+Riardo_CE_H268
+Ribera_AG_H269
+Ribordone_TO_H270
+Ricadi_VV_H271
+Ricaldone_AL_H272
+Riccia_CB_H273
+Riccione_RN_H274
+Ricc� del Golfo di Spezia_SP_H275
+Ricengo_CR_H276
+Ricigliano_SA_H277
+Riese Pio X_TV_H280
+Riesi_CL_H281
+Rieti_RI_H282
+Rifiano_BZ_H284
+Rifreddo_CN_H285
+Rignano Flaminio_RM_H288
+Rignano Garganico_FG_H287
+Rignano sull'Arno_FI_H286
+Rigolato_UD_H289
+Rima San Giuseppe_VC_H291
+Rimasco_VC_H292
+Rimella_VC_H293
+Rimini_RN_H294
+Rio di Pusteria_BZ_H299
+Rio Marina_LI_H305
+Rio nell'Elba_LI_H297
+Rio Saliceto_RE_H298
+Riofreddo_RM_H300
+Riola Sardo_OR_H301
+Riolo Terme_RA_H302
+Riolunato_MO_H303
+Riomaggiore_SP_H304
+Rionero in Vulture_PZ_H307
+Rionero Sannitico_IS_H308
+Ripa Teatina_CH_H320
+Ripabottoni_CB_H311
+Ripacandida_PZ_H312
+Ripalimosani_CB_H313
+Ripalta Arpina_CR_H314
+Ripalta Cremasca_CR_H315
+Ripalta Guerina_CR_H316
+Riparbella_PI_H319
+Ripatransone_AP_H321
+Ripe_AN_H322
+Ripe San Ginesio_MC_H323
+Ripi_FR_H324
+Riposto_CT_H325
+Rittana_CN_H326
+Riva del Garda_TN_H330
+Riva di Solto_BG_H331
+Riva Ligure_IM_H328
+Riva Presso Chieri_TO_H337
+Riva Valdobbia_VC_H329
+Rivalba_TO_H333
+Rivalta Bormida_AL_H334
+Rivalta di Torino_TO_H335
+Rivamonte Agordino_BL_H327
+Rivanazzano Terme_PV_H336
+Rivara_TO_H338
+Rivarolo Canavese_TO_H340
+Rivarolo del Re ed Uniti_CR_H341
+Rivarolo Mantovano_MN_H342
+Rivarone_AL_H343
+Rivarossa_TO_H344
+Rive_VC_H346
+Rive D'Arcano_UD_H347
+Rivello_PZ_H348
+Rivergaro_PC_H350
+Rivignano_UD_H352
+Rivisondoli_AQ_H353
+Rivodutri_RI_H354
+Rivoli_TO_H355
+Rivoli Veronese_VR_H356
+Rivolta d'Adda_CR_H357
+Rizziconi_RC_H359
+Ro_FE_H360
+Roana_VI_H361
+Roaschia_CN_H362
+Roascio_CN_H363
+Roasio_VC_H365
+Roatto_AT_H366
+Robassomero_TO_H367
+Robbiate_LC_G223
+Robbio_PV_H369
+Robecchetto con Induno_MI_H371
+Robecco d'Oglio_CR_H372
+Robecco Pavese_PV_H375
+Robecco sul Naviglio_MI_H373
+Robella_AT_H376
+Robilante_CN_H377
+Roburent_CN_H378
+Rocca Canavese_TO_H386
+Rocca Canterano_RM_H387
+Rocca Cigli�_CN_H391
+Rocca d'Arazzo_AT_H392
+Rocca d'Arce_FR_H393
+Rocca de' Baldi_CN_H395
+Rocca de' Giorgi_PV_H396
+Rocca D'Evandro_CE_H398
+Rocca di Botte_AQ_H399
+Rocca di Cambio_AQ_H400
+Rocca di Cave_RM_H401
+Rocca di Mezzo_AQ_H402
+Rocca di Neto_KR_H403
+Rocca di Papa_RM_H404
+Rocca Grimalda_AL_H414
+Rocca Imperiale_CS_H416
+Rocca Massima_LT_H421
+Rocca Pia_AQ_H429
+Rocca Pietore_BL_H379
+Rocca Priora_RM_H432
+Rocca San Casciano_FC_H437
+Rocca San Felice_AV_H438
+Rocca San Giovanni_CH_H439
+Rocca Santa Maria_TE_H440
+Rocca Santo Stefano_RM_H441
+Rocca Sinibalda_RI_H446
+Rocca Susella_PV_H450
+Roccabascerana_AV_H382
+Roccabernarda_KR_H383
+Roccabianca_PR_H384
+Roccabruna_CN_H385
+Roccacasale_AQ_H389
+Roccadaspide_SA_H394
+Roccafiorita_ME_H405
+Roccafluvione_AP_H390
+Roccaforte del Greco_RC_H408
+Roccaforte Ligure_AL_H406
+Roccaforte Mondov�_CN_H407
+Roccaforzata_TA_H409
+Roccafranca_BS_H410
+Roccagiovine_RM_H411
+Roccagloriosa_SA_H412
+Roccagorga_LT_H413
+Roccalbegna_GR_H417
+Roccalumera_ME_H418
+Roccamandolfi_IS_H420
+Roccamena_PA_H422
+Roccamonfina_CE_H423
+Roccamontepiano_CH_H424
+Roccamorice_PE_H425
+Roccanova_PZ_H426
+Roccantica_RI_H427
+Roccapalumba_PA_H428
+Roccapiemonte_SA_H431
+Roccarainola_NA_H433
+Roccaraso_AQ_H434
+Roccaromana_CE_H436
+Roccascalegna_CH_H442
+Roccasecca_FR_H443
+Roccasecca dei Volsci_LT_H444
+Roccasicura_IS_H445
+Roccasparvera_CN_H447
+Roccaspinalveti_CH_H448
+Roccastrada_GR_H449
+Roccavaldina_ME_H380
+Roccaverano_AT_H451
+Roccavignale_SV_H452
+Roccavione_CN_H453
+Roccavivara_CB_H454
+Roccella Ionica_RC_H456
+Roccella Valdemone_ME_H455
+Rocchetta a Volturno_IS_H458
+Rocchetta Belbo_CN_H462
+Rocchetta di Vara_SP_H461
+Rocchetta e Croce_CE_H459
+Rocchetta Ligure_AL_H465
+Rocchetta Nervina_IM_H460
+Rocchetta Palafea_AT_H466
+Rocchetta Sant'Antonio_FG_H467
+Rocchetta Tanaro_AT_H468
+Rodano_MI_H470
+Roddi_CN_H472
+Roddino_CN_H473
+Rodello_CN_H474
+Rodengo_BZ_H475
+Rodengo Saiano_BS_H477
+Rodero_CO_H478
+Rodi Garganico_FG_H480
+Rod� Milici_ME_H479
+Rodigo_MN_H481
+Ro� Volciano_BS_H484
+Rofrano_SA_H485
+Rogeno_LC_H486
+Roggiano Gravina_CS_H488
+Roghudi_RC_H489
+Rogliano_CS_H490
+Rognano_PV_H491
+Rogno_BG_H492
+Rogolo_SO_H493
+Roiate_RM_H494
+Roio del Sangro_CH_H495
+Roisan_AO_H497
+Roletto_TO_H498
+Rolo_RE_H500
+Roma_RM_H501
+Romagnano al Monte_SA_H503
+Romagnano Sesia_NO_H502
+Romagnese_PV_H505
+Romallo_TN_H506
+Romana_SS_H507
+Romanengo_CR_H508
+Romano Canavese_TO_H511
+Romano d'Ezzelino_VI_H512
+Romano di Lombardia_BG_H509
+Romans d'Isonzo_GO_H514
+Rombiolo_VV_H516
+Romeno_TN_H517
+Romentino_NO_H518
+Rometta_ME_H519
+Ronago_CO_H521
+Ronc�_VR_H522
+Roncade_TV_H523
+Roncadelle_BS_H525
+Roncaro_PV_H527
+Roncegno Terme_TN_H528
+Roncello_MB_H529
+Ronchi dei Legionari_GO_H531
+Ronchi Valsugana_TN_H532
+Ronchis_UD_H533
+Ronciglione_VT_H534
+Ronco all'Adige_VR_H540
+Ronco Biellese_BI_H538
+Ronco Briantino_MB_H537
+Ronco Canavese_TO_H539
+Ronco Scrivia_GE_H536
+Roncobello_BG_H535
+Roncoferraro_MN_H541
+Roncofreddo_FC_H542
+Roncola_BG_H544
+Roncone_TN_H545
+Rondanina_GE_H546
+Rondissone_TO_H547
+Ronsecco_VC_H549
+Ronzo-Chienis_TN_M303
+Ronzone_TN_H552
+Roppolo_BI_H553
+Ror�_TO_H554
+Ros�_VI_H556
+Rosarno_RC_H558
+Rosasco_PV_H559
+Rosate_MI_H560
+Rosazza_BI_H561
+Rosciano_PE_H562
+Roscigno_SA_H564
+Rose_CS_H565
+Rosello_CH_H566
+Roseto Capo Spulico_CS_H572
+Roseto degli Abruzzi_TE_F585
+Roseto Valfortore_FG_H568
+Rosignano Marittimo_LI_H570
+Rosignano Monferrato_AL_H569
+Rosolina_RO_H573
+Rosolini_SR_H574
+Rosora_AN_H575
+Rossa_VC_H577
+Rossana_CN_H578
+Rossano_CS_H579
+Rossano Veneto_VI_H580
+Rossiglione_GE_H581
+Rosta_TO_H583
+Rota d'Imagna_BG_H584
+Rota Greca_CS_H585
+Rotella_AP_H588
+Rotello_CB_H589
+Rotonda_PZ_H590
+Rotondella_MT_H591
+Rotondi_AV_H592
+Rottofreno_PC_H593
+Rotzo_VI_H594
+Roure_TO_H555
+Rovagnate_LC_H596
+Rovasenda_VC_H364
+Rovato_BS_H598
+Rovegno_GE_H599
+Rovellasca_CO_H601
+Rovello Porro_CO_H602
+Roverbella_MN_H604
+Roverchiara_VR_H606
+Rover� della Luna_TN_H607
+Rover� Veronese_VR_H608
+Roveredo di Gu�_VR_H610
+Roveredo in Piano_PN_H609
+Rovereto_TN_H612
+Rovescala_PV_H614
+Rovetta_BG_H615
+Roviano_RM_H618
+Rovigo_RO_H620
+Rovito_CS_H621
+Rovolon_PD_H622
+Rozzano_MI_H623
+Rubano_PD_H625
+Rubiana_TO_H627
+Rubiera_RE_H628
+Ruda_UD_H629
+Rudiano_BS_H630
+Rueglio_TO_H631
+Ruffano_LE_H632
+Ruffia_CN_H633
+Ruffr�-Mendola_TN_H634
+Rufina_FI_H635
+Ruinas_OR_F271
+Ruino_PV_H637
+Rumo_TN_H639
+Ruoti_PZ_H641
+Russi_RA_H642
+Rutigliano_BA_H643
+Rutino_SA_H644
+Ruviano_CE_H165
+Ruvo del Monte_PZ_H646
+Ruvo di Puglia_BA_H645
+Sabaudia_LT_H647
+Sabbia_VC_H648
+Sabbio Chiese_BS_H650
+Sabbioneta_MN_H652
+Sacco_SA_H654
+Saccolongo_PD_H655
+Sacile_PN_H657
+Sacrofano_RM_H658
+Sadali_CA_H659
+Sagama_OR_H661
+Sagliano Micca_BI_H662
+Sagrado_GO_H665
+Sagron Mis_TN_H666
+Saint-Christophe_AO_H669
+Saint-Denis_AO_H670
+Saint-Marcel_AO_H671
+Saint-Nicolas_AO_H672
+Saint-Oyen_AO_H673
+Saint-Pierre_AO_H674
+Saint-Rh�my-en-Bosses_AO_H675
+Saint-Vincent_AO_H676
+Sala Baganza_PR_H682
+Sala Biellese_BI_H681
+Sala Bolognese_BO_H678
+Sala Comacina_CO_H679
+Sala Consilina_SA_H683
+Sala Monferrato_AL_H677
+Salandra_MT_H687
+Salaparuta_TP_H688
+Salara_RO_H689
+Salasco_VC_H690
+Salassa_TO_H691
+Salbertrand_TO_H684
+Salcedo_VI_F810
+Salcito_CB_H693
+Sale_AL_H694
+Sale delle Langhe_CN_H695
+Sale Marasino_BS_H699
+Sale San Giovanni_CN_H704
+Salemi_TP_H700
+Salento_SA_H686
+Salerano Canavese_TO_H702
+Salerano sul Lambro_LO_H701
+Salerno_SA_H703
+Saletto_PD_H705
+Salgareda_TV_H706
+Sali Vercellese_VC_H707
+Salice Salentino_LE_H708
+Saliceto_CN_H710
+Salisano_RI_H713
+Salizzole_VR_H714
+Salle_PE_H715
+Salmour_CN_H716
+Sal�_BS_H717
+Salorno_BZ_H719
+Salsomaggiore Terme_PR_H720
+Saltara_PU_H721
+Saltrio_VA_H723
+Saludecio_RN_H724
+Saluggia_VC_H725
+Salussola_BI_H726
+Saluzzo_CN_H727
+Salve_LE_H729
+Salvirola_CR_H731
+Salvitelle_SA_H732
+Salza di Pinerolo_TO_H734
+Salza Irpina_AV_H733
+Salzano_VE_H735
+Samarate_VA_H736
+Samassi_VS_H738
+Samatzai_CA_H739
+Sambuca di Sicilia_AG_H743
+Sambuca Pistoiese_PT_H744
+Sambuci_RM_H745
+Sambuco_CN_H746
+Sammichele di Bari_BA_H749
+Samo_RC_H013
+Samolaco_SO_H752
+Samone_TO_H753
+Samone_TN_H754
+Sampeyre_CN_H755
+Samugheo_OR_H756
+San Bartolomeo al Mare_IM_H763
+San Bartolomeo in Galdo_BN_H764
+San Bartolomeo Val Cavargna_CO_H760
+San Basile_CS_H765
+San Basilio_CA_H766
+San Bassano_CR_H767
+San Bellino_RO_H768
+San Benedetto Belbo_CN_H770
+San Benedetto dei Marsi_AQ_H772
+San Benedetto del Tronto_AP_H769
+San Benedetto in Perillis_AQ_H773
+San Benedetto Po_MN_H771
+San Benedetto Ullano_CS_H774
+San Benedetto Val di Sambro_BO_G566
+San Benigno Canavese_TO_H775
+San Bernardino Verbano_VB_H777
+San Biagio della Cima_IM_H780
+San Biagio di Callalta_TV_H781
+San Biagio Platani_AG_H778
+San Biagio Saracinisco_FR_H779
+San Biase_CB_H782
+San Bonifacio_VR_H783
+San Buono_CH_H784
+San Calogero_VV_H785
+San Candido_BZ_H786
+San Canzian d'Isonzo_GO_H787
+San Carlo Canavese_TO_H789
+San Casciano dei Bagni_SI_H790
+San Casciano in Val di Pesa_FI_H791
+San Cassiano_LE_M264
+San Cataldo_CL_H792
+San Cesareo_RM_M295
+San Cesario di Lecce_LE_H793
+San Cesario sul Panaro_MO_H794
+San Chirico Nuovo_PZ_H795
+San Chirico Raparo_PZ_H796
+San Cipirello_PA_H797
+San Cipriano d'Aversa_CE_H798
+San Cipriano Picentino_SA_H800
+San Cipriano Po_PV_H799
+San Clemente_RN_H801
+San Colombano al Lambro_MI_H803
+San Colombano Belmonte_TO_H804
+San Colombano Certenoli_GE_H802
+San Cono_CT_H805
+San Cosmo Albanese_CS_H806
+San Costantino Albanese_PZ_H808
+San Costantino Calabro_VV_H807
+San Costanzo_PU_H809
+San Cristoforo_AL_H810
+San Damiano al Colle_PV_H814
+San Damiano d'Asti_AT_H811
+San Damiano Macra_CN_H812
+San Daniele del Friuli_UD_H816
+San Daniele Po_CR_H815
+San Demetrio Corone_CS_H818
+San Demetrio ne' Vestini_AQ_H819
+San Didero_TO_H820
+San Don� di Piave_VE_H823
+San Donaci_BR_H822
+San Donato di Lecce_LE_H826
+San Donato di Ninea_CS_H825
+San Donato Milanese_MI_H827
+San Donato Val di Comino_FR_H824
+San Dorligo della Valle - Dolina_TS_D324
+San Fedele Intelvi_CO_H830
+San Fele_PZ_H831
+San Felice a Cancello_CE_H834
+San Felice Circeo_LT_H836
+San Felice del Benaco_BS_H838
+San Felice del Molise_CB_H833
+San Felice sul Panaro_MO_H835
+San Ferdinando_RC_M277
+San Ferdinando di Puglia_BT_H839
+San Fermo della Battaglia_CO_H840
+San Fili_CS_H841
+San Filippo del Mela_ME_H842
+San Fior_TV_H843
+San Fiorano_LO_H844
+San Floriano del Collio_GO_H845
+San Floro_CZ_H846
+San Francesco al Campo_TO_H847
+San Fratello_ME_H850
+San Gavino Monreale_VS_H856
+San Gemini_TR_H857
+San Genesio Atesino_BZ_H858
+San Genesio ed Uniti_PV_H859
+San Gennaro Vesuviano_NA_H860
+San Germano Chisone_TO_H862
+San Germano dei Berici_VI_H863
+San Germano Vercellese_VC_H861
+San Gervasio Bresciano_BS_H865
+San Giacomo degli Schiavoni_CB_H867
+San Giacomo delle Segnate_MN_H870
+San Giacomo Filippo_SO_H868
+San Giacomo Vercellese_VC_B952
+San Gillio_TO_H873
+San Gimignano_SI_H875
+San Ginesio_MC_H876
+San Giorgio a Cremano_NA_H892
+San Giorgio a Liri_FR_H880
+San Giorgio Albanese_CS_H881
+San Giorgio Canavese_TO_H890
+San Giorgio del Sannio_BN_H894
+San Giorgio della Richinvelda_PN_H891
+San Giorgio delle Pertiche_PD_H893
+San Giorgio di Lomellina_PV_H885
+San Giorgio di Mantova_MN_H883
+San Giorgio di Nogaro_UD_H895
+San Giorgio di Pesaro_PU_H886
+San Giorgio di Piano_BO_H896
+San Giorgio in Bosco_PD_H897
+San Giorgio Ionico_TA_H882
+San Giorgio La Molara_BN_H898
+San Giorgio Lucano_MT_H888
+San Giorgio Monferrato_AL_H878
+San Giorgio Morgeto_RC_H889
+San Giorgio Piacentino_PC_H887
+San Giorgio Scarampi_AT_H899
+San Giorgio su Legnano_MI_H884
+San Giorio di Susa_TO_H900
+San Giovanni a Piro_SA_H907
+San Giovanni al Natisone_UD_H906
+San Giovanni Bianco_BG_H910
+San Giovanni d'Asso_SI_H911
+San Giovanni del Dosso_MN_H912
+San Giovanni di Gerace_RC_H903
+San Giovanni Gemini_AG_H914
+San Giovanni Ilarione_VR_H916
+San Giovanni in Croce_CR_H918
+San Giovanni in Fiore_CS_H919
+San Giovanni in Galdo_CB_H920
+San Giovanni in Marignano_RN_H921
+San Giovanni in Persiceto_BO_G467
+San Giovanni Incarico_FR_H917
+San Giovanni la Punta_CT_H922
+San Giovanni Lipioni_CH_H923
+San Giovanni Lupatoto_VR_H924
+San Giovanni Rotondo_FG_H926
+San Giovanni Suergiu_CI_G287
+San Giovanni Teatino_CH_D690
+San Giovanni Valdarno_AR_H901
+San Giuliano del Sannio_CB_H928
+San Giuliano di Puglia_CB_H929
+San Giuliano Milanese_MI_H930
+San Giuliano Terme_PI_A562
+San Giuseppe Jato_PA_H933
+San Giuseppe Vesuviano_NA_H931
+San Giustino_PG_H935
+San Giusto Canavese_TO_H936
+San Godenzo_FI_H937
+San Gregorio da Sassola_RM_H942
+San Gregorio di Catania_CT_H940
+San Gregorio d'Ippona_VV_H941
+San Gregorio Magno_SA_H943
+San Gregorio Matese_CE_H939
+San Gregorio nelle Alpi_BL_H938
+San Lazzaro di Savena_BO_H945
+San Leo_RN_H949
+San Leonardo_UD_H951
+San Leonardo in Passiria_BZ_H952
+San Leucio del Sannio_BN_H953
+San Lorenzello_BN_H955
+San Lorenzo_RC_H959
+San Lorenzo al Mare_IM_H957
+San Lorenzo Bellizzi_CS_H961
+San Lorenzo del Vallo_CS_H962
+San Lorenzo di Sebato_BZ_H956
+San Lorenzo in Banale_TN_H966
+San Lorenzo in Campo_PU_H958
+San Lorenzo Isontino_GO_H964
+San Lorenzo Maggiore_BN_H967
+San Lorenzo Nuovo_VT_H969
+San Luca_RC_H970
+San Lucido_CS_H971
+San Lupo_BN_H973
+San Mango d'Aquino_CZ_H976
+San Mango Piemonte_SA_H977
+San Mango sul Calore_AV_H975
+San Marcellino_CE_H978
+San Marcello_AN_H979
+San Marcello Pistoiese_PT_H980
+San Marco Argentano_CS_H981
+San Marco D'Alunzio_ME_H982
+San Marco dei Cavoti_BN_H984
+San Marco Evangelista_CE_F043
+San Marco in Lamis_FG_H985
+San Marco la Catola_FG_H986
+San Martino al Tagliamento_PN_H999
+San Martino Alfieri_AT_H987
+San Martino Buon Albergo_VR_I003
+San Martino Canavese_TO_H997
+San Martino d'Agri_PZ_H994
+San Martino dall'Argine_MN_I005
+San Martino del Lago_CR_I007
+San Martino di Finita_CS_H992
+San Martino di Lupari_PD_I008
+San Martino di Venezze_RO_H996
+San Martino in Badia_BZ_H988
+San Martino in Passiria_BZ_H989
+San Martino in Pensilis_CB_H990
+San Martino in Rio_RE_I011
+San Martino in Strada_LO_I012
+San Martino Sannita_BN_I002
+San Martino Siccomario_PV_I014
+San Martino sulla Marrucina_CH_H991
+San Martino Valle Caudina_AV_I016
+San Marzano di San Giuseppe_TA_I018
+San Marzano Oliveto_AT_I017
+San Marzano sul Sarno_SA_I019
+San Massimo_CB_I023
+San Maurizio Canavese_TO_I024
+San Maurizio d'Opaglio_NO_I025
+San Mauro Castelverde_PA_I028
+San Mauro Cilento_SA_I031
+San Mauro di Saline_VR_H712
+San Mauro Forte_MT_I029
+San Mauro La Bruca_SA_I032
+San Mauro Marchesato_KR_I026
+San Mauro Pascoli_FC_I027
+San Mauro Torinese_TO_I030
+San Michele al Tagliamento_VE_I040
+San Michele all'Adige_TN_I042
+San Michele di Ganzaria_CT_I035
+San Michele di Serino_AV_I034
+San Michele Mondov�_CN_I037
+San Michele Salentino_BR_I045
+San Miniato_PI_I046
+San Nazario_VI_I047
+San Nazzaro_BN_I049
+San Nazzaro Sesia_NO_I052
+San Nazzaro Val Cavargna_CO_I051
+San Nicandro Garganico_FG_I054
+San Nicola Arcella_CS_I060
+San Nicola Baronia_AV_I061
+San Nicola da Crissa_VV_I058
+San Nicola dell'Alto_KR_I057
+San Nicola la Strada_CE_I056
+San Nicola Manfredi_BN_I062
+San Nicol� d'Arcidano_OR_A368
+San Nicol� di Comelico_BL_I063
+San Nicol� Gerrei_CA_G383
+San Pancrazio_BZ_I065
+San Pancrazio Salentino_BR_I066
+San Paolo_BS_G407
+San Paolo Albanese_PZ_B906
+San Paolo Bel Sito_NA_I073
+San Paolo Cervo_BI_I074
+San Paolo d'Argon_BG_B310
+San Paolo di Civitate_FG_I072
+San Paolo di Jesi_AN_I071
+San Paolo Solbrito_AT_I076
+San Pellegrino Terme_BG_I079
+San Pier d'Isonzo_GO_I082
+San Pier Niceto_ME_I084
+San Piero a Sieve_FI_I085
+San Piero Patti_ME_I086
+San Pietro a Maida_CZ_I093
+San Pietro al Natisone_UD_I092
+San Pietro al Tanagro_SA_I089
+San Pietro Apostolo_CZ_I095
+San Pietro Avellana_IS_I096
+San Pietro Clarenza_CT_I098
+San Pietro di Cadore_BL_I088
+San Pietro di Carid�_RC_I102
+San Pietro di Feletto_TV_I103
+San Pietro di Morubio_VR_I105
+San Pietro in Amantea_CS_I108
+San Pietro in Cariano_VR_I109
+San Pietro in Casale_BO_I110
+San Pietro in Cerro_PC_G788
+San Pietro in Gu_PD_I107
+San Pietro in Guarano_CS_I114
+San Pietro in Lama_LE_I115
+San Pietro Infine_CE_I113
+San Pietro Mosezzo_NO_I116
+San Pietro Mussolino_VI_I117
+San Pietro Val Lemina_TO_I090
+San Pietro Vernotico_BR_I119
+San Pietro Viminario_PD_I120
+San Pio delle Camere_AQ_I121
+San Polo dei Cavalieri_RM_I125
+San Polo d'Enza_RE_I123
+San Polo di Piave_TV_I124
+San Polo Matese_CB_I122
+San Ponso_TO_I126
+San Possidonio_MO_I128
+San Potito Sannitico_CE_I130
+San Potito Ultra_AV_I129
+San Prisco_CE_I131
+San Procopio_RC_I132
+San Prospero_MO_I133
+San Quirico d'Orcia_SI_I135
+San Quirino_PN_I136
+San Raffaele Cimena_TO_I137
+San Roberto_RC_I139
+San Rocco al Porto_LO_I140
+San Romano in Garfagnana_LU_I142
+San Rufo_SA_I143
+San Salvatore di Fitalia_ME_I147
+San Salvatore Monferrato_AL_I144
+San Salvatore Telesino_BN_I145
+San Salvo_CH_I148
+San Sebastiano al Vesuvio_NA_I151
+San Sebastiano Curone_AL_I150
+San Sebastiano da Po_TO_I152
+San Secondo di Pinerolo_TO_I154
+San Secondo Parmense_PR_I153
+San Severino Lucano_PZ_I157
+San Severino Marche_MC_I156
+San Severo_FG_I158
+San Siro_CO_I162
+San Sossio Baronia_AV_I163
+San Sostene_CZ_I164
+San Sosti_CS_I165
+San Sperate_CA_I166
+San Tammaro_CE_I261
+San Teodoro_ME_I328
+San Teodoro_OT_I329
+San Tomaso Agordino_BL_I347
+San Valentino in Abruzzo Citeriore_PE_I376
+San Valentino Torio_SA_I377
+San Venanzo_TR_I381
+San Vendemiano_TV_I382
+San Vero Milis_OR_I384
+San Vincenzo_LI_I390
+San Vincenzo la Costa_CS_I388
+San Vincenzo Valle Roveto_AQ_I389
+San Vitaliano_NA_I391
+San Vito_CA_I402
+San Vito al Tagliamento_PN_I403
+San Vito al Torre_UD_I404
+San Vito Chietino_CH_I394
+San Vito dei Normanni_BR_I396
+San Vito di Cadore_BL_I392
+San Vito di Fagagna_UD_I405
+San Vito di Leguzzano_VI_I401
+San Vito Lo Capo_TP_I407
+San Vito Romano_RM_I400
+San Vito sullo Ionio_CZ_I393
+San Vittore del Lazio_FR_I408
+San Vittore Olona_MI_I409
+San Zeno di Montagna_VR_I414
+San Zeno Naviglio_BS_I412
+San Zenone al Lambro_MI_I415
+San Zenone al Po_PV_I416
+San Zenone degli Ezzelini_TV_I417
+Sanarica_LE_H757
+Sandigliano_BI_H821
+Sandrigo_VI_H829
+Sanfr�_CN_H851
+Sanfront_CN_H852
+Sangano_TO_H855
+Sangiano_VA_H872
+Sangineto_CS_H877
+Sanguinetto_VR_H944
+Sanluri_VS_H974
+Sannazzaro de' Burgondi_PV_I048
+Sannicandro di Bari_BA_I053
+Sannicola_LE_I059
+Sanremo_IM_I138
+Sansepolcro_AR_I155
+Santa Brigida_BG_I168
+Santa Caterina Albanese_CS_I171
+Santa Caterina dello Ionio_CZ_I170
+Santa Caterina Villarmosa_CL_I169
+Santa Cesarea Terme_LE_I172
+Santa Cristina d'Aspromonte_RC_I176
+Santa Cristina e Bissone_PV_I175
+Santa Cristina Gela_PA_I174
+Santa Cristina Valgardena_BZ_I173
+Santa Croce Camerina_RG_I178
+Santa Croce del Sannio_BN_I179
+Santa Croce di Magliano_CB_I181
+Santa Croce sull'Arno_PI_I177
+Santa Domenica Talao_CS_I183
+Santa Domenica Vittoria_ME_I184
+Santa Elisabetta_AG_I185
+Santa Fiora_GR_I187
+Santa Flavia_PA_I188
+Santa Giuletta_PV_I203
+Santa Giusta_OR_I205
+Santa Giustina_BL_I206
+Santa Giustina in Colle_PD_I207
+Santa Luce_PI_I217
+Santa Lucia del Mela_ME_I220
+Santa Lucia di Piave_TV_I221
+Santa Lucia di Serino_AV_I219
+Santa Margherita d'Adige_PD_I226
+Santa Margherita di Belice_AG_I224
+Santa Margherita di Staffora_PV_I230
+Santa Margherita Ligure_GE_I225
+Santa Maria a Monte_PI_I232
+Santa Maria a Vico_CE_I233
+Santa Maria Capua Vetere_CE_I234
+Santa Maria Coghinas_SS_M284
+Santa Maria del Cedro_CS_C717
+Santa Maria del Molise_IS_I238
+Santa Maria della Versa_PV_I237
+Santa Maria di Licodia_CT_I240
+Santa Maria di Sala_VE_I242
+Santa Maria Ho�_LC_I243
+Santa Maria Imbaro_CH_I244
+Santa Maria la Carit�_NA_M273
+Santa Maria La Fossa_CE_I247
+Santa Maria La Longa_UD_I248
+Santa Maria Maggiore_VB_I249
+Santa Maria Nuova_AN_I251
+Santa Marina_SA_I253
+Santa Marina Salina_ME_I254
+Santa Marinella_RM_I255
+Santa Ninfa_TP_I291
+Santa Paolina_AV_I301
+Santa Severina_KR_I308
+Santa Sofia_FC_I310
+Santa Sofia D'Epiro_CS_I309
+Santa Teresa di Riva_ME_I311
+Santa Teresa Gallura_OT_I312
+Santa Venerina_CT_I314
+Santa Vittoria d'Alba_CN_I316
+Santa Vittoria in Matenano_FM_I315
+Santadi_CI_I182
+Sant'Agapito_IS_I189
+Sant'Agata Bolognese_BO_I191
+Sant'Agata De' Goti_BN_I197
+Sant'Agata del Bianco_RC_I198
+Sant'Agata di Esaro_CS_I192
+Sant'Agata di Militello_ME_I199
+Sant'Agata di Puglia_FG_I193
+Sant'Agata Feltria_RN_I201
+Sant'Agata Fossili_AL_I190
+Sant'Agata Li Battiati_CT_I202
+Sant'Agata sul Santerno_RA_I196
+Sant'Agnello_NA_I208
+Sant'Agostino_FE_I209
+Sant'Albano Stura_CN_I210
+Sant'Alessio con Vialone_PV_I213
+Sant'Alessio in Aspromonte_RC_I214
+Sant'Alessio Siculo_ME_I215
+Sant'Alfio_CT_I216
+Sant'Ambrogio di Torino_TO_I258
+Sant'Ambrogio di Valpolicella_VR_I259
+Sant'Ambrogio sul Garigliano_FR_I256
+Sant'Anastasia_NA_I262
+Sant'Anatolia di Narco_PG_I263
+Sant'Andrea Apostolo dello Ionio_CZ_I266
+Sant'Andrea del Garigliano_FR_I265
+Sant'Andrea di Conza_AV_I264
+Sant'Andrea Frius_CA_I271
+Sant'Angelo a Cupolo_BN_I277
+Sant'Angelo a Fasanella_SA_I278
+Sant'Angelo a Scala_AV_I280
+Sant'Angelo all'Esca_AV_I279
+Sant'Angelo d'Alife_CE_I273
+Sant'Angelo dei Lombardi_AV_I281
+Sant'Angelo del Pesco_IS_I282
+Sant'Angelo di Brolo_ME_I283
+Sant'Angelo di Piove di Sacco_PD_I275
+Sant'Angelo in Lizzola_PU_I285
+Sant'Angelo in Pontano_MC_I286
+Sant'Angelo in Vado_PU_I287
+Sant'Angelo Le Fratte_PZ_I288
+Sant'Angelo Limosano_CB_I289
+Sant'Angelo Lodigiano_LO_I274
+Sant'Angelo Lomellina_PV_I276
+Sant'Angelo Muxaro_AG_I290
+Sant'Angelo Romano_RM_I284
+Sant'Anna Arresi_CI_M209
+Sant'Anna d'Alfaedo_VR_I292
+Sant'Antimo_NA_I293
+Sant'Antioco_CI_I294
+Sant'Antonino di Susa_TO_I296
+Sant'Antonio Abate_NA_I300
+Sant'Antonio di Gallura_OT_M276
+Sant'Apollinare_FR_I302
+Sant'Arcangelo_PZ_I305
+Santarcangelo di Romagna_RN_I304
+Sant'Arcangelo Trimonte_BN_F557
+Sant'Arpino_CE_I306
+Sant'Arsenio_SA_I307
+Sante Marie_AQ_I326
+Sant'Egidio alla Vibrata_TE_I318
+Sant'Egidio del Monte Albino_SA_I317
+Sant'Elena_PD_I319
+Sant'Elena Sannita_IS_B466
+Sant'Elia a Pianisi_CB_I320
+Sant'Elia Fiumerapido_FR_I321
+Sant'Elpidio a Mare_FM_I324
+Santena_TO_I327
+Santeramo in Colle_BA_I330
+Sant'Eufemia a Maiella_PE_I332
+Sant'Eufemia d'Aspromonte_RC_I333
+Sant'Eusanio del Sangro_CH_I335
+Sant'Eusanio Forconese_AQ_I336
+Santhi�_VC_I337
+Santi Cosma e Damiano_LT_I339
+Sant'Ilario dello Ionio_RC_I341
+Sant'Ilario d'Enza_RE_I342
+Sant'Ippolito_PU_I344
+Santo Stefano al Mare_IM_I365
+Santo Stefano Belbo_CN_I367
+Santo Stefano d'Aveto_GE_I368
+Santo Stefano del Sole_AV_I357
+Santo Stefano di Cadore_BL_C919
+Santo Stefano di Camastra_ME_I370
+Santo Stefano di Magra_SP_I363
+Santo Stefano di Rogliano_CS_I359
+Santo Stefano di Sessanio_AQ_I360
+Santo Stefano in Aspromonte_RC_I371
+Santo Stefano Lodigiano_LO_I362
+Santo Stefano Quisquina_AG_I356
+Santo Stefano Roero_CN_I372
+Santo Stefano Ticino_MI_I361
+Santo Stino di Livenza_VE_I373
+Sant'Olcese_GE_I346
+Santomenna_SA_I260
+Sant'Omero_TE_I348
+Sant'Omobono Terme_BG_I349
+Sant'Onofrio_VV_I350
+Santopadre_FR_I351
+Sant'Oreste_RM_I352
+Santorso_VI_I353
+Sant'Orsola Terme_TN_I354
+Santu Lussurgiu_OR_I374
+Sant'Urbano_PD_I375
+Sanza_SA_I410
+Sanzeno_TN_I411
+Saonara_PD_I418
+Saponara_ME_I420
+Sappada_BL_I421
+Sapri_SA_I422
+Saracena_CS_I423
+Saracinesco_RM_I424
+Sarcedo_VI_I425
+Sarconi_PZ_I426
+Sardara_VS_I428
+Sardigliano_AL_I429
+Sarego_VI_I430
+Sarentino_BZ_I431
+Sarezzano_AL_I432
+Sarezzo_BS_I433
+Sarmato_PC_I434
+Sarmede_TV_I435
+Sarnano_MC_I436
+Sarnico_BG_I437
+Sarno_SA_I438
+Sarnonico_TN_I439
+Saronno_VA_I441
+Sarre_AO_I442
+Sarroch_CA_I443
+Sarsina_FC_I444
+Sarteano_SI_I445
+Sartirana Lomellina_PV_I447
+Sarule_NU_I448
+Sarzana_SP_I449
+Sassano_SA_I451
+Sassari_SS_I452
+Sassello_SV_I453
+Sassetta_LI_I454
+Sassinoro_BN_I455
+Sasso di Castalda_PZ_I457
+Sasso Marconi_BO_G972
+Sassocorvaro_PU_I459
+Sassofeltrio_PU_I460
+Sassoferrato_AN_I461
+Sassuolo_MO_I462
+Satriano_CZ_I463
+Satriano di Lucania_PZ_G614
+Sauris_UD_I464
+Sauze di Cesana_TO_I465
+Sauze d'Oulx_TO_I466
+Sava_TA_I467
+Savelli_KR_I468
+Saviano_NA_I469
+Savigliano_CN_I470
+Savignano Irpino_AV_I471
+Savignano sul Panaro_MO_I473
+Savignano sul Rubicone_FC_I472
+Savigno_BO_I474
+Savignone_GE_I475
+Saviore dell'Adamello_BS_I476
+Savoca_ME_I477
+Savogna_UD_I478
+Savogna d'Isonzo_GO_I479
+Savoia di Lucania_PZ_H730
+Savona_SV_I480
+Scafa_PE_I482
+Scafati_SA_I483
+Scagnello_CN_I484
+Scala_SA_I486
+Scala Coeli_CS_I485
+Scaldasole_PV_I487
+Scalea_CS_I489
+Scalenghe_TO_I490
+Scaletta Zanclea_ME_I492
+Scampitella_AV_I493
+Scandale_KR_I494
+Scandiano_RE_I496
+Scandicci_FI_B962
+Scandolara Ravara_CR_I497
+Scandolara Ripa d'Oglio_CR_I498
+Scandriglia_RI_I499
+Scanno_AQ_I501
+Scano di Montiferro_OR_I503
+Scansano_GR_I504
+Scanzano Jonico_MT_M256
+Scanzorosciate_BG_I506
+Scapoli_IS_I507
+Scarlino_GR_I510
+Scarmagno_TO_I511
+Scarnafigi_CN_I512
+Scarperia_FI_I514
+Scena_BZ_I519
+Scerni_CH_I520
+Scheggia e Pascelupo_PG_I522
+Scheggino_PG_I523
+Schiavi di Abruzzo_CH_I526
+Schiavon_VI_I527
+Schignano_CO_I529
+Schilpario_BG_I530
+Schio_VI_I531
+Schivenoglia_MN_I532
+Sciacca_AG_I533
+Sciara_PA_I534
+Scicli_RG_I535
+Scido_RC_I536
+Scigliano_CS_D290
+Scilla_RC_I537
+Scillato_PA_I538
+Sciolze_TO_I539
+Scisciano_NA_I540
+Sclafani Bagni_PA_I541
+Scontrone_AQ_I543
+Scopa_VC_I544
+Scopello_VC_I545
+Scoppito_AQ_I546
+Scordia_CT_I548
+Scorrano_LE_I549
+Scorz�_VE_I551
+Scurcola Marsicana_AQ_I553
+Scurelle_TN_I554
+Scurzolengo_AT_I555
+Seborga_IM_I556
+Secinaro_AQ_I558
+Secl�_LE_I559
+Secugnago_LO_I561
+Sedegliano_UD_I562
+Sedico_BL_I563
+Sedilo_OR_I564
+Sedini_SS_I565
+Sedriano_MI_I566
+Sedrina_BG_I567
+Sefro_MC_I569
+Segariu_VS_I570
+Seggiano_GR_I571
+Segni_RM_I573
+Segonzano_TN_I576
+Segrate_MI_I577
+Segusino_TV_I578
+Selargius_CA_I580
+Selci_RI_I581
+Selegas_CA_I582
+Sellano_PG_I585
+Sellero_BS_I588
+Sellia_CZ_I589
+Sellia Marina_CZ_I590
+Selva dei Molini_BZ_I593
+Selva di Cadore_BL_I592
+Selva di Progno_VR_I594
+Selva di Val Gardena_BZ_I591
+Selvazzano Dentro_PD_I595
+Selve Marcone_BI_I596
+Selvino_BG_I597
+Semestene_SS_I598
+Semiana_PV_I599
+Seminara_RC_I600
+Semproniano_GR_I601
+Senago_MI_I602
+Senales_BZ_I604
+Senale-San Felice_BZ_I603
+Seneghe_OR_I605
+Senerchia_AV_I606
+Seniga_BS_I607
+Senigallia_AN_I608
+Senis_OR_I609
+Senise_PZ_I610
+Senna Comasco_CO_I611
+Senna Lodigiana_LO_I612
+Sennariolo_OR_I613
+Sennori_SS_I614
+Senorb�_CA_I615
+Sepino_CB_I618
+Seppiana_VB_I619
+Sequals_PN_I621
+Seravezza_LU_I622
+Serdiana_CA_I624
+Seregno_MB_I625
+Seren del Grappa_BL_I626
+Sergnano_CR_I627
+Seriate_BG_I628
+Serina_BG_I629
+Serino_AV_I630
+Serle_BS_I631
+Sermide_MN_I632
+Sermoneta_LT_I634
+Sernaglia della Battaglia_TV_I635
+Sernio_SO_I636
+Serole_AT_I637
+Serra d'Aiello_CS_I642
+Serra de' Conti_AN_I643
+Serra Pedace_CS_I650
+Serra Ricc�_GE_I640
+Serra San Bruno_VV_I639
+Serra San Quirico_AN_I653
+Serra Sant'Abbondio_PU_I654
+Serracapriola_FG_I641
+Serradifalco_CL_I644
+Serralunga d'Alba_CN_I646
+Serralunga di Crea_AL_I645
+Serramanna_VS_I647
+Serramazzoni_MO_F357
+Serramezzana_SA_I648
+Serramonacesca_PE_I649
+Serrapetrona_MC_I651
+Serrara Fontana_NA_I652
+Serrastretta_CZ_I655
+Serrata_RC_I656
+Serravalle a Po_MN_I662
+Serravalle di Chienti_MC_I661
+Serravalle Langhe_CN_I659
+Serravalle Pistoiese_PT_I660
+Serravalle Scrivia_AL_I657
+Serravalle Sesia_VC_I663
+Serre_SA_I666
+Serrenti_VS_I667
+Serri_CA_I668
+Serrone_FR_I669
+Serrungarina_PU_I670
+Sersale_CZ_I671
+Servigliano_FM_C070
+Sessa Aurunca_CE_I676
+Sessa Cilento_SA_I677
+Sessame_AT_I678
+Sessano del Molise_IS_I679
+Sesta Godano_SP_E070
+Sestino_AR_I681
+Sesto_BZ_I687
+Sesto al Reghena_PN_I686
+Sesto Calende_VA_I688
+Sesto Campano_IS_I682
+Sesto ed Uniti_CR_I683
+Sesto Fiorentino_FI_I684
+Sesto San Giovanni_MI_I690
+Sestola_MO_I689
+Sestri Levante_GE_I693
+Sestriere_TO_I692
+Sestu_CA_I695
+Settala_MI_I696
+Settefrati_FR_I697
+Settime_AT_I698
+Settimo Milanese_MI_I700
+Settimo Rottaro_TO_I701
+Settimo San Pietro_CA_I699
+Settimo Torinese_TO_I703
+Settimo Vittone_TO_I702
+Settingiano_CZ_I704
+Setzu_VS_I705
+Seui_OG_I706
+Seulo_CA_I707
+Seveso_MB_I709
+Sezzadio_AL_I711
+Sezze_LT_I712
+Sfruz_TN_I714
+Sgonico_TS_I715
+Sgurgola_FR_I716
+Siamaggiore_OR_I717
+Siamanna_OR_I718
+Siano_SA_I720
+Siapiccia_OR_I721
+Sicignano degli Alburni_SA_M253
+Siculiana_AG_I723
+Siddi_VS_I724
+Siderno_RC_I725
+Siena_SI_I726
+Sigillo_PG_I727
+Signa_FI_I728
+Silandro_BZ_I729
+Silanus_NU_I730
+Silea_TV_F116
+Siligo_SS_I732
+Siliqua_CA_I734
+Silius_CA_I735
+Sillano_LU_I737
+Sillavengo_NO_I736
+Silvano d'Orba_AL_I738
+Silvano Pietra_PV_I739
+Silvi_TE_I741
+Simala_OR_I742
+Simaxis_OR_I743
+Simbario_VV_I744
+Simeri Crichi_CZ_I745
+Sinagra_ME_I747
+Sinalunga_SI_A468
+Sindia_NU_I748
+Sini_OR_I749
+Sinio_CN_I750
+Siniscola_NU_I751
+Sinnai_CA_I752
+Sinopoli_RC_I753
+Siracusa_SR_I754
+Sirignano_AV_I756
+Siris_OR_I757
+Sirmione_BS_I633
+Sirolo_AN_I758
+Sirone_LC_I759
+Siror_TN_I760
+Sirtori_LC_I761
+Sissa_PR_I763
+Siurgus Donigala_CA_I765
+Siziano_PV_E265
+Sizzano_NO_I767
+Sluderno_BZ_I771
+Smarano_TN_I772
+Smerillo_FM_I774
+Soave_VR_I775
+Socchieve_UD_I777
+Sodd�_OR_I778
+Sogliano al Rubicone_FC_I779
+Sogliano Cavour_LE_I780
+Soglio_AT_I781
+Soiano del Lago_BS_I782
+Solagna_VI_I783
+Solarino_SR_I785
+Solaro_MI_I786
+Solarolo_RA_I787
+Solarolo Rainerio_CR_I790
+Solarussa_OR_I791
+Solbiate_CO_I792
+Solbiate Arno_VA_I793
+Solbiate Olona_VA_I794
+Soldano_IM_I796
+Soleminis_CA_I797
+Solero_AL_I798
+Solesino_PD_I799
+Soleto_LE_I800
+Solferino_MN_I801
+Soliera_MO_I802
+Solignano_PR_I803
+Solofra_AV_I805
+Solonghello_AL_I808
+Solopaca_BN_I809
+Solto Collina_BG_I812
+Solza_BG_I813
+Somaglia_LO_I815
+Somano_CN_I817
+Somma Lombardo_VA_I819
+Somma Vesuviana_NA_I820
+Sommacampagna_VR_I821
+Sommariva del Bosco_CN_I822
+Sommariva Perno_CN_I823
+Sommatino_CL_I824
+Sommo_PV_I825
+Sona_VR_I826
+Soncino_CR_I827
+Sondalo_SO_I828
+Sondrio_SO_I829
+Songavazzo_BG_I830
+Sonico_BS_I831
+Sonnino_LT_I832
+Soprana_BI_I835
+Sora_FR_I838
+Soraga_TN_I839
+Soragna_PR_I840
+Sorano_GR_I841
+Sorbo San Basile_CZ_I844
+Sorbo Serpico_AV_I843
+Sorbolo_PR_I845
+Sordevolo_BI_I847
+Sordio_LO_I848
+Soresina_CR_I849
+Sorg�_VR_I850
+Sorgono_NU_I851
+Sori_GE_I852
+Sorianello_VV_I853
+Soriano Calabro_VV_I854
+Soriano nel Cimino_VT_I855
+Sorico_CO_I856
+Soriso_NO_I857
+Sorisole_BG_I858
+Sormano_CO_I860
+Sorradile_OR_I861
+Sorrento_NA_I862
+Sorso_SS_I863
+Sortino_SR_I864
+Sospiro_CR_I865
+Sospirolo_BL_I866
+Sossano_VI_I867
+Sostegno_BI_I868
+Sotto il Monte Giovanni XXIII_BG_I869
+Sover_TN_I871
+Soverato_CZ_I872
+Sovere_BG_I873
+Soveria Mannelli_CZ_I874
+Soveria Simeri_CZ_I875
+Soverzene_BL_I876
+Sovicille_SI_I877
+Sovico_MB_I878
+Sovizzo_VI_I879
+Sovramonte_BL_I673
+Sozzago_NO_I880
+Spadafora_ME_I881
+Spadola_VV_I884
+Sparanise_CE_I885
+Sparone_TO_I886
+Specchia_LE_I887
+Spello_PG_I888
+Spera_TN_I889
+Sperlinga_EN_I891
+Sperlonga_LT_I892
+Sperone_AV_I893
+Spessa_PV_I894
+Spezzano Albanese_CS_I895
+Spezzano della Sila_CS_I896
+Spezzano Piccolo_CS_I898
+Spiazzo_TN_I899
+Spigno Monferrato_AL_I901
+Spigno Saturnia_LT_I902
+Spilamberto_MO_I903
+Spilimbergo_PN_I904
+Spilinga_VV_I905
+Spinadesco_CR_I906
+Spinazzola_BT_I907
+Spinea_VE_I908
+Spineda_CR_I909
+Spinete_CB_I910
+Spineto Scrivia_AL_I911
+Spinetoli_AP_I912
+Spino d'Adda_CR_I914
+Spinone al Lago_BG_I916
+Spinoso_PZ_I917
+Spirano_BG_I919
+Spoleto_PG_I921
+Spoltore_PE_I922
+Spongano_LE_I923
+Spormaggiore_TN_I924
+Sporminore_TN_I925
+Spotorno_SV_I926
+Spresiano_TV_I927
+Spriana_SO_I928
+Squillace_CZ_I929
+Squinzano_LE_I930
+Staffolo_AN_I932
+Stagno Lombardo_CR_I935
+Staiti_RC_I936
+Stalett�_CZ_I937
+Stanghella_PD_I938
+Staranzano_GO_I939
+Statte_TA_M298
+Stazzano_AL_I941
+Stazzema_LU_I942
+Stazzona_CO_I943
+Stefanaconi_VV_I945
+Stella_SV_I946
+Stella Cilento_SA_G887
+Stellanello_SV_I947
+Stelvio_BZ_I948
+Stenico_TN_I949
+Sternatia_LE_I950
+Stezzano_BG_I951
+Stia_AR_I952
+Stienta_RO_I953
+Stigliano_MT_I954
+Stignano_RC_I955
+Stilo_RC_I956
+Stimigliano_RI_I959
+Stintino_SS_M290
+Stio_SA_I960
+Stornara_FG_I962
+Stornarella_FG_I963
+Storo_TN_I964
+Stra_VE_I965
+Stradella_PV_I968
+Strambinello_TO_I969
+Strambino_TO_I970
+Strangolagalli_FR_I973
+Stregna_UD_I974
+Strembo_TN_I975
+Stresa_VB_I976
+Strevi_AL_I977
+Striano_NA_I978
+Strigno_TN_I979
+Strona_BI_I980
+Stroncone_TR_I981
+Strongoli_KR_I982
+Stroppiana_VC_I984
+Stroppo_CN_I985
+Strozza_BG_I986
+Sturno_AV_I990
+Suardi_PV_B014
+Subbiano_AR_I991
+Subiaco_RM_I992
+Succivo_CE_I993
+Sueglio_LC_I994
+Suelli_CA_I995
+Suello_LC_I996
+Suisio_BG_I997
+Sulbiate_MB_I998
+Sulmona_AQ_I804
+Sulzano_BS_L002
+Sumirago_VA_L003
+Summonte_AV_L004
+Suni_OR_L006
+Suno_NO_L007
+Supersano_LE_L008
+Supino_FR_L009
+Surano_LE_L010
+Surbo_LE_L011
+Susa_TO_L013
+Susegana_TV_L014
+Sustinente_MN_L015
+Sutera_CL_L016
+Sutri_VT_L017
+Sutrio_UD_L018
+Suvereto_LI_L019
+Suzzara_MN_L020
+Taceno_LC_L022
+Tadasuni_OR_L023
+Taggia_IM_L024
+Tagliacozzo_AQ_L025
+Taglio di Po_RO_L026
+Tagliolo Monferrato_AL_L027
+Taibon Agordino_BL_L030
+Taino_VA_L032
+Taio_TN_L033
+Taipana_UD_G736
+Talamello_RN_L034
+Talamona_SO_L035
+Talana_OG_L036
+Taleggio_BG_L037
+Talla_AR_L038
+Talmassons_UD_L039
+Tambre_BL_L040
+Taormina_ME_L042
+Tarano_RI_L046
+Taranta Peligna_CH_L047
+Tarantasca_CN_L048
+Taranto_TA_L049
+Tarcento_UD_L050
+Tarquinia_VT_D024
+Tarsia_CS_L055
+Tartano_SO_L056
+Tarvisio_UD_L057
+Tarzo_TV_L058
+Tassarolo_AL_L059
+Tassullo_TN_L060
+Taurano_AV_L061
+Taurasi_AV_L062
+Taurianova_RC_L063
+Taurisano_LE_L064
+Tavagnacco_UD_L065
+Tavagnasco_TO_L066
+Tavarnelle Val di Pesa_FI_L067
+Tavazzano con Villavesco_LO_F260
+Tavenna_CB_L069
+Taverna_CZ_L070
+Tavernerio_CO_L071
+Tavernola Bergamasca_BG_L073
+Tavernole sul Mella_BS_C698
+Taviano_LE_L074
+Tavigliano_BI_L075
+Tavoleto_PU_L078
+Tavullia_PU_L081
+Teana_PZ_L082
+Teano_CE_L083
+Teggiano_SA_D292
+Teglio_SO_L084
+Teglio Veneto_VE_L085
+Telese Terme_BN_L086
+Telgate_BG_L087
+Telti_OT_L088
+Telve_TN_L089
+Telve di Sopra_TN_L090
+Tempio Pausania_OT_L093
+Tem�_BS_L094
+Tenna_TN_L096
+Tenno_TN_L097
+Teolo_PD_L100
+Teor_UD_L101
+Teora_AV_L102
+Teramo_TE_L103
+Terdobbiate_NO_L104
+Terelle_FR_L105
+Terento_BZ_L106
+Terenzo_PR_E548
+Tergu_SS_M282
+Terlago_TN_L107
+Terlano_BZ_L108
+Terlizzi_BA_L109
+Terme Vigliatore_ME_M210
+Termeno sulla Strada del Vino_BZ_L111
+Termini Imerese_PA_L112
+Termoli_CB_L113
+Ternate_VA_L115
+Ternengo_BI_L116
+Terni_TR_L117
+Terno d'Isola_BG_L118
+Terracina_LT_L120
+Terragnolo_TN_L121
+Terralba_OR_L122
+Terranova da Sibari_CS_L124
+Terranova dei Passerini_LO_L125
+Terranova di Pollino_PZ_L126
+Terranova Sappo Minulio_RC_L127
+Terranuova Bracciolini_AR_L123
+Terrasini_PA_L131
+Terrassa Padovana_PD_L132
+Terravecchia_CS_L134
+Terrazzo_VR_L136
+Terres_TN_L137
+Terricciola_PI_L138
+Terruggia_AL_L139
+Tertenia_OG_L140
+Terzigno_NA_L142
+Terzo_AL_L143
+Terzo d'Aquileia_UD_L144
+Terzolas_TN_L145
+Terzorio_IM_L146
+Tesero_TN_L147
+Tesimo_BZ_L149
+Tessennano_VT_L150
+Testico_SV_L152
+Teti_NU_L153
+Teulada_CA_L154
+Teverola_CE_L155
+Tezze sul Brenta_VI_L156
+Thiene_VI_L157
+Thiesi_SS_L158
+Tiana_NU_L160
+Ticengo_CR_L164
+Ticineto_AL_L165
+Tiggiano_LE_L166
+Tiglieto_GE_L167
+Tigliole_AT_L168
+Tignale_BS_L169
+Tinnura_OR_L172
+Tione degli Abruzzi_AQ_L173
+Tione di Trento_TN_L174
+Tirano_SO_L175
+Tires_BZ_L176
+Tiriolo_CZ_L177
+Tirolo_BZ_L178
+Tissi_SS_L180
+Tito_PZ_L181
+Tivoli_RM_L182
+Tizzano Val Parma_PR_L183
+Toano_RE_L184
+Tocco Caudio_BN_L185
+Tocco da Casauria_PE_L186
+Toceno_VB_L187
+Todi_PG_L188
+Toffia_RI_L189
+Toirano_SV_L190
+Tolentino_MC_L191
+Tolfa_RM_L192
+Tollegno_BI_L193
+Tollo_CH_L194
+Tolmezzo_UD_L195
+Tolve_PZ_L197
+Tombolo_PD_L199
+Ton_TN_L200
+Tonadico_TN_L201
+Tonara_NU_L202
+Tonco_AT_L203
+Tonengo_AT_L204
+Tonezza del Cimone_VI_D717
+Tora e Piccilli_CE_L205
+Torano Castello_CS_L206
+Torano Nuovo_TE_L207
+Torbole Casaglia_BS_L210
+Torcegno_TN_L211
+Torchiara_SA_L212
+Torchiarolo_BR_L213
+Torella dei Lombardi_AV_L214
+Torella del Sannio_CB_L215
+Torgiano_PG_L216
+Torgnon_AO_L217
+Torino_TO_L219
+Torino di Sangro_CH_L218
+Toritto_BA_L220
+Torlino Vimercati_CR_L221
+Tornaco_NO_L223
+Tornareccio_CH_L224
+Tornata_CR_L225
+Tornimparte_AQ_L227
+Torno_CO_L228
+Tornolo_PR_L229
+Toro_CB_L230
+Torp�_NU_L231
+Torraca_SA_L233
+Torralba_SS_L235
+Torrazza Coste_PV_L237
+Torrazza Piemonte_TO_L238
+Torrazzo_BI_L239
+Torre Annunziata_NA_L245
+Torre Beretti e Castellaro_PV_L250
+Torre Boldone_BG_L251
+Torre Bormida_CN_L252
+Torre Cajetani_FR_L243
+Torre Canavese_TO_L247
+Torre d'Arese_PV_L256
+Torre de' Busi_LC_L257
+Torre de' Negri_PV_L262
+Torre De' Passeri_PE_L263
+Torre de' Picenardi_CR_L258
+Torre de' Roveri_BG_L265
+Torre del Greco_NA_L259
+Torre di Mosto_VE_L267
+Torre di Ruggiero_CZ_L240
+Torre di Santa Maria_SO_L244
+Torre d'Isola_PV_L269
+Torre Le Nocelle_AV_L272
+Torre Mondov�_CN_L241
+Torre Orsaia_SA_L274
+Torre Pallavicina_BG_L276
+Torre Pellice_TO_L277
+Torre San Giorgio_CN_L278
+Torre San Patrizio_FM_L279
+Torre Santa Susanna_BR_L280
+Torreano_UD_L246
+Torrebelvicino_VI_L248
+Torrebruna_CH_L253
+Torrecuso_BN_L254
+Torreglia_PD_L270
+Torregrotta_ME_L271
+Torremaggiore_FG_L273
+Torrenova_ME_M286
+Torresina_CN_L281
+Torretta_PA_L282
+Torrevecchia Pia_PV_L285
+Torrevecchia Teatina_CH_L284
+Torri del Benaco_VR_L287
+Torri di Quartesolo_VI_L297
+Torri in Sabina_RI_L286
+Torriana_RN_I550
+Torrice_FR_L290
+Torricella_TA_L294
+Torricella del Pizzo_CR_L296
+Torricella in Sabina_RI_L293
+Torricella Peligna_CH_L291
+Torricella Sicura_TE_L295
+Torricella Verzate_PV_L292
+Torriglia_GE_L298
+Torrile_PR_L299
+Torrioni_AV_L301
+Torrita di Siena_SI_L303
+Torrita Tiberina_RM_L302
+Tortol�_OG_A355
+Tortona_AL_L304
+Tortora_CS_L305
+Tortorella_SA_L306
+Tortoreto_TE_L307
+Tortorici_ME_L308
+Torviscosa_UD_L309
+Toscolano-Maderno_BS_L312
+Tossicia_TE_L314
+Tovo di Sant'Agata_SO_L316
+Tovo San Giacomo_SV_L315
+Trabia_PA_L317
+Tradate_VA_L319
+Tramatza_OR_L321
+Trambileno_TN_L322
+Tramonti_SA_L323
+Tramonti di Sopra_PN_L324
+Tramonti di Sotto_PN_L325
+Tramutola_PZ_L326
+Trana_TO_L327
+Trani_BT_L328
+Transacqua_TN_L329
+Traona_SO_L330
+Trapani_TP_L331
+Trappeto_PA_L332
+Trarego Viggiona_VB_L333
+Trasacco_AQ_L334
+Trasaghis_UD_L335
+Trasquera_VB_L336
+Tratalias_CI_L337
+Trausella_TO_L338
+Travac� Siccomario_PV_I236
+Travagliato_BS_L339
+Travedona-Monate_VA_L342
+Traversella_TO_L345
+Traversetolo_PR_L346
+Traves_TO_L340
+Travesio_PN_L347
+Travo_PC_L348
+Trebaseleghe_PD_L349
+Trebisacce_CS_L353
+Trecasali_PR_L354
+Trecase_NA_M280
+Trecastagni_CT_L355
+Trecate_NO_L356
+Trecchina_PZ_L357
+Trecenta_RO_L359
+Tredozio_FC_L361
+Treglio_CH_L363
+Tregnago_VR_L364
+Treia_MC_L366
+Treiso_CN_L367
+Tremenico_LC_L368
+Tremestieri Etneo_CT_L369
+Tremezzo_CO_L371
+Tremosine_BS_L372
+Trenta_CS_L375
+Trentinara_SA_L377
+Trento_TN_L378
+Trentola-Ducenta_CE_L379
+Trenzano_BS_L380
+Treppo Carnico_UD_L381
+Treppo Grande_UD_L382
+Trepuzzi_LE_L383
+Trequanda_SI_L384
+Tres_TN_L385
+Tresana_MS_L386
+Trescore Balneario_BG_L388
+Trescore Cremasco_CR_L389
+Tresigallo_FE_L390
+Tresivio_SO_L392
+Tresnuraghes_OR_L393
+Trevenzuolo_VR_L396
+Trevi_PG_L397
+Trevi nel Lazio_FR_L398
+Trevico_AV_L399
+Treviglio_BG_L400
+Trevignano_TV_L402
+Trevignano Romano_RM_L401
+Treville_AL_L403
+Treviolo_BG_L404
+Treviso_TV_L407
+Treviso Bresciano_BS_L406
+Trezzano Rosa_MI_L408
+Trezzano sul Naviglio_MI_L409
+Trezzo sull'Adda_MI_L411
+Trezzo Tinella_CN_L410
+Trezzone_CO_L413
+Tribano_PD_L414
+Tribiano_MI_L415
+Tribogna_GE_L416
+Tricarico_MT_L418
+Tricase_LE_L419
+Tricerro_VC_L420
+Tricesimo_UD_L421
+Trichiana_BL_L422
+Triei_OG_L423
+Trieste_TS_L424
+Triggiano_BA_L425
+Trigolo_CR_L426
+Trinit�_CN_L427
+Trinit� d'Agultu e Vignola_OT_L428
+Trinitapoli_BT_B915
+Trino_VC_L429
+Triora_IM_L430
+Tripi_ME_L431
+Trisobbio_AL_L432
+Trissino_VI_L433
+Triuggio_MB_L434
+Trivento_CB_L435
+Trivero_BI_L436
+Trivigliano_FR_L437
+Trivignano Udinese_UD_L438
+Trivigno_PZ_L439
+Trivolzio_PV_L440
+Trodena nel parco naturale_BZ_L444
+Trofarello_TO_L445
+Troia_FG_L447
+Troina_EN_L448
+Tromello_PV_L449
+Trontano_VB_L450
+Tronzano Lago Maggiore_VA_A705
+Tronzano Vercellese_VC_L451
+Tropea_VV_L452
+Trovo_PV_L453
+Truccazzano_MI_L454
+Tubre_BZ_L455
+Tuenno_TN_L457
+Tufara_CB_L458
+Tufillo_CH_L459
+Tufino_NA_L460
+Tufo_AV_L461
+Tuglie_LE_L462
+Tuili_VS_L463
+Tula_SS_L464
+Tuoro sul Trasimeno_PG_L466
+Turania_RI_G507
+Turano Lodigiano_LO_L469
+Turate_CO_L470
+Turbigo_MI_L471
+Turi_BA_L472
+Turri_VS_L473
+Turriaco_GO_L474
+Turrivalignani_PE_L475
+Tursi_MT_L477
+Tusa_ME_L478
+Tuscania_VT_L310
+Ubiale Clanezzo_BG_C789
+Uboldo_VA_L480
+Ucria_ME_L482
+Udine_UD_L483
+Ugento_LE_L484
+Uggiano La Chiesa_LE_L485
+Uggiate-Trevano_CO_L487
+Ul� Tirso_OR_L488
+Ulassai_OG_L489
+Ultimo_BZ_L490
+Umbertide_PG_D786
+Umbriatico_KR_L492
+Urago d'Oglio_BS_L494
+Uras_OR_L496
+Urbana_PD_L497
+Urbania_PU_L498
+Urbe_SV_L499
+Urbino_PU_L500
+Urbisaglia_MC_L501
+Urgnano_BG_L502
+Uri_SS_L503
+Ururi_CB_L505
+Urzulei_OG_L506
+Uscio_GE_L507
+Usellus_OR_L508
+Usini_SS_L509
+Usmate Velate_MB_L511
+Ussana_CA_L512
+Ussaramanna_VS_L513
+Ussassai_OG_L514
+Usseaux_TO_L515
+Usseglio_TO_L516
+Ussita_MC_L517
+Ustica_PA_L519
+Uta_CA_L521
+Uzzano_PT_L522
+Vaccarizzo Albanese_CS_L524
+Vacone_RI_L525
+Vacri_CH_L526
+Vadena_BZ_L527
+Vado Ligure_SV_L528
+Vagli Sotto_LU_L533
+Vaglia_FI_L529
+Vaglio Basilicata_PZ_L532
+Vaglio Serra_AT_L531
+Vaiano_PO_L537
+Vaiano Cremasco_CR_L535
+Vaie_TO_L538
+Vailate_CR_L539
+Vairano Patenora_CE_L540
+Vajont_PN_M265
+Val della Torre_TO_L555
+Val di Nizza_PV_L562
+Val di Vizze_BZ_L564
+Val Masino_SO_L638
+Val Rezzo_CO_H259
+Valbondione_BG_L544
+Valbrembo_BG_L545
+Valbrevenna_GE_L546
+Valbrona_CO_L547
+Valda_TN_L550
+Valdagno_VI_L551
+Valdaora_BZ_L552
+Valdastico_VI_L554
+Valdengo_BI_L556
+Valderice_TP_G319
+Valdidentro_SO_L557
+Valdieri_CN_L558
+Valdina_ME_L561
+Valdisotto_SO_L563
+Valdobbiadene_TV_L565
+Valduggia_VC_L566
+Valeggio_PV_L568
+Valeggio sul Mincio_VR_L567
+Valentano_VT_L569
+Valenza_AL_L570
+Valenzano_BA_L571
+Valera Fratta_LO_L572
+Valfabbrica_PG_L573
+Valfenera_AT_L574
+Valfloriana_TN_L575
+Valfurva_SO_L576
+Valganna_VA_L577
+Valgioie_TO_L578
+Valgoglio_BG_L579
+Valgrana_CN_L580
+Valgreghentino_LC_L581
+Valgrisenche_AO_L582
+Valguarnera Caropepe_EN_L583
+Vallada Agordina_BL_L584
+Vallanzengo_BI_L586
+Vallarsa_TN_L588
+Vallata_AV_L589
+Valle Agricola_CE_L594
+Valle Aurina_BZ_L595
+Valle Castellana_TE_L597
+Valle dell'Angelo_SA_G540
+Valle di Cadore_BL_L590
+Valle di Casies_BZ_L601
+Valle di Maddaloni_CE_L591
+Valle Lomellina_PV_L593
+Valle Mosso_BI_L606
+Valle Salimbene_PV_L617
+Valle San Nicolao_BI_L620
+Vallebona_IM_L596
+Vallecorsa_FR_L598
+Vallecrosia_IM_L599
+Valledolmo_PA_L603
+Valledoria_SS_L604
+Vallefiorita_CZ_I322
+Vallelonga_VV_L607
+Vallelunga Pratameno_CL_L609
+Vallemaio_FR_L605
+Vallepietra_RM_L611
+Vallerano_VT_L612
+Vallermosa_CA_L613
+Vallerotonda_FR_L614
+Vallesaccarda_AV_L616
+Valleve_BG_L623
+Valli del Pasubio_VI_L624
+Vallinfreda_RM_L625
+Vallio Terme_BS_L626
+Vallo della Lucania_SA_L628
+Vallo di Nera_PG_L627
+Vallo Torinese_TO_L629
+Valloriate_CN_L631
+Valmacca_AL_L633
+Valmadrera_LC_L634
+Valmala_CN_L636
+Valmontone_RM_L639
+Valmorea_CO_L640
+Valmozzola_PR_L641
+Valnegra_BG_L642
+Valpelline_AO_L643
+Valperga_TO_L644
+Valprato Soana_TO_B510
+Valsavarenche_AO_L647
+Valsecca_BG_L649
+Valsinni_MT_D513
+Valsolda_CO_C936
+Valstagna_VI_L650
+Valstrona_VB_L651
+Valtopina_PG_L653
+Valtorta_BG_L655
+Valtournenche_AO_L654
+Valva_SA_L656
+Valvasone_PN_L657
+Valverde_PV_L659
+Valverde_CT_L658
+Valvestino_BS_L468
+Vandoies_BZ_L660
+Vanzaghello_MI_L664
+Vanzago_MI_L665
+Vanzone con San Carlo_VB_L666
+Vaprio d'Adda_MI_L667
+Vaprio d'Agogna_NO_L668
+Varallo_VC_L669
+Varallo Pombia_NO_L670
+Varano Borghi_VA_L671
+Varano de' Melegari_PR_L672
+Varapodio_RC_L673
+Varazze_SV_L675
+Varco Sabino_RI_L676
+Varedo_MB_L677
+Varena_TN_L678
+Varenna_LC_L680
+Varese_VA_L682
+Varese Ligure_SP_L681
+Varisella_TO_L685
+Varmo_UD_L686
+Varna_BZ_L687
+Varsi_PR_L689
+Varzi_PV_L690
+Varzo_VB_L691
+Vas_BL_L692
+Vasanello_VT_A701
+Vasia_IM_L693
+Vasto_CH_E372
+Vastogirardi_IS_L696
+Vattaro_TN_L697
+Vauda Canavese_TO_L698
+Vazzano_VV_L699
+Vazzola_TV_L700
+Vecchiano_PI_L702
+Vedano al Lambro_MB_L704
+Vedano Olona_VA_L703
+Veddasca_VA_L705
+Vedelago_TV_L706
+Vedeseta_BG_L707
+Veduggio con Colzano_MB_L709
+Veggiano_PD_L710
+Veglie_LE_L711
+Veglio_BI_L712
+Vejano_VT_L713
+Veleso_CO_L715
+Velezzo Lomellina_PV_L716
+Velletri_RM_L719
+Vellezzo Bellini_PV_L720
+Velo d'Astico_VI_L723
+Velo Veronese_VR_L722
+Velturno_BZ_L724
+Venafro_IS_L725
+Venaria Reale_TO_L727
+Venarotta_AP_L728
+Venasca_CN_L729
+Venaus_TO_L726
+Vendone_SV_L730
+Vendrogno_LC_L731
+Venegono Inferiore_VA_L733
+Venegono Superiore_VA_L734
+Venetico_ME_L735
+Venezia_VE_L736
+Veniano_CO_L737
+Venosa_PZ_L738
+Venticano_AV_L739
+Ventimiglia_IM_L741
+Ventimiglia di Sicilia_PA_L740
+Ventotene_LT_L742
+Venzone_UD_L743
+Verano_BZ_L745
+Verano Brianza_MB_L744
+Verbania_VB_L746
+Verbicaro_CS_L747
+Vercana_CO_L748
+Verceia_SO_L749
+Vercelli_VC_L750
+Vercurago_LC_L751
+Verdellino_BG_L752
+Verdello_BG_L753
+Verderio Inferiore_LC_L755
+Verderio Superiore_LC_L756
+Verduno_CN_L758
+Vergato_BO_L762
+Vergemoli_LU_L763
+Verghereto_FC_L764
+Vergiate_VA_L765
+Vermezzo_MI_L768
+Vermiglio_TN_L769
+Vernante_CN_L771
+Vernasca_PC_L772
+Vernate_MI_L773
+Vernazza_SP_L774
+Vernio_PO_L775
+Vernole_LE_L776
+Verolanuova_BS_L777
+Verolavecchia_BS_L778
+Verolengo_TO_L779
+Veroli_FR_L780
+Verona_VR_L781
+Veronella_VR_D193
+Verrayes_AO_L783
+Verr�s_AO_C282
+Verretto_PV_L784
+Verrone_BI_L785
+Verrua Po_PV_L788
+Verrua Savoia_TO_L787
+Vertemate con Minoprio_CO_L792
+Vertova_BG_L795
+Verucchio_RN_L797
+Veruno_NO_L798
+Vervio_SO_L799
+Verv�_TN_L800
+Verzegnis_UD_L801
+Verzino_KR_L802
+Verzuolo_CN_L804
+Vescovana_PD_L805
+Vescovato_CR_L806
+Vesime_AT_L807
+Vespolate_NO_L808
+Vessalico_IM_L809
+Vestenanova_VR_L810
+Vestign�_TO_L811
+Vestone_BS_L812
+Vestreno_LC_L813
+Vetralla_VT_L814
+Vetto_RE_L815
+Vezza d'Alba_CN_L817
+Vezza d'Oglio_BS_L816
+Vezzano_TN_L821
+Vezzano Ligure_SP_L819
+Vezzano sul Crostolo_RE_L820
+Vezzi Portio_SV_L823
+Viadana_MN_L826
+Viadanica_BG_L827
+Viagrande_CT_L828
+Viale_AT_L829
+Vialfr�_TO_L830
+Viano_RE_L831
+Viareggio_LU_L833
+Viarigi_AT_L834
+Vibo Valentia_VV_F537
+Vibonati_SA_L835
+Vicalvi_FR_L836
+Vicari_PA_L837
+Vicchio_FI_L838
+Vicenza_VI_L840
+Vico Canavese_TO_L548
+Vico del Gargano_FG_L842
+Vico Equense_NA_L845
+Vico nel Lazio_FR_L843
+Vicoforte_CN_L841
+Vicoli_PE_L846
+Vicolungo_NO_L847
+Vicopisano_PI_L850
+Vicovaro_RM_L851
+Viddalba_SS_M259
+Vidigulfo_PV_L854
+Vidor_TV_L856
+Vidracco_TO_L857
+Vieste_FG_L858
+Vietri di Potenza_PZ_L859
+Vietri sul Mare_SA_L860
+Viganella_VB_L864
+Vigan�_LC_L866
+Vigano San Martino_BG_L865
+Vigarano Mainarda_FE_L868
+Vigasio_VR_L869
+Vigevano_PV_L872
+Viggianello_PZ_L873
+Viggiano_PZ_L874
+Viggi�_VA_L876
+Vighizzolo d'Este_PD_L878
+Vigliano Biellese_BI_L880
+Vigliano d'Asti_AT_L879
+Vignale Monferrato_AL_L881
+Vignanello_VT_L882
+Vignate_MI_L883
+Vignola_MO_L885
+Vignola-Falesina_TN_L886
+Vignole Borbera_AL_L887
+Vignolo_CN_L888
+Vignone_VB_L889
+Vigo di Cadore_BL_L890
+Vigo di Fassa_TN_L893
+Vigo Rendena_TN_L903
+Vigodarzere_PD_L892
+Vigolo_BG_L894
+Vigolo Vattaro_TN_L896
+Vigolzone_PC_L897
+Vigone_TO_L898
+Vigonovo_VE_L899
+Vigonza_PD_L900
+Viguzzolo_AL_L904
+Villa Agnedo_TN_L910
+Villa Bartolomea_VR_L912
+Villa Basilica_LU_L913
+Villa Biscossi_PV_L917
+Villa Carcina_BS_L919
+Villa Castelli_BR_L920
+Villa Celiera_PE_L922
+Villa Collemandina_LU_L926
+Villa Cortese_MI_L928
+Villa d'Adda_BG_L929
+Villa d'Alm�_BG_A215
+Villa del Bosco_BI_L933
+Villa del Conte_PD_L934
+Villa di Briano_CE_D801
+Villa di Chiavenna_SO_L907
+Villa di Serio_BG_L936
+Villa di Tirano_SO_L908
+Villa d'Ogna_BG_L938
+Villa Estense_PD_L937
+Villa Faraldi_IM_L943
+Villa Guardia_CO_L956
+Villa Lagarina_TN_L957
+Villa Latina_FR_A081
+Villa Literno_CE_L844
+Villa Minozzo_RE_L969
+Villa Poma_MN_F804
+Villa Rendena_TN_M006
+Villa San Giovanni_RC_M018
+Villa San Giovanni in Tuscia_VT_H913
+Villa San Pietro_CA_I118
+Villa San Secondo_AT_M019
+Villa Santa Lucia_FR_L905
+Villa Santa Lucia degli Abruzzi_AQ_M021
+Villa Santa Maria_CH_M022
+Villa Sant'Angelo_AQ_M023
+Villa Sant'Antonio_OR_I298
+Villa Santina_UD_L909
+Villa Santo Stefano_FR_I364
+Villa Verde_OR_A609
+Villa Vicentina_UD_M034
+Villabassa_BZ_L915
+Villabate_PA_L916
+Villachiara_BS_L923
+Villacidro_VS_L924
+Villadeati_AL_L931
+Villadose_RO_L939
+Villadossola_VB_L906
+Villafalletto_CN_L942
+Villafranca d'Asti_AT_L945
+Villafranca di Verona_VR_L949
+Villafranca in Lunigiana_MS_L946
+Villafranca Padovana_PD_L947
+Villafranca Piemonte_TO_L948
+Villafranca Sicula_AG_L944
+Villafranca Tirrena_ME_L950
+Villafrati_PA_L951
+Villaga_VI_L952
+Villagrande Strisaili_OG_L953
+Villalago_AQ_L958
+Villalba_CL_L959
+Villalfonsina_CH_L961
+Villalvernia_AL_L963
+Villamagna_CH_L964
+Villamaina_AV_L965
+Villamar_VS_L966
+Villamarzana_RO_L967
+Villamassargia_CI_L968
+Villamiroglio_AL_L970
+Villandro_BZ_L971
+Villanova Biellese_BI_L978
+Villanova Canavese_TO_L982
+Villanova d'Albenga_SV_L975
+Villanova d'Ardenghi_PV_L983
+Villanova d'Asti_AT_L984
+Villanova del Battista_AV_L973
+Villanova del Ghebbo_RO_L985
+Villanova del Sillaro_LO_L977
+Villanova di Camposampiero_PD_L979
+Villanova Marchesana_RO_L988
+Villanova Mondov�_CN_L974
+Villanova Monferrato_AL_L972
+Villanova Monteleone_SS_L989
+Villanova Solaro_CN_L990
+Villanova sull'Arda_PC_L980
+Villanova Truschedu_OR_L991
+Villanova Tulo_CA_L992
+Villanovaforru_VS_L986
+Villanovafranca_VS_L987
+Villanterio_PV_L994
+Villanuova sul Clisi_BS_L995
+Villaperuccio_CI_M278
+Villapiana_CS_B903
+Villaputzu_CA_L998
+Villar Dora_TO_L999
+Villar Focchiardo_TO_M007
+Villar Pellice_TO_M013
+Villar Perosa_TO_M014
+Villar San Costanzo_CN_M015
+Villarbasse_TO_M002
+Villarboit_VC_M003
+Villareggia_TO_M004
+Villaricca_NA_G309
+Villaromagnano_AL_M009
+Villarosa_EN_M011
+Villasalto_CA_M016
+Villasanta_MB_M017
+Villasimius_CA_B738
+Villasor_CA_M025
+Villaspeciosa_CA_M026
+Villastellone_TO_M027
+Villata_VC_M028
+Villaurbana_OR_M030
+Villavallelonga_AQ_M031
+Villaverla_VI_M032
+Villeneuve_AO_L981
+Villesse_GO_M043
+Villetta Barrea_AQ_M041
+Villette_VB_M042
+Villimpenta_MN_M044
+Villongo_BG_M045
+Villorba_TV_M048
+Vilminore di Scalve_BG_M050
+Vimercate_MB_M052
+Vimodrone_MI_M053
+Vinadio_CN_M055
+Vinchiaturo_CB_M057
+Vinchio_AT_M058
+Vinci_FI_M059
+Vinovo_TO_M060
+Vinzaglio_NO_M062
+Viola_CN_M063
+Vione_BS_M065
+Vipiteno_BZ_M067
+Virgilio_MN_H123
+Virle Piemonte_TO_M069
+Visano_BS_M070
+Vische_TO_M071
+Visciano_NA_M072
+Visco_UD_M073
+Visone_AL_M077
+Visso_MC_M078
+Vistarino_PV_M079
+Vistrorio_TO_M080
+Vita_TP_M081
+Viterbo_VT_M082
+Viticuso_FR_M083
+Vito d'Asio_PN_M085
+Vitorchiano_VT_M086
+Vittoria_RG_M088
+Vittorio Veneto_TV_M089
+Vittorito_AQ_M090
+Vittuone_MI_M091
+Vitulano_BN_M093
+Vitulazio_CE_M092
+Vi�_TO_M094
+Vivaro_PN_M096
+Vivaro Romano_RM_M095
+Viverone_BI_M098
+Vizzini_CT_M100
+Vizzola Ticino_VA_M101
+Vizzolo Predabissi_MI_M102
+Vo'_PD_M103
+Vobarno_BS_M104
+Vobbia_GE_M105
+Vocca_VC_M106
+Vodo Cadore_BL_M108
+Voghera_PV_M109
+Voghiera_FE_M110
+Vogogna_VB_M111
+Volano_TN_M113
+Volla_NA_M115
+Volongo_CR_M116
+Volpago del Montello_TV_M118
+Volpara_PV_M119
+Volpedo_AL_M120
+Volpeglino_AL_M121
+Volpiano_TO_M122
+Volta Mantovana_MN_M125
+Voltaggio_AL_M123
+Voltago Agordino_BL_M124
+Volterra_PI_M126
+Voltido_CR_M127
+Volturara Appula_FG_M131
+Volturara Irpina_AV_M130
+Volturino_FG_M132
+Volvera_TO_M133
+Vottignasco_CN_M136
+Zaccanopoli_VV_M138
+Zafferana Etnea_CT_M139
+Zagarise_CZ_M140
+Zagarolo_RM_M141
+Zambana_TN_M142
+Zambrone_VV_M143
+Zandobbio_BG_M144
+Zan�_VI_M145
+Zanica_BG_M147
+Zapponeta_FG_M267
+Zavattarello_PV_M150
+Zeccone_PV_M152
+Zeddiani_OR_M153
+Zelbio_CO_M156
+Zelo Buon Persico_LO_M158
+Zelo Surrigone_MI_M160
+Zeme_PV_M161
+Zenevredo_PV_M162
+Zenson di Piave_TV_M163
+Zerba_PC_M165
+Zerbo_PV_M166
+Zerbol�_PV_M167
+Zerfaliu_OR_M168
+Zeri_MS_M169
+Zermeghedo_VI_M170
+Zero Branco_TV_M171
+Zevio_VR_M172
+Ziano di Fiemme_TN_M173
+Ziano Piacentino_PC_L848
+Zibello_PR_M174
+Zibido San Giacomo_MI_M176
+Zignago_SP_M177
+Zimella_VR_M178
+Zimone_BI_M179
+Zinasco_PV_M180
+Zoagli_GE_M182
+Zocca_MO_M183
+Zogno_BG_M184
+Zola Predosa_BO_M185
+Zoldo Alto_BL_I345
+Zollino_LE_M187
+Zone_BS_M188
+Zopp� di Cadore_BL_M189
+Zoppola_PN_M190
+Zovencedo_VI_M194
+Zubiena_BI_M196
+Zuccarello_SV_M197
+Zuclo_TN_M198
+Zugliano_VI_M199
+Zuglio_UD_M200
+Zumaglia_BI_M201
+Zumpano_CS_M202
+Zungoli_AV_M203
+Zungri_VV_M204
