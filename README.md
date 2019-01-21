@@ -40,7 +40,7 @@ Qui trovi la lista dei contributori [contributors](https://github.com/vincenzopa
 
 ## License
 
-Il proggetto è sotto una licenza GPL v3 - guarda [LICENSE.md](https://github.com/vincenzopalazzo/my-code/blob/master/LICENSE)
+Il progetto è sotto una licenza GPL v3 - guarda [LICENSE.md](https://github.com/vincenzopalazzo/my-code/blob/master/LICENSE)
 
 ## Screenshot
 
