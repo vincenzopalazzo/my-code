@@ -20,7 +20,7 @@ I Test non sono importati perchè abbiamo usato persone reali per il testing del
 
 * [Maven](https://maven.apache.org/) - Sistema di costruzione del codice e gestore delle dipendenze
 * [ControlsFX](https://bitbucket.org/controlsfx/controlsfx/src/default/) - Framework per la semplificazione dell'invio delle notifiche all'utente.
-* [JFoenix](https://github.com/jfoenixadmin/JFoenix) - framework per l'importo dei componenti che supportano il thema material
+* [JFoenix](https://github.com/jfoenixadmin/JFoenix) - framework per l'importo dei componenti che supportano il tema material
 * [GSon](https://github.com/google/gson) - framework per la gestione della persistenza in json
 * [JFXToast](https://github.com/vincenzopalazzo/JFXToast) - framework per l'aggiunta del supporto del componente Toast di android
 * [Logback](https://github.com/qos-ch/logback) - framework per logging
