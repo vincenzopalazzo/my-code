@@ -5,8 +5,8 @@
 
 ## Getting Started
 
-Momentaneamente per usare questo progetto bisogna importarlo su un ide di sviluppo e usare i tool di sviluppo per javafx.
-Il progetto è facilmente importabile perchè è utilizzabile attraverso maven
+Abbiamo rilasciato una versione eseguibile solo per OS UNIX likes, stiamo lavorando su installer per ogni OS
+Per verificare se l'applicazione è eseguibile usando un IDE leggi lo status infondo al readme
 
 ### Installing
 
