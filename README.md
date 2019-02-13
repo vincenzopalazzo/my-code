@@ -5,7 +5,7 @@
 
 ## Getting Started
 
-Abbiamo rilasciato una versione eseguibile solo per OS UNIX likes, stiamo lavorando su installer per ogni OS
+Abbiamo rilasciato una versione eseguibile solo per OS UNIX likes, stiamo lavorando su installer per ogni OS.
 Per verificare se l'applicazione è eseguibile usando un IDE leggi lo status infondo al readme
 
 ### Installing
