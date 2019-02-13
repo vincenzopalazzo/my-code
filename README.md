@@ -45,3 +45,15 @@ Il progetto è sotto una licenza GPL v3 - guarda [LICENSE.md](https://github.com
 ## Screenshot
 
 ![screenshot](https://github.com/vincenzopalazzo/my-code/blob/master/screenshot/Selection_017.png)
+
+## Status
+[![Runnable Status](https://img.shields.io/badge/MyCode-status-red.svg)]() 
+
+L'ultimo commit dell'applicazione apporta adeguamenti alla filosofia del framework javafx (notevole refactoring su tutta la generazione della grafica),
+è una versione non funzionante ci sono problemi che vengono riportati nel file todo.txt
+Come presentato nel file il prossimo aggiornamento apportera un notevole refactoring nella parte del codice che riguarda l'avvio dell'applicazione
+per il momento l'applicazione riporta eccezioni sparse (questo è molto male lo sappiamo), salvo altri eventuali priblemi verranno rilasciate anche 
+gli installer ufficiali
+
+## Version Stable
+[![Runnable Status](https://img.shields.io/badge/Installer-stable-green.svg)](https://github.com/vincenzopalazzo/my-code/releases/tag/V0.6) 
