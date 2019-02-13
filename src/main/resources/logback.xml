@@ -5,13 +5,14 @@
     </encoder>
   </appender>
 
-  <root level="info">
+  <root level="debug">
     <appender-ref ref="STDOUT" />
   </root>
   
   <logger name="it.unibas.codicefiscale.modello" level="info"/>
   <logger name="it.unibas.codicefiscale.modello.CodiceFiscale" level="info"/>
-  <logger name="it.unibas.codicefiscale.controllo" level="info"/>
+  <logger name="it.unibas.codicefiscale.controllo" level="debug"/>
   <logger name="it.unibas.codicefiscale.persistenza" level="info"/>  
-  <logger name="it.unibas.codicefiscale.vista" level="info"/>
+  <logger name="it.unibas.codicefiscale.vista" level="debug"/>
+    <logger name="it.unibas.codicefiscale" level="debug"/>
 </configuration>

@@ -22,6 +22,7 @@
 package it.unibas.codicefiscale.vista;
 
 import it.unibas.codicefiscale.Constanti;
+import it.unibas.codicefiscale.GestoreApp;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Scene;
 import javafx.scene.layout.AnchorPane;
@@ -31,30 +32,30 @@ import javafx.stage.Stage;
 import java.io.FileInputStream;
 
 /**
- * 
  * @author https://github.com/vincenzopalazzo
  */
 public class PannelloCopyright {
-    
+
     private Stage stage;
-    
-    public void init(){
-	FXMLLoader load = new FXMLLoader();
-	AnchorPane dialog = new AnchorPane();
-	try {
-	    dialog = load.load(System.class.getResourceAsStream(Constanti.PANNELLO_COPYRIGHT));
-	} catch (Exception e) {
-	    e.printStackTrace();
-	}
-	stage = new Stage();
-	Scene scene = new Scene(dialog);
-	stage.setScene(scene);
+
+    public void init() {
+        FXMLLoader load = new FXMLLoader();
+        AnchorPane dialog = new AnchorPane();
+        try {
+            dialog = load.load(System.class.getResourceAsStream(Constanti.PANNELLO_COPYRIGHT));
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+        stage = new Stage();
+        Scene scene = new Scene(dialog);
+        stage.setScene(scene);
     }
-    
-    public void visualizza(){
-	//Lo stage diventa modale quando  lo stage padre è nello stato di shoAndWait
-	stage.initModality(Modality.APPLICATION_MODAL);
-	stage.showAndWait();
+
+    public void visualizza() {
+        //Lo stage diventa modale quando  lo stage padre è nello stato di shoAndWait
+        stage.initModality(Modality.APPLICATION_MODAL);
+        stage.showAndWait();
+        stage.initOwner(GestoreApp.getIstance().getPrimaryStage());
     }
 
 }

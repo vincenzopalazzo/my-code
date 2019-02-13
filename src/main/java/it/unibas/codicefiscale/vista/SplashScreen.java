@@ -21,12 +21,14 @@
  */
 package it.unibas.codicefiscale.vista;
 
-import com.jfoenix.concurrency.JFXUtilities;
-import it.unibas.codicefiscale.Applicazione;
 import it.unibas.codicefiscale.Constanti;
+import it.unibas.codicefiscale.GestoreApp;
+import javafx.application.Platform;
+import javafx.concurrent.Task;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
 import javafx.scene.Scene;
+import javafx.scene.layout.BorderPane;
 import javafx.scene.layout.Pane;
 import javafx.scene.paint.Color;
 import javafx.stage.Stage;
@@ -34,65 +36,53 @@ import javafx.stage.StageStyle;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import java.io.FileInputStream;
-
 /**
- * 
  * @author https://github.com/vincenzopalazzo
  */
-public class SplashScreen{
-    
+public class SplashScreen {
+
     private static final Logger LOGGER = LoggerFactory.getLogger(SplashScreen.class);
-    
-    private Stage stage = new Stage();
-    
+
+    private Stage stage;
+    private Parent splash;
+
+    public SplashScreen() {
+        stage = new Stage();
+    }
+
     public void init(){
-	load();
-	startThread();
+        load();
+    }
+
+
+    public void kill() {
+        LOGGER.debug("Sto nascondendo lo spalsh screen");
+        stage.hide();
     }
     
-    public void kill(){
-	stage.hide();
+    public void create(){
+        stage.show();
     }
-    
-    public void load(){
-	FXMLLoader load = new FXMLLoader();
-	Parent splash = new Pane();
-	try {
-	    splash = load.load(System.class.getResourceAsStream(Constanti.PANNELLO_SPLASH_SCREEN));
-	} catch (Exception e) {
-	    e.printStackTrace();
-	    LOGGER.error("Si e' verificato un errrore del tipo: " + e.getLocalizedMessage());
-	}
+
+    public void load() {
+        FXMLLoader load = new FXMLLoader();
+        try {
+            splash = load.load(System.class.getResourceAsStream(Constanti.PANNELLO_SPLASH_SCREEN));
+        } catch (Exception e) {
+            e.printStackTrace();
+            LOGGER.error("Si e' verificato un errrore del tipo: " + e.getLocalizedMessage());
+        }
         splash.setStyle("-fx-background-color: rgba(0, 100, 100, 0.5); -fx-background-radius: 10;");
-	stage = new Stage();
-	stage.setScene(new Scene(splash, Color.TRANSPARENT));
-	stage.initStyle(StageStyle.TRANSPARENT);
-	stage.show();
+        Scene sceneTrasparent = new Scene(splash, Color.TRANSPARENT);
+        stage.setScene(sceneTrasparent);
+        stage.initStyle(StageStyle.TRANSPARENT);
+        create();
+        GestoreApp.getIstance().getEventMedietor().runEvent(Constanti.CONFIGURA_EVENTO);
     }
-    
-    private void startThread(){
-	Runnable close = new Runnable() {
-	    @Override
-	    public void run() {
-		stage.hide();
-		Applicazione.getIstance().start(new Stage());
-	    }
-	};
-	Thread run = new Thread(new Runnable() {
-	    @Override
-	    public void run() {
-		try {
-		    LOGGER.debug("iniza attesa");
-		    Thread.sleep(3000); // leep di 5 secondi
-		    JFXUtilities.runInFX(close);
-		    LOGGER.debug("fine attesa");
-		} catch (InterruptedException ex) {
-		    LOGGER.error("Si e' verificato un errore con la gestione del thread, errore del tipo: " + ex.getLocalizedMessage());
-		}
-	    }
-	});
-	run.start();
-    }
+
+
+
+
+
 
 }

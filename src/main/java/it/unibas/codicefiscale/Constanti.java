@@ -53,6 +53,7 @@ public class Constanti {
 
     public static final String[] VOLCALI_ALFABETO = {"A", "E", "I", "O", "U"};
 
+
     //FILE DI CONFIGURAZIONE VISTE
     private static final String PERCORSO_PRINCIPALE_FORM = "/form/";
     public static final String PANNELLO_COPYRIGHT = PERCORSO_PRINCIPALE_FORM + "pannelloCopyright.fxml";
@@ -98,14 +99,17 @@ public class Constanti {
     public static final String ICONA_SETTING = PERCORSO_PRINCIPALE_ICON + "setting.png";
     public static final String ICONA_CONFERMA_NOTIFICA = PERCORSO_PRINCIPALE_ICON + "conferma.png";
     public static final String ICONA_LICENSE = PERCORSO_PRINCIPALE_ICON + "copyright.png";
-    
+
     //CICLO DI VITA APPLIZAZIONE
     public static final String VISUALIZZA_FEED = "VISUALIZZA_FEED";
+    public static final String PROGRESS_BAR = "PROGRESS_BAR";
+    public static final String VALORE_PROGRESS_BAR = "VALORE_PROGRESS_BAR";
+
     //TODO questo deve essere modificato i setting devono essere in maniera separata dall'applicazione oppure 
     //dare la possibilita di scegliere
     private static final String PERCORSO_ESECUZIONE_JAR = System.getProperty("user.dir");
-    public static final String PERCORSO_SETTING = PERCORSO_ESECUZIONE_JAR + "/core/dati/setting.json";
-    public static final String NOMEFILE = PERCORSO_ESECUZIONE_JAR + "/core/dati/listaComuni.txt";
+    public static final String PERCORSO_SETTING = PERCORSO_ESECUZIONE_JAR + "/dati/setting.json";
+    public static final String NOMEFILE = PERCORSO_ESECUZIONE_JAR + "/dati/listaComuni.txt";
     public static final String AVATAR_SCELTO = "AVATAR_SCELTO";
     public static final String ABILITA_MODIFICHE = "ABILITA_MODIFICHE";
     public static final String SETTING = "SETTING";
@@ -120,5 +124,8 @@ public class Constanti {
             "usiamo una form di google dove ti poniamo un po di domante se per te va bene puoi cliccare sul bottone" +
             " FORM. Altrimenti puoi non ricevere più questa notifica e se vuoi lasciare il feed sull'applicazione in " +
             "un secondo monento puoi trovare il modo nel pannello di setting";
-    
+
+    //EVENTI
+    public static final String CARICA_ARCHIVIO_EVENTO = "CARICA_ARCHIVIO_EVENTO";
+    public static final String CONFIGURA_EVENTO = "CONFIGURA_EVENTO";
 }

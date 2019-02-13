@@ -25,6 +25,8 @@ import com.jfoenix.controls.JFXTextArea;
 import it.unibas.codicefiscale.Applicazione;
 import java.net.URL;
 import java.util.ResourceBundle;
+
+import it.unibas.codicefiscale.GestoreApp;
 import javafx.fxml.FXML;
 import javafx.fxml.Initializable;
 
@@ -40,7 +42,7 @@ public class PannelloLicenseController implements Initializable {
     @Override
     public void initialize(URL url, ResourceBundle rb) {
         textLicense.setStyle("-fx-text-inner-color: white;");
-        textLicense.setText(Applicazione.getIstance().getLicense().getLicenze());
+        textLicense.setText(GestoreApp.getIstance().getLicense().getLicenze());
     }    
     
 }

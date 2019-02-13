@@ -24,8 +24,11 @@ package it.unibas.codicefiscale.controllo;
 import com.jfoenix.controls.JFXTextArea;
 import it.unibas.codicefiscale.Applicazione;
 import it.unibas.codicefiscale.Constanti;
+
 import java.net.URL;
 import java.util.ResourceBundle;
+
+import it.unibas.codicefiscale.GestoreApp;
 import javafx.fxml.FXML;
 import javafx.fxml.Initializable;
 import javafx.scene.control.Separator;
@@ -36,7 +39,6 @@ import javafx.scene.layout.AnchorPane;
 import top.gigabox.components.JFXToast;
 
 /**
- *
  * @author https://github.com/vincenzopalazzo
  */
 public class InfoAutoriController implements Initializable {
@@ -59,25 +61,26 @@ public class InfoAutoriController implements Initializable {
      */
     @Override
     public void initialize(URL url, ResourceBundle rb) {
-	settingIniziale();
-	settaImagini();
-    }    
-    
-    private void settaImagini(){
-	vincenzoAvatar.setImage(new Image(Constanti.AVATAR_VINZ));
-	stafnoAvatar.setImage(new Image(Constanti.AVATAR_VINZ));
+        settingIniziale();
+        settaImagini();
     }
-    
-    private void settingIniziale(){
-	corniceInfo.setVisible(true);
+
+    private void settaImagini() {
+        vincenzoAvatar.setImage(new Image(Constanti.AVATAR_VINZ));
+        stafnoAvatar.setImage(new Image(Constanti.AVATAR_VINZ));
+    }
+
+    private void settingIniziale() {
+        corniceInfo.setVisible(true);
     }
 
     @FXML
-    private void visualizzaInfoVincenzo(MouseEvent mouseEvent){
-        JFXToast.makeText(Applicazione.getIstance().getPrimaryStage(), "Funzione ancora non implementata");
+    private void visualizzaInfoVincenzo(MouseEvent mouseEvent) {
+        JFXToast.makeText(GestoreApp.getIstance().getPrimaryStage(), "Funzione ancora non implementata");
     }
+
     @FXML
-    private void visualizzaInfoStefano(MouseEvent mouseEvent){
-        JFXToast.makeText(Applicazione.getIstance().getPrimaryStage(), "Funzione ancora non implementata");
+    private void visualizzaInfoStefano(MouseEvent mouseEvent) {
+        JFXToast.makeText(GestoreApp.getIstance().getPrimaryStage(), "Funzione ancora non implementata");
     }
 }

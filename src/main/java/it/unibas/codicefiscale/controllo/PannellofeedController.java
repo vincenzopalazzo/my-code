@@ -28,6 +28,7 @@ import com.sun.deploy.uitoolkit.impl.fx.HostServicesFactory;
 import com.sun.javafx.application.HostServicesDelegate;
 import it.unibas.codicefiscale.Applicazione;
 import it.unibas.codicefiscale.Constanti;
+import it.unibas.codicefiscale.GestoreApp;
 import it.unibas.codicefiscale.modello.Setting;
 import it.unibas.codicefiscale.persistenza.DAOException;
 
@@ -69,25 +70,25 @@ public class PannellofeedController implements Initializable {
     private void chiudiScermataFeed(MouseEvent event) {
         event.consume();
         if (checkNonMosytrarePiu.isSelected()) {
-            Applicazione.getIstance().getModello().putBean(Constanti.VISUALIZZA_FEED, false);
-            Setting setting = Applicazione.getIstance().getSetting();
+            GestoreApp.getIstance().getModello().putBean(Constanti.VISUALIZZA_FEED, false);
+            Setting setting = GestoreApp.getIstance().getSetting();
             setting.setMostrarePannelloFeed(false);
             try {
-                Applicazione.getIstance().getdAOGenericoJson().salva(setting, Constanti.PERCORSO_SETTING);
+                GestoreApp.getIstance().getdAOGenericoJson().salva(setting, Constanti.PERCORSO_SETTING);
             } catch (DAOException ex) {
                 LOGGER.error("Si e' verificato un errore del tipo: " + ex.getLocalizedMessage());
             }
-            Applicazione.getIstance().getPannelloFeed().getStage().hide();
-            Applicazione.getIstance().getPannelloFeed().getStage().close();
+            GestoreApp.getIstance().getPannelloFeed().getStage().hide();
+            GestoreApp.getIstance().getPannelloFeed().getStage().close();
             return;
         }
-        Applicazione.getIstance().getModello().putBean(Constanti.VISUALIZZA_FEED, true);
-        Applicazione.getIstance().getPannelloFeed().getStage().close();
+        GestoreApp.getIstance().getModello().putBean(Constanti.VISUALIZZA_FEED, true);
+        GestoreApp.getIstance().getPannelloFeed().getStage().close();
     }
 
     @FXML
     private void visualizzaForm(MouseEvent mouseEvent) {
-        HostServicesDelegate hostServices = HostServicesFactory.getInstance(Applicazione.getIstance());
+        HostServicesDelegate hostServices = HostServicesFactory.getInstance(GestoreApp.getIstance().getApp());
         hostServices.showDocument(Constanti.FORM_GOOGLE_FEDD);
         chiudiScermataFeed(mouseEvent);
     }

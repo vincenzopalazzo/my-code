@@ -32,7 +32,6 @@ import org.slf4j.LoggerFactory;
 import java.io.FileInputStream;
 
 /**
- *
  * @author https://github.com/vincenzopalazzo
  */
 public class VistaPrincipale {
@@ -40,33 +39,33 @@ public class VistaPrincipale {
     private static final Logger LOGGER = LoggerFactory.getLogger(VistaPrincipale.class);
 
     private Parent root = new BorderPane();
-    
+
     public Parent getRoot() {
-	return root;
+        return root;
     }
-    
-    public void load(){
-	FXMLLoader load = new FXMLLoader();
-	try {
-	    root = load.load(System.class.getResourceAsStream(Constanti.PANNELLO_VISTA_PRINCIPALE));
-	} catch (Exception ex) {
-	    ex.printStackTrace();
-	}
+
+    public void load() {
+        FXMLLoader load = new FXMLLoader();
+        try {
+            root = load.load(System.class.getResourceAsStream(Constanti.PANNELLO_VISTA_PRINCIPALE));
+        } catch (Exception ex) {
+            ex.printStackTrace();
+        }
     }
-    
+
     //TODO cercare l'equivalente in material themes javafx
     public void visualizzaMessaggio(String messaggio, boolean errore) {
-	if (errore) {
-	    Alert alert = new Alert(Alert.AlertType.ERROR);
-	    alert.setTitle("Errore");
-	    alert.setContentText(messaggio);
-	    alert.show();
-	    return;
-	}
-	Alert alert = new Alert(Alert.AlertType.INFORMATION);
-	alert.setTitle("INFO");
-	alert.setContentText(messaggio);
-	alert.show();
+        if (errore) {
+            Alert alert = new Alert(Alert.AlertType.ERROR);
+            alert.setTitle("Errore");
+            alert.setContentText(messaggio);
+            alert.show();
+            return;
+        }
+        Alert alert = new Alert(Alert.AlertType.INFORMATION);
+        alert.setTitle("INFO");
+        alert.setContentText(messaggio);
+        alert.show();
     }
 
 }

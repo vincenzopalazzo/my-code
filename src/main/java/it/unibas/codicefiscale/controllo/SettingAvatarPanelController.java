@@ -25,6 +25,8 @@ import it.unibas.codicefiscale.Applicazione;
 import it.unibas.codicefiscale.Constanti;
 import java.net.URL;
 import java.util.ResourceBundle;
+
+import it.unibas.codicefiscale.GestoreApp;
 import javafx.fxml.FXML;
 import javafx.fxml.Initializable;
 import javafx.scene.image.Image;
@@ -86,15 +88,15 @@ public class SettingAvatarPanelController implements Initializable {
 
     @FXML
     private void chiudiPannelloSettingAvatar(MouseEvent event) {
-        Applicazione.getIstance().getPannelloSettingAvatar().getStageSetting().close();
+        GestoreApp.getIstance().getPannelloSettingAvatar().getStageSetting().close();
     }
 
     @FXML
     private void segliAvatarUno(MouseEvent event) {
         if (spazioAvatarUno.getImage() != null) {
             LOGGER.debug("carico un avatar");
-            Applicazione.getIstance().getModello().putBean(Constanti.AVATAR_SCELTO, Constanti.ICON_AVATAR_UNO);
-            Applicazione.getIstance().getPannelloSettingAvatar().getStageSetting().close();
+            GestoreApp.getIstance().getModello().putBean(Constanti.AVATAR_SCELTO, Constanti.ICON_AVATAR_UNO);
+            GestoreApp.getIstance().getPannelloSettingAvatar().getStageSetting().close();
         }
     }
 
@@ -102,8 +104,8 @@ public class SettingAvatarPanelController implements Initializable {
     private void segliAvatarDue(MouseEvent event) {
         if (spazioAvatarDue.getImage() != null) {
              LOGGER.debug("carico un avatar");
-            Applicazione.getIstance().getModello().putBean(Constanti.AVATAR_SCELTO, Constanti.ICON_AVATAR_DUE);
-            Applicazione.getIstance().getPannelloSettingAvatar().getStageSetting().close();
+            GestoreApp.getIstance().getModello().putBean(Constanti.AVATAR_SCELTO, Constanti.ICON_AVATAR_DUE);
+            GestoreApp.getIstance().getPannelloSettingAvatar().getStageSetting().close();
         }
     }
 
@@ -111,8 +113,8 @@ public class SettingAvatarPanelController implements Initializable {
     private void segliAvatarTre(MouseEvent event) {
         if (spazioAvatarTre.getImage() != null) {
             LOGGER.debug("carico un avatar");
-            Applicazione.getIstance().getModello().putBean(Constanti.AVATAR_SCELTO, Constanti.ICON_AVATAR_TRE);
-            Applicazione.getIstance().getPannelloSettingAvatar().getStageSetting().close();
+            GestoreApp.getIstance().getModello().putBean(Constanti.AVATAR_SCELTO, Constanti.ICON_AVATAR_TRE);
+            GestoreApp.getIstance().getPannelloSettingAvatar().getStageSetting().close();
         }
     }
 
@@ -120,8 +122,8 @@ public class SettingAvatarPanelController implements Initializable {
     private void segliAvatarQuattro(MouseEvent event) {
         if (spazioAvatarQuattro.getImage() != null) {
              LOGGER.debug("carico un avatar");
-            Applicazione.getIstance().getModello().putBean(Constanti.AVATAR_SCELTO, Constanti.ICON_AVATAR_QUATTRO);
-            Applicazione.getIstance().getPannelloSettingAvatar().getStageSetting().close();
+            GestoreApp.getIstance().getModello().putBean(Constanti.AVATAR_SCELTO, Constanti.ICON_AVATAR_QUATTRO);
+            GestoreApp.getIstance().getPannelloSettingAvatar().getStageSetting().close();
         }
     }
 
@@ -129,8 +131,8 @@ public class SettingAvatarPanelController implements Initializable {
     private void segliAvatarCinque(MouseEvent event) {
         if (spazioAvatarCinque.getImage() != null) {
              LOGGER.debug("carico un avatar");
-            Applicazione.getIstance().getModello().putBean(Constanti.AVATAR_SCELTO, Constanti.ICON_AVATAR_CINQUE);
-            Applicazione.getIstance().getPannelloSettingAvatar().getStageSetting().close();
+            GestoreApp.getIstance().getModello().putBean(Constanti.AVATAR_SCELTO, Constanti.ICON_AVATAR_CINQUE);
+            GestoreApp.getIstance().getPannelloSettingAvatar().getStageSetting().close();
         }
     }
 
@@ -138,8 +140,8 @@ public class SettingAvatarPanelController implements Initializable {
     private void segliAvatarSei(MouseEvent event) {
         if (spazioAvatarSei.getImage() != null) {
              LOGGER.debug("carico un avatar");
-            Applicazione.getIstance().getModello().putBean(Constanti.AVATAR_SCELTO, Constanti.ICON_AVATAR_SEI);
-            Applicazione.getIstance().getPannelloSettingAvatar().getStageSetting().close();
+            GestoreApp.getIstance().getModello().putBean(Constanti.AVATAR_SCELTO, Constanti.ICON_AVATAR_SEI);
+            GestoreApp.getIstance().getPannelloSettingAvatar().getStageSetting().close();
         }
     }
 
@@ -147,8 +149,8 @@ public class SettingAvatarPanelController implements Initializable {
     private void segliAvatarSette(MouseEvent event) {
         if (spazioAvatarSette.getImage() != null) {
              LOGGER.debug("carico un avatar");
-            Applicazione.getIstance().getModello().putBean(Constanti.AVATAR_SCELTO, Constanti.ICON_AVATAR_SETTE);
-            Applicazione.getIstance().getPannelloSettingAvatar().getStageSetting().close();
+            GestoreApp.getIstance().getModello().putBean(Constanti.AVATAR_SCELTO, Constanti.ICON_AVATAR_SETTE);
+            GestoreApp.getIstance().getPannelloSettingAvatar().getStageSetting().close();
         }
     }
 
@@ -156,8 +158,8 @@ public class SettingAvatarPanelController implements Initializable {
     private void segliAvatarOtto(MouseEvent event) {
         if (spazioAvatarOtto.getImage() != null) {
              LOGGER.debug("carico un avatar");
-            Applicazione.getIstance().getModello().putBean(Constanti.AVATAR_SCELTO, Constanti.ICON_AVATAR_OTTO);
-            Applicazione.getIstance().getPannelloSettingAvatar().getStageSetting().close();
+            GestoreApp.getIstance().getModello().putBean(Constanti.AVATAR_SCELTO, Constanti.ICON_AVATAR_OTTO);
+            GestoreApp.getIstance().getPannelloSettingAvatar().getStageSetting().close();
         }
     }
 

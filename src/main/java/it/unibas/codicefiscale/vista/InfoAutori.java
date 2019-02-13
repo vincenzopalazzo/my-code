@@ -22,6 +22,7 @@
 package it.unibas.codicefiscale.vista;
 
 import it.unibas.codicefiscale.Constanti;
+import it.unibas.codicefiscale.GestoreApp;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
 import javafx.scene.Scene;
@@ -34,35 +35,34 @@ import org.slf4j.LoggerFactory;
 import java.io.FileInputStream;
 
 /**
- * 
  * @author https://github.com/vincenzopalazzo
  */
 public class InfoAutori {
 
     private static final Logger LOGGER = LoggerFactory.getLogger(InfoAutori.class);
-    
+
     private Stage stage;
-    
-    public void init(){
-	FXMLLoader load = new FXMLLoader();
-	Parent root = new AnchorPane();
-	try {
-	    root = load.load(System.class.getResourceAsStream(Constanti.PANNELLO_INFO_AUTORI));
-	} catch (Exception e) {
-	    LOGGER.error("Si e' verificato un errore del tipo: " + e.getLocalizedMessage());
-	    e.printStackTrace();
-	}
-	stage = new Stage();
-	Scene scene = new Scene(root);
-	stage.setScene(scene);
-	stage.setResizable(false);
+
+    public void init() {
+        FXMLLoader load = new FXMLLoader();
+        Parent root = new AnchorPane();
+        try {
+            root = load.load(System.class.getResourceAsStream(Constanti.PANNELLO_INFO_AUTORI));
+        } catch (Exception e) {
+            LOGGER.error("Si e' verificato un errore del tipo: " + e.getLocalizedMessage());
+            e.printStackTrace();
+        }
+        stage = new Stage();
+        Scene scene = new Scene(root);
+        stage.setScene(scene);
+        stage.setResizable(false);
     }
-    
-    public void visualizza(){
-	stage.initModality(Modality.APPLICATION_MODAL);
-	stage.showAndWait();
+
+    public void visualizza() {
+        stage.initModality(Modality.APPLICATION_MODAL);
+        stage.showAndWait();
+        stage.initOwner(GestoreApp.getIstance().getPrimaryStage());
     }
-    
-    
+
 
 }

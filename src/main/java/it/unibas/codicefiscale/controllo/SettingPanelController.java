@@ -24,6 +24,7 @@ package it.unibas.codicefiscale.controllo;
 import com.jfoenix.controls.JFXToggleButton;
 import it.unibas.codicefiscale.Applicazione;
 import it.unibas.codicefiscale.Constanti;
+import it.unibas.codicefiscale.GestoreApp;
 import it.unibas.codicefiscale.modello.Setting;
 import java.net.URL;
 import java.util.ResourceBundle;
@@ -98,14 +99,14 @@ public class SettingPanelController implements Initializable {
         iconAdaptaTheme.setImage(new Image(Constanti.ICON_FUNZIONE_NON_IMPLEMENTATA));
         iconMosterTheme.setImage(new Image(Constanti.ICON_FUNZIONE_NON_IMPLEMENTATA));
         
-        spazioAvatar.setImage(new Image(Applicazione.getIstance().getSetting().getAvatarScelto()));
+        spazioAvatar.setImage(new Image(GestoreApp.getIstance().getSetting().getAvatarScelto()));
         //TODO capire bene questa cosa dei setting dei colori, ricorda che devi gestire anche il cambio tema.
-        attivaSplashScreen.setSelected(Applicazione.getIstance().getSetting().isMostrareSplashScreen());
-        attivaNotificaScura.setSelected(Applicazione.getIstance().getSetting().isNotificaScura());
+        attivaSplashScreen.setSelected(GestoreApp.getIstance().getSetting().isMostrareSplashScreen());
+        attivaNotificaScura.setSelected(GestoreApp.getIstance().getSetting().isNotificaScura());
         labelComingSoonDue.setVisible(false);
         labelComingSoonUno.setVisible(false);
-        bottoneAbilitaInterfaccia.setSelected(Applicazione.getIstance().getSetting().isInterfacciaSmart());
-        bottoneAbilitaNotifiche.setSelected(Applicazione.getIstance().getSetting().isNotificheAbilitate());
+        bottoneAbilitaInterfaccia.setSelected(GestoreApp.getIstance().getSetting().isInterfacciaSmart());
+        bottoneAbilitaNotifiche.setSelected(GestoreApp.getIstance().getSetting().isNotificheAbilitate());
         abilitaNotifiche();
         //inizializzazione icone per pannello cambio avatar
     }
@@ -117,13 +118,13 @@ public class SettingPanelController implements Initializable {
     @FXML
     private void chiudiSetting(MouseEvent event) {
         //TODO chiedi se vuole applicare i cambiamenti, e prima verifica se ci sono cambiamenti.
-        Applicazione.getIstance().getModello().putBean(Constanti.ABILITA_MODIFICHE, false);
+        GestoreApp.getIstance().getModello().putBean(Constanti.ABILITA_MODIFICHE, false);
         spazioeTastoIndietro.setImage(new Image(Constanti.ICONA_INDIETRO_ON));
-        Applicazione.getIstance().getPannelloSetting().getStageSetting().close();
+        GestoreApp.getIstance().getPannelloSetting().getStageSetting().close();
         spazioeTastoIndietro.setImage(new Image(Constanti.ICONA_INDIETRO_OFF));
         LOGGER.debug("Ripristino setting precedenti");
-        Setting precedenti = (Setting) Applicazione.getIstance().getModello().getBean(Constanti.SETTING);
-        Applicazione.getIstance().setSetting(precedenti);
+        Setting precedenti = (Setting) GestoreApp.getIstance().getModello().getBean(Constanti.SETTING);
+        GestoreApp.getIstance().setSetting(precedenti);
         rinizializzaSetting(precedenti);
     }
     
@@ -187,16 +188,16 @@ public class SettingPanelController implements Initializable {
     
     @FXML
     private void abilitaPannelloSceltaAvatar(MouseEvent event) {
-        Applicazione.getIstance().getPannelloSettingAvatar().getStageSetting().showAndWait();
+        GestoreApp.getIstance().getPannelloSettingAvatar().getStageSetting().showAndWait();
         //Image avatar = (Image) Applicazione.getIstance().getModello().getBean(Constanti.AVATAR_SCELTO);
-        String percorso = (String) Applicazione.getIstance().getModello().getBean(Constanti.AVATAR_SCELTO);
+        String percorso = (String) GestoreApp.getIstance().getModello().getBean(Constanti.AVATAR_SCELTO);
         if(percorso == null){
             LOGGER.debug("Nessun avatar");
             //TODO gestire meglio questo caso
             return;
         }
         Image avatar = new Image(percorso);
-        Applicazione.getIstance().getSetting().setAvatarScelto((String) Applicazione.getIstance().getModello().getBean(Constanti.AVATAR_SCELTO));
+        GestoreApp.getIstance().getSetting().setAvatarScelto((String) GestoreApp.getIstance().getModello().getBean(Constanti.AVATAR_SCELTO));
         spazioAvatar.setImage(avatar);
     }
     
@@ -206,7 +207,7 @@ public class SettingPanelController implements Initializable {
 
     @FXML
     private void disabilitaSplash(MouseEvent event) {
-        Applicazione.getIstance().getSetting().setMostrareSplashScreen(attivaSplashScreen.isSelected());
+        GestoreApp.getIstance().getSetting().setMostrareSplashScreen(attivaSplashScreen.isSelected());
     }
 
     @FXML
@@ -215,14 +216,14 @@ public class SettingPanelController implements Initializable {
 //        if(!bottoneAbilitaNotifiche.isSelected()){
 //            return;
 //        }
-        Applicazione.getIstance().getSetting().setNotificaScura(attivaNotificaScura.isSelected());
+        GestoreApp.getIstance().getSetting().setNotificaScura(attivaNotificaScura.isSelected());
     }
     
     @FXML
     private void abilitaCambiamenti(MouseEvent event) {
-        Applicazione.getIstance().getSetting().setInterfacciaSmart(bottoneAbilitaInterfaccia.isSelected());
-        Applicazione.getIstance().getModello().putBean(Constanti.ABILITA_MODIFICHE, true);
-        Applicazione.getIstance().getPannelloSetting().getStageSetting().close();
+        GestoreApp.getIstance().getSetting().setInterfacciaSmart(bottoneAbilitaInterfaccia.isSelected());
+        GestoreApp.getIstance().getModello().putBean(Constanti.ABILITA_MODIFICHE, true);
+        GestoreApp.getIstance().getPannelloSetting().getStageSetting().close();
     }
     
     private void abilitaNotifiche(){
@@ -235,7 +236,7 @@ public class SettingPanelController implements Initializable {
 
     @FXML
     private void statoBottoniNotifiche(MouseEvent event) {
-        Applicazione.getIstance().getSetting().setNotificheAbilitate(bottoneAbilitaNotifiche.isSelected());
+        GestoreApp.getIstance().getSetting().setNotificheAbilitate(bottoneAbilitaNotifiche.isSelected());
         abilitaNotifiche();
     }
 

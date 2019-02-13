@@ -29,6 +29,7 @@ import com.sun.deploy.uitoolkit.impl.fx.HostServicesFactory;
 import com.sun.javafx.application.HostServicesDelegate;
 import it.unibas.codicefiscale.Applicazione;
 import it.unibas.codicefiscale.Constanti;
+import it.unibas.codicefiscale.GestoreApp;
 import it.unibas.codicefiscale.modello.*;
 import it.unibas.codicefiscale.persistenza.DAOException;
 import javafx.event.ActionEvent;
@@ -162,7 +163,7 @@ public class FrameFXController implements Initializable {
         spazioPosizioneQuattro.setImage(new Image(Constanti.ICONA_DONAZIONE));
         spazioPosizioneCinque.setImage(new Image(Constanti.ICONA_CONTATTACI));
         spazioPosizioneSei.setImage(new Image(Constanti.ICONA_CONDIVIDI));
-        if (Applicazione.getIstance().getSetting().isInterfacciaSmart()) {
+        if (GestoreApp.getIstance().getSetting().isInterfacciaSmart()) {
             pannelloBottoniSmart.setVisible(true);
             return;
         }
@@ -170,7 +171,7 @@ public class FrameFXController implements Initializable {
     }
 
     private void riaggiornaInterfacciaGrafica() {
-        Setting setting = Applicazione.getIstance().getSetting();
+        Setting setting = GestoreApp.getIstance().getSetting();
         if (setting != null) {
             LOGGER.debug("Setting non nullo");
             if (!setting.isInterfacciaSmart()) {
@@ -205,7 +206,7 @@ public class FrameFXController implements Initializable {
     }
 
     public void settComboProvincia() {
-        Archivio archivio = Applicazione.getIstance().getArchivio();
+        Archivio archivio = GestoreApp.getIstance().getArchivio();
         if (archivio == null) {
             return;
         }
@@ -251,7 +252,7 @@ public class FrameFXController implements Initializable {
             textCitta.setUnFocusColor(Color.RED);
 
         }
-        if (!Applicazione.getIstance().getArchivio().isPresent(citta)) {
+        if (!GestoreApp.getIstance().getArchivio().isPresent(citta)) {
             errori += "\nDevi iniserire una citta valida mi dispiace";
             textCitta.setUnFocusColor(Color.RED);
         }
@@ -282,23 +283,23 @@ public class FrameFXController implements Initializable {
         }
         if (!errori.trim().isEmpty()) {
             LOGGER.error("Si e' verificato un errore del tipo: \n" + errori);
-            Applicazione.getIstance().getVistaPrincipale().visualizzaMessaggio(errori, true);
+            GestoreApp.getIstance().getVistaPrincipale().visualizzaMessaggio(errori, true);
             return;
         }
         resettaColori();
         Persona persona = new Persona(nome.toLowerCase(), cognome.toLowerCase(), 
                 sesso.toLowerCase(), citta.toLowerCase(), siglaProvincia.toLowerCase());
         persona.setDataNascita(dataNascita);
-        CodiceFiscale codiceFiscale = new CodiceFiscale(Applicazione.getIstance().getArchivio());
+        CodiceFiscale codiceFiscale = new CodiceFiscale(GestoreApp.getIstance().getArchivio());
         String codiceFiscaleString = codiceFiscale.getCodiceFiscale(persona);
         LOGGER.debug("Codice Fiscale calcolato: " + codiceFiscaleString);
         textCodice.setText(codiceFiscaleString.toUpperCase());
         try {
-            if (Applicazione.getIstance().getModello().getBean(Constanti.VISUALIZZA_FEED) == null ||
-                    (boolean) Applicazione.getIstance().getModello().getBean(Constanti.VISUALIZZA_FEED)) {
-                JFXToast.makeText(Applicazione.getIstance().getPrimaryStage(), "Hai una nuova notifica!");
+            if (GestoreApp.getIstance().getModello().getBean(Constanti.VISUALIZZA_FEED) == null ||
+                    (boolean) GestoreApp.getIstance().getModello().getBean(Constanti.VISUALIZZA_FEED)) {
+                JFXToast.makeText(GestoreApp.getIstance().getPrimaryStage(), "Hai una nuova notifica!");
             }
-            if (Applicazione.getIstance().getSetting().isNotificheAbilitate()) {
+            if (GestoreApp.getIstance().getSetting().isNotificheAbilitate()) {
                 creaNotificaGenerato();
             }
         } catch (Exception e) {
@@ -311,7 +312,7 @@ public class FrameFXController implements Initializable {
     private void esciApp(ActionEvent event) {
         try {
             //TODO chiedere se vuole uscire davvero dall'applicazione.
-            Applicazione.getIstance().getdAOGenericoJson().salva((Setting) Applicazione.getIstance().getSetting(), Constanti.PERCORSO_SETTING);
+            GestoreApp.getIstance().getdAOGenericoJson().salva((Setting) GestoreApp.getIstance().getSetting(), Constanti.PERCORSO_SETTING);
         } catch (DAOException ex) {
             LOGGER.error("Si e' verificato un errore del tipo: " + ex.getLocalizedMessage());
             ex.printStackTrace();
@@ -322,8 +323,8 @@ public class FrameFXController implements Initializable {
     @FXML
     private void visualizzaInfo(ActionEvent event) {
         try {
-            Applicazione.getIstance().getInfoAutori().init();
-            Applicazione.getIstance().getInfoAutori().visualizza();
+            GestoreApp.getIstance().getInfoAutori().init();
+            GestoreApp.getIstance().getInfoAutori().visualizza();
         } catch (Exception ex) {
             ex.printStackTrace();
         }
@@ -332,8 +333,8 @@ public class FrameFXController implements Initializable {
     @FXML
     private void visualizzaPrivacy(ActionEvent event) {
         //TODO stavi capendo come funzionava il pannello di risposta
-        Applicazione.getIstance().getPannelloCopyright().init();
-        Applicazione.getIstance().getPannelloCopyright().visualizza();
+        GestoreApp.getIstance().getPannelloCopyright().init();
+        GestoreApp.getIstance().getPannelloCopyright().visualizza();
     }
 
     @FXML
@@ -341,20 +342,21 @@ public class FrameFXController implements Initializable {
         //TODO generalizzare questo metodo per rispondere a qualcosa di più generico
         if (spazioNotifica.getImage().equals(immagineNotificheZero)) {
             LOGGER.debug("Ok nessuna notifica");
-            JFXToast.makeText(Applicazione.getIstance().getPrimaryStage(), "Non ci sono notifiche");
+            JFXToast.makeText(GestoreApp.getIstance().getPrimaryStage(), "Non ci sono notifiche");
             //TODO settare azioni periodiche
             // dare un occhiata a http://www.baeldung.com/java-executor-service-tutorial
             return;
         }
-        Applicazione.getIstance().getStagePannelloFeed().initModality(Modality.APPLICATION_MODAL);
+        GestoreApp.getIstance().getStagePannelloFeed().initModality(Modality.APPLICATION_MODAL);
         spazioNotifica.setImage(immagineNotificheZero);
-        Applicazione.getIstance().getStagePannelloFeed().showAndWait();
+        GestoreApp.getIstance().getStagePannelloFeed().showAndWait();
+        GestoreApp.getIstance().getStagePannelloFeed().initOwner(GestoreApp.getIstance().getPrimaryStage());
 
     }
 
     private void creaNotificaGenerato() {
         Notifications notifica = Notifications.create();
-        if (Applicazione.getIstance().getSetting().isNotificaScura()) {
+        if (GestoreApp.getIstance().getSetting().isNotificaScura()) {
             notifica.darkStyle();
         }
         notifica.title("Codice fiscale")
@@ -362,7 +364,7 @@ public class FrameFXController implements Initializable {
                 .graphic(new ImageView(new Image(Constanti.ICONA_CONFERMA_NOTIFICA)))
                 .position(Pos.BOTTOM_RIGHT);
         notifica.show();
-        Boolean visualizza = (Boolean) Applicazione.getIstance().getModello().getBean(Constanti.VISUALIZZA_FEED);
+        Boolean visualizza = (Boolean) GestoreApp.getIstance().getModello().getBean(Constanti.VISUALIZZA_FEED);
         if (visualizza == null || visualizza == true) {
             spazioNotifica.setImage(immagineNotificheUno);
         }
@@ -398,7 +400,7 @@ public class FrameFXController implements Initializable {
         LOGGER.debug("Ok proviamo ad indovinare la provincia");
         String testoInserito = textCitta.getText() + event.getText();
         LOGGER.debug("Testo iniserito attualmente nel edit tex: " + testoInserito);
-        Comune comune = Applicazione.getIstance().getArchivio().serachComune(testoInserito);
+        Comune comune = GestoreApp.getIstance().getArchivio().serachComune(testoInserito);
         if (comune != null) {
             List<String> set = comboProvincia.getItems();
             for (int i = 0; i < set.size(); i++) {
@@ -414,20 +416,20 @@ public class FrameFXController implements Initializable {
     private void apriSetting(MouseEvent event) {
         try {
             //TODO sfruttare l'animazione per visualizzare i setting reali dopo l'animazione e magari prima si visualizzano solo i setting non reali.
-            Applicazione.getIstance().getModello().putBean(Constanti.SETTING, Applicazione.getIstance().getSetting().clone());
+            GestoreApp.getIstance().getModello().putBean(Constanti.SETTING, GestoreApp.getIstance().getSetting().clone());
         } catch (CloneNotSupportedException ex) {
             throw new IllegalArgumentException("Metodo clone non valido:  " + ex.getLocalizedMessage());
         }
-        Applicazione.getIstance().getPannelloSetting().getStageSetting().showAndWait();
-        boolean abilitaModifiche = (boolean) Applicazione.getIstance().getModello().getBean(Constanti.ABILITA_MODIFICHE);
+        GestoreApp.getIstance().getPannelloSetting().getStageSetting().showAndWait();
+        boolean abilitaModifiche = (boolean) GestoreApp.getIstance().getModello().getBean(Constanti.ABILITA_MODIFICHE);
         if (abilitaModifiche) {
             LOGGER.debug("Abilitazione nuovi setting");
             riaggiornaInterfacciaGrafica();
             return;
         }
         LOGGER.debug("Ripristino setting precedenti");
-        Setting precedenti = (Setting) Applicazione.getIstance().getModello().getBean(Constanti.SETTING);
-        Applicazione.getIstance().setSetting(precedenti);
+        Setting precedenti = (Setting) GestoreApp.getIstance().getModello().getBean(Constanti.SETTING);
+        GestoreApp.getIstance().setSetting(precedenti);
     }
 
     @FXML
@@ -447,25 +449,25 @@ public class FrameFXController implements Initializable {
 
     @FXML
     private void apriWebDonazioni(MouseEvent event) {
-        HostServicesDelegate hostServices = HostServicesFactory.getInstance(Applicazione.getIstance());
+        HostServicesDelegate hostServices = HostServicesDelegate.getInstance(GestoreApp.getIstance().getApp());
         hostServices.showDocument(Constanti.SITO_DONAZIONI);
     }
 
     @FXML
     private void apriPannelloLicense(MouseEvent event) {
-        Applicazione.getIstance().getPannelloLicense().show();
+        GestoreApp.getIstance().getPannelloLicense().show();
     }
 
     @FXML
     private void segnalaQualcosa(MouseEvent event){
-        JFXToast.makeText(Applicazione.getIstance().getPrimaryStage(), "Funzione ancora non implementata");
+        JFXToast.makeText(GestoreApp.getIstance().getPrimaryStage(), "Funzione ancora non implementata");
     }
     @FXML
     private void condividiAmici(MouseEvent event){
-        JFXToast.makeText(Applicazione.getIstance().getPrimaryStage(), "Funzione ancora non implementata");
+        JFXToast.makeText(GestoreApp.getIstance().getPrimaryStage(), "Funzione ancora non implementata");
     }
     @FXML
     private void salvaCodiceGenerato(MouseEvent event){
-        JFXToast.makeText(Applicazione.getIstance().getPrimaryStage(), "Funzione ancora non implementata");
+        JFXToast.makeText(GestoreApp.getIstance().getPrimaryStage(), "Funzione ancora non implementata");
     }
 }

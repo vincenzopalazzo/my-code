@@ -8,10 +8,10 @@ Refactoring codice
 Aggiunta licenza GNU GPL
 
 10-10-2018
-Aggiunto il supporto completo a maven. (fatto)
+Aggiunto il supporto completo a maven. (fixato)
 
 --11-10-2018 --
-Devi risolvere il problema alla repo maven di JFXToast (Ok risolto)
+Devi risolvere il problema alla repo maven di JFXToast (fixato)
 
 -- 14-10-2018 --
 Ho iniziato ad inserire qualche cambiamento nei pannelli secondari stile material (guarda pannello feed)
@@ -20,13 +20,21 @@ rifinito il pannello feed anche a livello di codice.
 aggiunto al link del pannello setting il link per la form google
 livello log impostato ad info
 
-
+31/01/2018
+Ho effettuato l'adattamento alle norma di javafx, ora mancano solo l'adattamento ai thread
+Un metodo di visualizzazione della licenza nel programma. (fixato)
+Problema all'avvio con il codice xml, qualche setting è rimasto settato e ottengo dehl'errori (fixato)
 
 ------- PROBLEMI PERSISTENTI-----------
-Problema all'avvio con il codice xml, qualche setting è rimasto settato e ottengo dehl'errori all'avvio
-leggere i TODO.
-Un metodo di visualizzazione della licenza nel programma. (Fatto)
 Guarda Vista principale.
 I pannelli devono restituire uno stage, perchè altrimenti non riesco ad inizializzare correttamente il Toast
-Bisogna completare anche l'interfaccia secondaria.
-risolvere problema delle cartelle dati per l'esecuzione su altri pc
+risolvere problema delle cartelle dati per l'esecuzione su altri pc (parzialmente fixato)
+aggiungere il metodo initOwner (parzialmente fixato)
+usare i thread scritti per javafx https://stackoverflow.com/questions/30249493/using-threads-to-make-database-requests (parzialmente fixato)
+Lo splash screen si visualizza solo in modalita Modale e in quella modale non viene inizializzato. (parzialmente fixato)
+problema di gestione thread java fx.
+
+13-02-2019 cambia il caricamebto degli eventi all'interno del medietor, prova ad inizializzare le proprietà setto nelle medietor
+
+--------- NEXT STEP -------
+Refactoring completo dell'inizializzazione dell'applicazione, compreso il patter medietor degli eventi e riscrivere completamente la gestione dei thread.

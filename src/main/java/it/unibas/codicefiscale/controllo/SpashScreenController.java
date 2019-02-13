@@ -23,26 +23,29 @@ package it.unibas.codicefiscale.controllo;
 
 import com.jfoenix.controls.JFXProgressBar;
 import it.unibas.codicefiscale.Constanti;
+import it.unibas.codicefiscale.GestoreApp;
+import it.unibas.codicefiscale.controllo.eventi.EventCaricaArchivio;
+import it.unibas.codicefiscale.controllo.eventi.EventConfigura;
+import it.unibas.codicefiscale.controllo.eventi.EventProgressBar;
 import javafx.fxml.FXML;
 import javafx.fxml.Initializable;
 import javafx.scene.control.Label;
 import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
-import javafx.scene.layout.Pane;
 import javafx.scene.paint.Color;
-
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import java.net.URL;
 import java.util.ResourceBundle;
-import java.util.Timer;
-import java.util.TimerTask;
+
 
 /**
  * @author https://github.com/vincenzopalazzo
  */
 public class SpashScreenController implements Initializable {
 
-    @FXML
-    private Pane pannelloSfondo;
+    private static final Logger LOGGER = LoggerFactory.getLogger(SpashScreenController.class);
+
     @FXML
     private ImageView splashScreenImage;
     @FXML
@@ -50,33 +53,17 @@ public class SpashScreenController implements Initializable {
     @FXML
     private Label labelSplash;
 
-
-    /**
-     * Initializes the controller class.
-     */
     @Override
     public void initialize(URL url, ResourceBundle rb) {
-        System.out.print("Qualcosa viene inizializzato \n");
+        //TODO cambia il caricamebto degli eventi all'interno del medietor, prova ad inizializzare le proprietà setto nelle medietor
+        GestoreApp.getIstance().getEventMedietor().addEvent(Constanti.CONFIGURA_EVENTO, new EventConfigura());
+        GestoreApp.getIstance().getEventMedietor().addEvent(Constanti.CARICA_ARCHIVIO_EVENTO, new EventCaricaArchivio());
+
+        GestoreApp.getIstance().getModello().putBean(Constanti.PROGRESS_BAR, progressBar);
+        GestoreApp.getIstance().getModello().putBean(Constanti.VALORE_PROGRESS_BAR, new Double(0));
+        LOGGER.debug("Inizializzazione spalsh screen");
         splashScreenImage.setImage(new Image(Constanti.SPLASH_SCREEN));
-        progressBar.setProgress(0.5);
-        gestisciProgressBar();
         labelSplash.setTextFill(Color.web("#42FFFF"));
+        GestoreApp.getIstance().getEventMedietor().runEvent(Constanti.CONFIGURA_EVENTO);
     }
-
-    public JFXProgressBar getProgressBar() {
-        return progressBar;
-    }
-
-    public void gestisciProgressBar() {
-        double progresso = 0.5;
-        Timer time = new Timer();
-        time.schedule(new TimerTask() {
-            @Override
-            public void run() {
-                progressBar.setProgress(progresso + 0.5);
-            }
-        }, 2000, 2000);
-    }
-
-
 }

@@ -14,11 +14,14 @@
 <?import javafx.scene.layout.Pane?>
 <?import javafx.scene.text.Font?>
 
-<BorderPane fx:id="frame" prefHeight="302.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="it.unibas.codicefiscale.controllo.FrameFXController">
+<BorderPane fx:id="frame" prefHeight="302.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.171"
+            xmlns:fx="http://javafx.com/fxml/1" fx:controller="it.unibas.codicefiscale.controllo.FrameFXController">
    <center>
       <AnchorPane prefHeight="313.0" prefWidth="600.0" style="-fx-background-color: #c0c0c0;">
          <children>
-            <MenuBar fx:id="barraMenu" layoutX="-1.0" layoutY="24.0" prefHeight="25.0" prefWidth="600.0" style="-fx-background-color: #c0c0c0;" AnchorPane.leftAnchor="-1.0" AnchorPane.rightAnchor="1.0" AnchorPane.topAnchor="-2.0">
+            <MenuBar fx:id="barraMenu" layoutX="-1.0" layoutY="24.0" prefHeight="25.0" prefWidth="600.0"
+                     style="-fx-background-color: #c0c0c0;" AnchorPane.leftAnchor="-1.0" AnchorPane.rightAnchor="1.0"
+                     AnchorPane.topAnchor="-2.0">
               <menus>
                 <Menu mnemonicParsing="false" text="File">
                   <items>
@@ -38,7 +41,10 @@
                 </Menu>
               </menus>
             </MenuBar>
-            <JFXTextField fx:id="textCodice" alignment="CENTER" focusColor="#05daff" layoutX="59.0" layoutY="257.0" prefHeight="26.0" prefWidth="482.0" promptText="IL TUO CODICE FISCALE VERRA CALCOLATO QUI" style="-fx-effect: -fx-text-fill;" unFocusColor="#3105f7" AnchorPane.bottomAnchor="65.0" AnchorPane.leftAnchor="59.0" AnchorPane.rightAnchor="59.0">
+            <JFXTextField fx:id="textCodice" alignment="CENTER" focusColor="#05daff" layoutX="59.0" layoutY="257.0"
+                          prefHeight="26.0" prefWidth="482.0" promptText="IL TUO CODICE FISCALE VERRA CALCOLATO QUI"
+                          unFocusColor="#3105f7" AnchorPane.bottomAnchor="65.0"
+                          AnchorPane.leftAnchor="59.0" AnchorPane.rightAnchor="59.0">
                <font>
                   <Font name="System Bold Italic" size="17.0" />
                </font>

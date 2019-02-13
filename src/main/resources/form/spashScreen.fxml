@@ -6,13 +6,14 @@
 <?import javafx.scene.layout.Pane?>
 <?import javafx.scene.text.Font?>
 
-<Pane fx:id="pannelloSfondo" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="233.0" prefWidth="600.0" style="-fx-background-color: transparent;" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="it.unibas.codicefiscale.controllo.SpashScreenController">
-   <children>
-      <ImageView fx:id="splashScreenImage" fitHeight="208.0" fitWidth="600.0" layoutX="1.0" pickOnBounds="true" smooth="false" />
-      <JFXProgressBar fx:id="progressBar" layoutX="-2.0" layoutY="209.0" prefHeight="4.0" prefWidth="600.0" progress="0.0" style="-fx-background-color: #0000E0;" />
-      <Label fx:id="labelSplash" alignment="CENTER" layoutX="77.0" layoutY="211.0" prefHeight="18.0" prefWidth="412.0" text="Sto cercando di sistemare il casino che c'e' qui dentro" textAlignment="CENTER" textFill="#0a0a0a">
-         <font>
-            <Font name="System Bold Italic" size="13.0" />
-         </font></Label>
-   </children>
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="233.0" prefWidth="600.0" style="-fx-background-color: transparent;" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="it.unibas.codicefiscale.controllo.SpashScreenController">
+    <children>
+        <ImageView fx:id="splashScreenImage" fitHeight="208.0" fitWidth="600.0" layoutX="1.0" pickOnBounds="true" smooth="false" />
+        <JFXProgressBar fx:id="progressBar" layoutX="-2.0" layoutY="209.0" prefHeight="4.0" prefWidth="600.0" progress="0.0" style="-fx-background-color: #0000E0;" />
+        <Label fx:id="labelSplash" alignment="CENTER" layoutX="77.0" layoutY="211.0" prefHeight="18.0" prefWidth="412.0" text="Sto cercando di sistemare il casino che c'e' qui dentro" textAlignment="CENTER" textFill="#0a0a0a">
+            <font>
+                <Font name="System Bold Italic" size="13.0" />
+            </font>
+        </Label>
+    </children>
 </Pane>
