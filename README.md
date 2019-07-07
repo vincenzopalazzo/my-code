@@ -3,14 +3,9 @@
 
 ![ICON](https://github.com/vincenzopalazzo/my-code/blob/master/src/main/resources/icon/splashscreeMyCode.png)
 
-## Getting Started
-
-Abbiamo rilasciato una versione eseguibile solo per OS UNIX likes, stiamo lavorando su installer per ogni OS.
-Per verificare se l'applicazione è eseguibile usando un IDE leggi lo status infondo al readme
-
 ### Installing
 
-A breve arriverà un modo per installarlo e lanciare l'applicazione con il controllo di eventuali nuove release
+Abbiamo rilasciato la prima version (0.7) con gl'installer nativi per Linux e Windows
 
 ## Running the tests
 
@@ -49,11 +44,7 @@ Il progetto è sotto una licenza GPL v3 - guarda [LICENSE.md](https://github.com
 ## Status
 [![Runnable Status](https://img.shields.io/badge/MyCode-status-red.svg)]() 
 
-L'ultimo commit dell'applicazione apporta adeguamenti alla filosofia del framework javafx (notevole refactoring su tutta la generazione della grafica),
-è una versione non funzionante ci sono problemi che vengono riportati nel file todo.txt
-Come presentato nel file il prossimo aggiornamento apporterà un notevole refactoring nella parte del codice che riguarda l'avvio dell'applicazione
-per il momento l'applicazione riporta eccezioni sparse (questo è molto male lo sappiamo), salvo altri eventuali problemi verranno rilasciate anche 
-gli installer ufficiali al prossimo aggiornamento
+Abbiamo corretto dei bug sul running del progetto ed abbiamo rilasciato i primi installer nativi per windows e linux
 
 ## Version Stable
-[![Runnable Status](https://img.shields.io/badge/Installer-stable-green.svg)](https://github.com/vincenzopalazzo/my-code/releases/tag/V0.6) 
+[![Runnable Status](https://img.shields.io/badge/Installer-stable-green.svg)](https://github.com/vincenzopalazzo/my-code/releases/tag/V0.7) 
