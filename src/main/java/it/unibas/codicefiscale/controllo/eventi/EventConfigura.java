@@ -24,7 +24,7 @@ public class EventConfigura extends EventProgressBar {
         Timer timer = new Timer(true);
         timer.schedule(new TimerTask() { //Non funziona questo incremento, rivedere il codice, ho cancellato un po di cose e non riesco a rimetterlo apposto per ora
             @Override
-            public void run() {
+            public synchronized void run() {
                 LOGGER.debug("Chiamo carica archivio in timer thread");
                 GestoreApp.getIstance().getEventMedietor().runEvent(Constanti.CARICA_ARCHIVIO_EVENTO);
             }

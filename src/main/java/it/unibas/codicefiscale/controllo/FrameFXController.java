@@ -25,9 +25,7 @@ import com.jfoenix.controls.JFXButton;
 import com.jfoenix.controls.JFXComboBox;
 import com.jfoenix.controls.JFXDatePicker;
 import com.jfoenix.controls.JFXTextField;
-import com.sun.deploy.uitoolkit.impl.fx.HostServicesFactory;
 import com.sun.javafx.application.HostServicesDelegate;
-import it.unibas.codicefiscale.Applicazione;
 import it.unibas.codicefiscale.Constanti;
 import it.unibas.codicefiscale.GestoreApp;
 import it.unibas.codicefiscale.modello.*;
@@ -133,7 +131,7 @@ public class FrameFXController implements Initializable {
         inizializzaToolTip();
         riaggiornaInterfacciaGrafica();
     }
-
+    
     private void inizializzaToolTip() {
         bottoneCalcola.setTooltip(new Tooltip("Calcola il codice fiscale con i dati iniseriti"));
         textCitta.setTooltip(new Tooltip("Inserisci la citta di nascita"));
@@ -205,12 +203,15 @@ public class FrameFXController implements Initializable {
         comboSesso.getItems().add("F");
     }
 
-    public void settComboProvincia() {
-        Archivio archivio = GestoreApp.getIstance().getArchivio();
+    public synchronized void settComboProvincia() {
+        //Archivio archivio = (Archivio) GestoreApp.getIstance().getModello().getBean(Constanti.ARCHIVIO);
+        Archivio archivio = (Archivio) GestoreApp.getIstance().getArchivio();
         if (archivio == null) {
+            LOGGER.warn("Archivio null");
             return;
         }
         Set<String> sigle = new HashSet<>();
+        LOGGER.debug("Comuni caricati: " + archivio.getComuni().size());
         for (Comune comune : archivio.getComuni()) {
             sigle.add(comune.getSiglaProvincia());
         }

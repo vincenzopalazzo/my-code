@@ -23,13 +23,9 @@ package it.unibas.codicefiscale.vista;
 
 import it.unibas.codicefiscale.Constanti;
 import it.unibas.codicefiscale.GestoreApp;
-import javafx.application.Platform;
-import javafx.concurrent.Task;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
 import javafx.scene.Scene;
-import javafx.scene.layout.BorderPane;
-import javafx.scene.layout.Pane;
 import javafx.scene.paint.Color;
 import javafx.stage.Stage;
 import javafx.stage.StageStyle;

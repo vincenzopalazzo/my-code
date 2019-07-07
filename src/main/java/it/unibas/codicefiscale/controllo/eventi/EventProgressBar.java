@@ -20,8 +20,8 @@ public abstract class EventProgressBar extends Task<Void> {
 
     @Override
     //TODO rivedere questo metodo
-    protected void updateProgress(double workDone, double valueNull) {
-        if(workDone < VALUE_PROGRESSION_MAX){
+    protected synchronized void updateProgress(double workDone, double valueNull) {
+        if(workDone <= VALUE_PROGRESSION_MAX){
             LOGGER.debug("progresso da setare: " + workDone);
             ProgressBar progressBar = (ProgressBar) GestoreApp.getIstance().getModello().getBean(Constanti.PROGRESS_BAR);
             progressBar.setProgress(workDone);

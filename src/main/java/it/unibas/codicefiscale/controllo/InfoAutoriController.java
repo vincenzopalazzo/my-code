@@ -22,7 +22,6 @@
 package it.unibas.codicefiscale.controllo;
 
 import com.jfoenix.controls.JFXTextArea;
-import it.unibas.codicefiscale.Applicazione;
 import it.unibas.codicefiscale.Constanti;
 
 import java.net.URL;
@@ -67,7 +66,7 @@ public class InfoAutoriController implements Initializable {
 
     private void settaImagini() {
         vincenzoAvatar.setImage(new Image(Constanti.AVATAR_VINZ));
-        stafnoAvatar.setImage(new Image(Constanti.AVATAR_VINZ));
+        //stafnoAvatar.setImage(new Image(Constanti.AVATAR_VINZ));
     }
 
     private void settingIniziale() {
@@ -76,7 +75,11 @@ public class InfoAutoriController implements Initializable {
 
     @FXML
     private void visualizzaInfoVincenzo(MouseEvent mouseEvent) {
-        JFXToast.makeText(GestoreApp.getIstance().getPrimaryStage(), "Funzione ancora non implementata");
+        descrizione.setText("Ciao sono Vincenzo studente dell'universita' della Basilicata\n"
+                + "Da circa un anno ho approfondito tutti i concetti riguardanti l'intefacce grafiche"
+                + "di Java."
+                + "\nSono un contributore del progetto Material-UI-Swing " + "https://github.com/atarw/material-ui-swing"
+                + "\n \nE Possibile trovarmi su github al seguente link: " + "https://vincenzopalazzo.github.io");
     }
 
     @FXML

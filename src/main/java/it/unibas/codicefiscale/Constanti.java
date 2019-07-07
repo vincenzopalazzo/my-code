@@ -104,6 +104,8 @@ public class Constanti {
     public static final String VISUALIZZA_FEED = "VISUALIZZA_FEED";
     public static final String PROGRESS_BAR = "PROGRESS_BAR";
     public static final String VALORE_PROGRESS_BAR = "VALORE_PROGRESS_BAR";
+    public static final String ARCHIVIO = "ARCHIVIO";
+
 
     //TODO questo deve essere modificato i setting devono essere in maniera separata dall'applicazione oppure 
     //dare la possibilita di scegliere

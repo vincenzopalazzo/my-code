@@ -3,8 +3,6 @@ package it.unibas.codicefiscale;
 import it.unibas.codicefiscale.controllo.FrameFXController;
 import it.unibas.codicefiscale.controllo.SettingPanelController;
 import it.unibas.codicefiscale.controllo.SpashScreenController;
-import it.unibas.codicefiscale.controllo.eventi.EventCaricaArchivio;
-import it.unibas.codicefiscale.controllo.eventi.EventConfigura;
 import it.unibas.codicefiscale.controllo.eventi.EventMedietor;
 import it.unibas.codicefiscale.modello.Archivio;
 import it.unibas.codicefiscale.modello.License;
@@ -16,7 +14,6 @@ import it.unibas.codicefiscale.persistenza.DAOGenericoJson;
 import it.unibas.codicefiscale.persistenza.IDAOArchivio;
 import it.unibas.codicefiscale.vista.*;
 import javafx.application.Application;
-import javafx.application.HostServices;
 import javafx.application.Platform;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
@@ -24,7 +21,6 @@ import javafx.stage.StageStyle;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import javax.swing.*;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 
@@ -35,6 +31,10 @@ public class GestoreApp {
 
     private static final GestoreApp SINGLETON = new GestoreApp();
     private static final Logger LOGGER = LoggerFactory.getLogger(GestoreApp.class);
+    
+    public static GestoreApp getIstance() {
+        return SINGLETON;
+    }
 
     private VistaPrincipale vistaPrincipale = new VistaPrincipale();
     private Archivio archivio;
@@ -108,6 +108,10 @@ public class GestoreApp {
         return dAOGenericoJson;
     }
 
+    public void setArchivio(Archivio archivio) {
+        this.archivio = archivio;
+    }
+    
     public PannelloFeed getPannelloFeed() {
         return pannelloFeed;
     }
@@ -145,10 +149,6 @@ public class GestoreApp {
         return vistaPrincipale;
     }
 
-    public static GestoreApp getIstance() {
-        return SINGLETON;
-    }
-
     public Archivio getArchivio() {
         return archivio;
     }
@@ -159,6 +159,10 @@ public class GestoreApp {
 
     public EventMedietor getEventMedietor() {
         return eventMedietor;
+    }
+    
+    public void loadArchivio() throws DAOException{
+        archivio = daoArchivio.carica(Constanti.NOMEFILE);
     }
 
     public void init() {
@@ -181,13 +185,14 @@ public class GestoreApp {
         pannelloCopyright = new PannelloCopyright();
         infoAutori = new InfoAutori();
         vistaPrincipale = new VistaPrincipale();
-        vistaPrincipale.load();
+        
         frameFXController = new FrameFXController();
         spashScreenController = new SpashScreenController();
         settingPanelController = new SettingPanelController();
     }
 
     public void run() {
+        vistaPrincipale.load();
         Scene scene = new Scene(vistaPrincipale.getRoot());
         primaryStage.setScene(scene);
         primaryStage.initStyle(StageStyle.DECORATED);

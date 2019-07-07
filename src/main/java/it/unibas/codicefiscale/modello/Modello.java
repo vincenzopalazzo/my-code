@@ -32,11 +32,11 @@ public class Modello {
     
     private Map<String, Object> bean = new HashMap<>();
     
-    public Object getBean(String key){
+    public synchronized Object getBean(String key){
 	return bean.get(key);
     }
     
-    public void putBean(String key, Object value){
+    public synchronized void putBean(String key, Object value){
 	bean.put(key, value);
     }
 }

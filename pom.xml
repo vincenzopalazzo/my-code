@@ -147,37 +147,13 @@
                 <artifactId>javafx-maven-plugin</artifactId>
                 <version>8.8.3</version>
                 <configuration>
-                    <vendor>Universita' della Basilicata</vendor>
+                    <vendor>https://vincenzopalazzo.github.io/</vendor>
                     <mainClass>it.unibas.codicefiscale.Applicazione</mainClass>
                     <appName>MyCode</appName>
                     <allPermissions>true</allPermissions>
                 </configuration>
             </plugin>
-
-            <plugin>
-                <groupId>com.zenjava</groupId>
-                <artifactId>javafx-maven-plugin</artifactId>
-                <version>8.8.3</version>
-                <configuration>
-                    <vendor>Universita' della Basilicata</vendor>
-                    <mainClass>it.unibas.codicefiscale.Applicazione</mainClass>
-                    <appName>MyCode</appName>
-                    <allPermissions>true</allPermissions>
-                </configuration>
-            </plugin>
-
-            <plugin>
-                <groupId>com.zenjava</groupId>
-                <artifactId>javafx-maven-plugin</artifactId>
-                <version>8.8.3</version>
-                <configuration>
-                    <vendor>Universita' della Basilicata</vendor>
-                    <mainClass>it.unibas.codicefiscale.Applicazione</mainClass>
-                    <appName>MyCode</appName>
-                    <allPermissions>true</allPermissions>
-                </configuration>
-            </plugin>
-
+            
         </plugins>
     </build>
 
